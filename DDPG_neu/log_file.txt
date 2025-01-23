@@ -1,0 +1,14 @@
+cuda:0
+Episode 1000 	 avg length: 95 	 reward: -7.895439970519663
+Episode 2000 	 avg length: 104 	 reward: -6.728206771812935
+Episode 3000 	 avg length: 168 	 reward: -21.562656800973883
+Episode 4000 	 avg length: 144 	 reward: -12.696079164458038
+Episode 5000 	 avg length: 141 	 reward: -9.310280594305791
+Episode 6000 	 avg length: 142 	 reward: -11.749288595211855
+Episode 7000 	 avg length: 131 	 reward: -10.2534796473425
+Episode 8000 	 avg length: 100 	 reward: -7.9998263302849795
+Episode 9000 	 avg length: 128 	 reward: -11.816165268847458
+########## Saving a checkpoint... ##########
+Episode 10000 	 avg length: 130 	 reward: -13.598114083422175
+Episode 11000 	 avg length: 102 	 reward: -9.13297635862621
+Episode 12000 	 avg length: 150 	 reward: -18.851602817540858
