@@ -112,7 +112,7 @@ class SAC(object):
         self.policy = models.SACActor(dim=num_inputs, block_type=actor, num_blocks=num_blocks, hidden_dim= args.hidden_size, action_dim=action_space.shape[0],action_space = action_space).to(device=self.device)
         self.policy_optim = Adam(self.policy.parameters(), lr=args.lr)
         
-    def select_action(self, state, evaluate=False):
+    def act(self, state, evaluate=False):
         state = torch.FloatTensor(state).to(self.device).unsqueeze(0)
         if evaluate is False:
             action, _, _ = self.policy.sample(state)
