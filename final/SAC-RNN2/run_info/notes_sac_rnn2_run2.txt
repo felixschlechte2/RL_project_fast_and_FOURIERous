@@ -1,0 +1,20 @@
+- SAC mit RNN mit architektur 2
+- SAC vs s unten
+- alle rewards sind angestellt: closenes to puck, touch puck, puck direction
+- lasse es für ? 23 h laufen / ~ 21.000 Epochen / ~ 3.000.000 steps 
+- für args siehe sac_rnn2_run2_args.pkl
+- + layer normalization
+- reward * 100
+- Agent hat 4 outputs und im Buffer wird nur Aktion vom agent gespeichert 
+- testing vs strong
+
+
+def which_opp(episode):
+    if (episode // 500) % 4 == 0: 
+        return weak_opp, "weak_opp" # strong opp
+    if (episode // 500) % 4 == 1: 
+        return strong_opp, "strong_opp" # strong opp
+    if (episode // 500) % 4 == 3: 
+        return old, "self_old" # strong opp
+    if (episode // 500) % 4 == 2: 
+        return qr_sac, "qr_sac_run6" # strong opp

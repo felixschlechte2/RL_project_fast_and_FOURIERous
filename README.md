@@ -3,7 +3,7 @@
 In the folder final you can find our code for:
 - SAC_pendulum (first attempts on Pendulum environment)
 - SAC_hockey (first attmpts on Hockey environment)
-- SAC-RNN (SAC combined with an RNN architecture)
+- SAC-RNN2 (SAC combined with an RNN architecture)
 - QR-SAC (extension of SAC)
 - SAC-HER (...)
 - SIMBA (...)

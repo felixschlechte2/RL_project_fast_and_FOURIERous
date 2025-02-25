@@ -1,0 +1,9 @@
+- SAC mit RNN mit architektur 2
+- SAC vs weak und strong alle 5000 wird gewechselt
+- alle rewards sind angestellt: closenes to puck, touch puck, puck direction
+- lasse es für ? 23 h laufen / ~ 21.000 Epochen / ~ 3.000.000 steps 
+- für args siehe sac_rnn2_run1_args.pkl
+- + layer normalization
+- reward * 100
+- Agent hat 4 outputs und im Buffer wird nur Aktion vom agent gespeichert 
+- testing vs strong

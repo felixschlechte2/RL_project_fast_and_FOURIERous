@@ -1,0 +1,1611 @@
+cuda:0
+cuda
+cuda
+Episode: 10, opp: weak_opp, total numsteps: 1674, episode steps: 70, reward: -1235.56
+Episode: 20, opp: weak_opp, total numsteps: 2749, episode steps: 250, reward: -106.87
+Episode: 30, opp: weak_opp, total numsteps: 3861, episode steps: 245, reward: 507.01
+Episode: 40, opp: weak_opp, total numsteps: 4851, episode steps: 34, reward: 1046.35
+Episode: 50, opp: weak_opp, total numsteps: 6144, episode steps: 70, reward: -1023.92
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -797.13
+----------------------------------------
+Episode: 60, opp: weak_opp, total numsteps: 7300, episode steps: 163, reward: -1399.83
+Episode: 70, opp: weak_opp, total numsteps: 8302, episode steps: 38, reward: -1088.25
+Episode: 80, opp: weak_opp, total numsteps: 9224, episode steps: 45, reward: -1154.06
+Episode: 90, opp: weak_opp, total numsteps: 10609, episode steps: 250, reward: -447.45
+Episode: 100, opp: weak_opp, total numsteps: 11684, episode steps: 52, reward: -1156.04
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -685.48
+----------------------------------------
+Episode: 110, opp: weak_opp, total numsteps: 12562, episode steps: 250, reward: -3058.76
+Episode: 120, opp: weak_opp, total numsteps: 13760, episode steps: 40, reward: 1029.98
+Episode: 130, opp: weak_opp, total numsteps: 14964, episode steps: 76, reward: -1135.75
+Episode: 140, opp: weak_opp, total numsteps: 16014, episode steps: 250, reward: -296.3
+Episode: 150, opp: weak_opp, total numsteps: 16992, episode steps: 162, reward: 974.92
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -941.41
+----------------------------------------
+Episode: 160, opp: weak_opp, total numsteps: 18492, episode steps: 166, reward: -1172.0
+Episode: 170, opp: weak_opp, total numsteps: 20288, episode steps: 232, reward: -1358.3
+Episode: 180, opp: weak_opp, total numsteps: 21140, episode steps: 65, reward: 999.96
+Episode: 190, opp: weak_opp, total numsteps: 22256, episode steps: 88, reward: -1318.46
+Episode: 200, opp: weak_opp, total numsteps: 23741, episode steps: 62, reward: -958.72
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -548.2
+----------------------------------------
+Episode: 210, opp: weak_opp, total numsteps: 25487, episode steps: 143, reward: 562.04
+Episode: 220, opp: weak_opp, total numsteps: 26443, episode steps: 44, reward: -1105.28
+Episode: 230, opp: weak_opp, total numsteps: 27715, episode steps: 250, reward: -768.21
+Episode: 240, opp: weak_opp, total numsteps: 29199, episode steps: 250, reward: 103.23
+Episode: 250, opp: weak_opp, total numsteps: 30801, episode steps: 24, reward: 1020.27
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -660.2
+----------------------------------------
+Episode: 260, opp: weak_opp, total numsteps: 32202, episode steps: 85, reward: -1045.39
+Episode: 270, opp: weak_opp, total numsteps: 33643, episode steps: 149, reward: -1301.11
+Episode: 280, opp: weak_opp, total numsteps: 34724, episode steps: 82, reward: -1101.2
+Episode: 290, opp: weak_opp, total numsteps: 35701, episode steps: 51, reward: -1155.21
+Episode: 300, opp: weak_opp, total numsteps: 37016, episode steps: 110, reward: -1215.5
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1086.57
+----------------------------------------
+Episode: 310, opp: weak_opp, total numsteps: 38370, episode steps: 30, reward: 1002.48
+Episode: 320, opp: weak_opp, total numsteps: 39265, episode steps: 116, reward: -963.68
+Episode: 330, opp: weak_opp, total numsteps: 40549, episode steps: 105, reward: -1515.75
+Episode: 340, opp: weak_opp, total numsteps: 41935, episode steps: 35, reward: 1056.94
+Episode: 350, opp: weak_opp, total numsteps: 43569, episode steps: 250, reward: -96.62
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -4.39
+----------------------------------------
+Episode: 360, opp: weak_opp, total numsteps: 44977, episode steps: 54, reward: -1134.01
+Episode: 370, opp: weak_opp, total numsteps: 45840, episode steps: 250, reward: -395.45
+Episode: 380, opp: weak_opp, total numsteps: 47505, episode steps: 250, reward: 250.5
+Episode: 390, opp: weak_opp, total numsteps: 49007, episode steps: 184, reward: -1386.05
+Episode: 400, opp: weak_opp, total numsteps: 50470, episode steps: 198, reward: -1177.36
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -626.02
+----------------------------------------
+Episode: 410, opp: weak_opp, total numsteps: 51782, episode steps: 127, reward: 1327.18
+Episode: 420, opp: weak_opp, total numsteps: 52605, episode steps: 75, reward: -1062.45
+Episode: 430, opp: weak_opp, total numsteps: 53994, episode steps: 54, reward: 745.65
+Episode: 440, opp: weak_opp, total numsteps: 55444, episode steps: 66, reward: 1015.91
+Episode: 450, opp: weak_opp, total numsteps: 56701, episode steps: 94, reward: -1295.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -938.75
+----------------------------------------
+Episode: 460, opp: weak_opp, total numsteps: 57360, episode steps: 33, reward: 1051.6
+Episode: 470, opp: weak_opp, total numsteps: 58702, episode steps: 45, reward: 1177.1
+Episode: 480, opp: weak_opp, total numsteps: 59992, episode steps: 37, reward: 1049.17
+Episode: 490, opp: weak_opp, total numsteps: 61372, episode steps: 84, reward: -1238.95
+Episode: 500, opp: weak_opp, total numsteps: 62759, episode steps: 31, reward: 1033.31
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -945.13
+----------------------------------------
+Episode: 510, opp: weak_opp, total numsteps: 63897, episode steps: 81, reward: -1048.53
+Episode: 520, opp: weak_opp, total numsteps: 65024, episode steps: 36, reward: 1011.82
+Episode: 530, opp: weak_opp, total numsteps: 66116, episode steps: 37, reward: 1021.76
+Episode: 540, opp: weak_opp, total numsteps: 67425, episode steps: 78, reward: -1262.76
+Episode: 550, opp: weak_opp, total numsteps: 68683, episode steps: 35, reward: 1060.01
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -537.79
+----------------------------------------
+Episode: 560, opp: weak_opp, total numsteps: 70144, episode steps: 105, reward: -1720.01
+Episode: 570, opp: weak_opp, total numsteps: 71405, episode steps: 53, reward: -1136.16
+Episode: 580, opp: weak_opp, total numsteps: 72788, episode steps: 38, reward: 1075.88
+Episode: 590, opp: weak_opp, total numsteps: 73840, episode steps: 39, reward: 1064.29
+Episode: 600, opp: weak_opp, total numsteps: 75650, episode steps: 250, reward: -327.71
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -4.03
+----------------------------------------
+Episode: 610, opp: weak_opp, total numsteps: 77540, episode steps: 250, reward: -68.44
+Episode: 620, opp: weak_opp, total numsteps: 79088, episode steps: 215, reward: -506.05
+Episode: 630, opp: weak_opp, total numsteps: 80420, episode steps: 116, reward: 854.56
+Episode: 640, opp: weak_opp, total numsteps: 82271, episode steps: 250, reward: 149.17
+Episode: 650, opp: weak_opp, total numsteps: 82969, episode steps: 146, reward: -1093.69
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -486.19
+----------------------------------------
+Episode: 660, opp: weak_opp, total numsteps: 84306, episode steps: 250, reward: 598.09
+Episode: 670, opp: weak_opp, total numsteps: 85885, episode steps: 36, reward: 1066.78
+Episode: 680, opp: weak_opp, total numsteps: 87837, episode steps: 86, reward: 1116.57
+Episode: 690, opp: weak_opp, total numsteps: 89335, episode steps: 41, reward: 983.56
+Episode: 700, opp: weak_opp, total numsteps: 91128, episode steps: 230, reward: 256.69
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -139.46
+----------------------------------------
+Episode: 710, opp: weak_opp, total numsteps: 92371, episode steps: 57, reward: 1149.48
+Episode: 720, opp: weak_opp, total numsteps: 93437, episode steps: 250, reward: -406.95
+Episode: 730, opp: weak_opp, total numsteps: 94850, episode steps: 250, reward: -287.19
+Episode: 740, opp: weak_opp, total numsteps: 96202, episode steps: 59, reward: 1192.47
+Episode: 750, opp: weak_opp, total numsteps: 97378, episode steps: 129, reward: -1114.41
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -268.23
+----------------------------------------
+Episode: 760, opp: weak_opp, total numsteps: 98935, episode steps: 33, reward: 1037.5
+Episode: 770, opp: weak_opp, total numsteps: 99852, episode steps: 250, reward: -2812.27
+Episode: 780, opp: weak_opp, total numsteps: 100839, episode steps: 80, reward: 1354.15
+Episode: 790, opp: weak_opp, total numsteps: 102673, episode steps: 250, reward: -342.28
+Episode: 800, opp: weak_opp, total numsteps: 104348, episode steps: 175, reward: 1258.99
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -0.65
+----------------------------------------
+Episode: 810, opp: weak_opp, total numsteps: 105589, episode steps: 126, reward: -986.04
+Episode: 820, opp: weak_opp, total numsteps: 106446, episode steps: 29, reward: 1059.29
+Episode: 830, opp: weak_opp, total numsteps: 107609, episode steps: 123, reward: -1301.23
+Episode: 840, opp: weak_opp, total numsteps: 108872, episode steps: 91, reward: 1222.74
+Episode: 850, opp: weak_opp, total numsteps: 109878, episode steps: 19, reward: 1060.25
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -157.78
+----------------------------------------
+Episode: 860, opp: weak_opp, total numsteps: 111217, episode steps: 250, reward: -129.04
+Episode: 870, opp: weak_opp, total numsteps: 112450, episode steps: 33, reward: 1030.4
+Episode: 880, opp: weak_opp, total numsteps: 113545, episode steps: 32, reward: 1076.17
+Episode: 890, opp: weak_opp, total numsteps: 114739, episode steps: 30, reward: 1045.79
+Episode: 900, opp: weak_opp, total numsteps: 115602, episode steps: 132, reward: 1468.19
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -320.29
+----------------------------------------
+Episode: 910, opp: weak_opp, total numsteps: 116592, episode steps: 21, reward: 1016.63
+Episode: 920, opp: weak_opp, total numsteps: 117797, episode steps: 35, reward: 1077.21
+Episode: 930, opp: weak_opp, total numsteps: 118604, episode steps: 51, reward: 1113.49
+Episode: 940, opp: weak_opp, total numsteps: 119771, episode steps: 28, reward: 1074.0
+Episode: 950, opp: weak_opp, total numsteps: 121144, episode steps: 22, reward: 1026.69
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -190.45
+----------------------------------------
+Episode: 960, opp: weak_opp, total numsteps: 122635, episode steps: 142, reward: -746.24
+Episode: 970, opp: weak_opp, total numsteps: 123680, episode steps: 98, reward: 877.61
+Episode: 980, opp: weak_opp, total numsteps: 124856, episode steps: 250, reward: 999.69
+Episode: 990, opp: weak_opp, total numsteps: 125946, episode steps: 95, reward: 1230.4
+Episode: 1000, opp: weak_opp, total numsteps: 127020, episode steps: 250, reward: 541.37
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -4.16
+----------------------------------------
+Episode: 1010, opp: weak_opp, total numsteps: 128052, episode steps: 47, reward: 1139.48
+Episode: 1020, opp: weak_opp, total numsteps: 129305, episode steps: 29, reward: 1053.9
+Episode: 1030, opp: weak_opp, total numsteps: 130750, episode steps: 48, reward: 898.52
+Episode: 1040, opp: weak_opp, total numsteps: 131871, episode steps: 68, reward: 1123.84
+Episode: 1050, opp: weak_opp, total numsteps: 132800, episode steps: 31, reward: 1060.22
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -387.36
+----------------------------------------
+Episode: 1060, opp: weak_opp, total numsteps: 133912, episode steps: 227, reward: 1200.58
+Episode: 1070, opp: weak_opp, total numsteps: 134920, episode steps: 28, reward: 1063.98
+Episode: 1080, opp: weak_opp, total numsteps: 136128, episode steps: 190, reward: 1194.59
+Episode: 1090, opp: weak_opp, total numsteps: 137611, episode steps: 77, reward: 1219.54
+Episode: 1100, opp: weak_opp, total numsteps: 138932, episode steps: 40, reward: 978.36
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 7.55
+----------------------------------------
+Episode: 1110, opp: weak_opp, total numsteps: 140006, episode steps: 48, reward: 1147.2
+Episode: 1120, opp: weak_opp, total numsteps: 140813, episode steps: 165, reward: -990.96
+Episode: 1130, opp: weak_opp, total numsteps: 141738, episode steps: 32, reward: 1042.29
+Episode: 1140, opp: weak_opp, total numsteps: 142693, episode steps: 185, reward: 1207.86
+Episode: 1150, opp: weak_opp, total numsteps: 143827, episode steps: 33, reward: 1030.34
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -105.26
+----------------------------------------
+Episode: 1160, opp: weak_opp, total numsteps: 144466, episode steps: 29, reward: 1067.17
+Episode: 1170, opp: weak_opp, total numsteps: 145162, episode steps: 30, reward: 1044.59
+Episode: 1180, opp: weak_opp, total numsteps: 145908, episode steps: 34, reward: 1043.09
+Episode: 1190, opp: weak_opp, total numsteps: 146521, episode steps: 32, reward: 1028.16
+Episode: 1200, opp: weak_opp, total numsteps: 147447, episode steps: 31, reward: 1040.05
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -294.81
+----------------------------------------
+Episode: 1210, opp: weak_opp, total numsteps: 148641, episode steps: 33, reward: 1043.14
+Episode: 1220, opp: weak_opp, total numsteps: 149315, episode steps: 32, reward: 1019.8
+Episode: 1230, opp: weak_opp, total numsteps: 150609, episode steps: 250, reward: -361.53
+Episode: 1240, opp: weak_opp, total numsteps: 151605, episode steps: 33, reward: 1058.53
+Episode: 1250, opp: weak_opp, total numsteps: 152244, episode steps: 33, reward: 1028.08
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -528.39
+----------------------------------------
+Episode: 1260, opp: weak_opp, total numsteps: 153185, episode steps: 119, reward: 1400.06
+Episode: 1270, opp: weak_opp, total numsteps: 154106, episode steps: 29, reward: 1063.95
+Episode: 1280, opp: weak_opp, total numsteps: 155041, episode steps: 30, reward: 1064.37
+Episode: 1290, opp: weak_opp, total numsteps: 155731, episode steps: 37, reward: 1024.64
+Episode: 1300, opp: weak_opp, total numsteps: 156679, episode steps: 86, reward: 1181.74
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 302.09
+----------------------------------------
+Episode: 1310, opp: weak_opp, total numsteps: 157604, episode steps: 30, reward: 1075.58
+Episode: 1320, opp: weak_opp, total numsteps: 158641, episode steps: 40, reward: 1027.99
+Episode: 1330, opp: weak_opp, total numsteps: 159455, episode steps: 31, reward: 1044.98
+Episode: 1340, opp: weak_opp, total numsteps: 160353, episode steps: 29, reward: 1065.42
+Episode: 1350, opp: weak_opp, total numsteps: 161363, episode steps: 32, reward: 1067.97
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -15.84
+----------------------------------------
+Episode: 1360, opp: weak_opp, total numsteps: 162173, episode steps: 31, reward: 1064.87
+Episode: 1370, opp: weak_opp, total numsteps: 163606, episode steps: 36, reward: 1105.22
+Episode: 1380, opp: weak_opp, total numsteps: 164689, episode steps: 238, reward: -442.54
+Episode: 1390, opp: weak_opp, total numsteps: 165430, episode steps: 155, reward: 1612.76
+Episode: 1400, opp: weak_opp, total numsteps: 166248, episode steps: 31, reward: 1060.08
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -587.31
+----------------------------------------
+Episode: 1410, opp: weak_opp, total numsteps: 167076, episode steps: 31, reward: 1023.16
+Episode: 1420, opp: weak_opp, total numsteps: 167670, episode steps: 48, reward: 1173.91
+Episode: 1430, opp: weak_opp, total numsteps: 168926, episode steps: 29, reward: 1059.87
+Episode: 1440, opp: weak_opp, total numsteps: 169679, episode steps: 84, reward: 1359.28
+Episode: 1450, opp: weak_opp, total numsteps: 170412, episode steps: 145, reward: 1641.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -25.9
+----------------------------------------
+Episode: 1460, opp: weak_opp, total numsteps: 171013, episode steps: 28, reward: 1048.5
+Episode: 1470, opp: weak_opp, total numsteps: 171988, episode steps: 250, reward: -585.52
+Episode: 1480, opp: weak_opp, total numsteps: 173155, episode steps: 153, reward: 973.03
+Episode: 1490, opp: weak_opp, total numsteps: 174300, episode steps: 74, reward: 1234.16
+Episode: 1500, opp: weak_opp, total numsteps: 175471, episode steps: 30, reward: 1030.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -383.05
+----------------------------------------
+Episode: 1510, opp: weak_opp, total numsteps: 176118, episode steps: 111, reward: 1408.16
+Episode: 1520, opp: weak_opp, total numsteps: 177129, episode steps: 141, reward: 1492.35
+Episode: 1530, opp: weak_opp, total numsteps: 178338, episode steps: 109, reward: -1202.22
+Episode: 1540, opp: weak_opp, total numsteps: 179101, episode steps: 249, reward: 1806.11
+Episode: 1550, opp: weak_opp, total numsteps: 180304, episode steps: 18, reward: 1053.79
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -483.59
+----------------------------------------
+Episode: 1560, opp: weak_opp, total numsteps: 181045, episode steps: 31, reward: 1052.84
+Episode: 1570, opp: weak_opp, total numsteps: 181594, episode steps: 84, reward: 1348.92
+Episode: 1580, opp: weak_opp, total numsteps: 182550, episode steps: 20, reward: 1042.99
+Episode: 1590, opp: weak_opp, total numsteps: 183082, episode steps: 66, reward: 1254.88
+Episode: 1600, opp: weak_opp, total numsteps: 183902, episode steps: 34, reward: 1036.7
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -521.93
+----------------------------------------
+Episode: 1610, opp: weak_opp, total numsteps: 184810, episode steps: 32, reward: 1054.42
+Episode: 1620, opp: weak_opp, total numsteps: 185339, episode steps: 72, reward: 1228.88
+Episode: 1630, opp: weak_opp, total numsteps: 186092, episode steps: 25, reward: 1062.19
+Episode: 1640, opp: weak_opp, total numsteps: 186902, episode steps: 29, reward: 1064.81
+Episode: 1650, opp: weak_opp, total numsteps: 187730, episode steps: 60, reward: -1164.48
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -106.7
+----------------------------------------
+Episode: 1660, opp: weak_opp, total numsteps: 188500, episode steps: 173, reward: 1336.09
+Episode: 1670, opp: weak_opp, total numsteps: 189213, episode steps: 20, reward: 1042.27
+Episode: 1680, opp: weak_opp, total numsteps: 190058, episode steps: 18, reward: 1064.7
+Episode: 1690, opp: weak_opp, total numsteps: 190772, episode steps: 52, reward: 1089.75
+Episode: 1700, opp: weak_opp, total numsteps: 191489, episode steps: 39, reward: 1130.6
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -435.42
+----------------------------------------
+Episode: 1710, opp: weak_opp, total numsteps: 192505, episode steps: 60, reward: 1230.5
+Episode: 1720, opp: weak_opp, total numsteps: 193228, episode steps: 67, reward: 1206.02
+Episode: 1730, opp: weak_opp, total numsteps: 194391, episode steps: 27, reward: 1073.8
+Episode: 1740, opp: weak_opp, total numsteps: 195139, episode steps: 133, reward: 1013.37
+Episode: 1750, opp: weak_opp, total numsteps: 195951, episode steps: 250, reward: -54.74
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -4.19
+----------------------------------------
+Episode: 1760, opp: weak_opp, total numsteps: 196481, episode steps: 30, reward: 1019.79
+Episode: 1770, opp: weak_opp, total numsteps: 197302, episode steps: 32, reward: 1059.49
+Episode: 1780, opp: weak_opp, total numsteps: 198080, episode steps: 62, reward: 1224.81
+Episode: 1790, opp: weak_opp, total numsteps: 199001, episode steps: 198, reward: 1147.98
+Episode: 1800, opp: weak_opp, total numsteps: 199667, episode steps: 29, reward: 1078.46
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -82.09
+----------------------------------------
+Episode: 1810, opp: weak_opp, total numsteps: 200636, episode steps: 29, reward: 1041.78
+Episode: 1820, opp: weak_opp, total numsteps: 201554, episode steps: 58, reward: 1268.2
+Episode: 1830, opp: weak_opp, total numsteps: 202263, episode steps: 32, reward: 1028.75
+Episode: 1840, opp: weak_opp, total numsteps: 203101, episode steps: 250, reward: 26.12
+Episode: 1850, opp: weak_opp, total numsteps: 204076, episode steps: 29, reward: 1057.74
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 76.4
+----------------------------------------
+Episode: 1860, opp: weak_opp, total numsteps: 204918, episode steps: 29, reward: 1023.5
+Episode: 1870, opp: weak_opp, total numsteps: 205395, episode steps: 30, reward: 1058.21
+Episode: 1880, opp: weak_opp, total numsteps: 206227, episode steps: 30, reward: 1053.13
+Episode: 1890, opp: weak_opp, total numsteps: 206874, episode steps: 18, reward: 1062.49
+Episode: 1900, opp: weak_opp, total numsteps: 208082, episode steps: 60, reward: 1210.95
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -107.68
+----------------------------------------
+Episode: 1910, opp: weak_opp, total numsteps: 208726, episode steps: 100, reward: 1431.54
+Episode: 1920, opp: weak_opp, total numsteps: 209937, episode steps: 175, reward: 1083.6
+Episode: 1930, opp: weak_opp, total numsteps: 210934, episode steps: 113, reward: -1413.32
+Episode: 1940, opp: weak_opp, total numsteps: 211468, episode steps: 31, reward: 1021.47
+Episode: 1950, opp: weak_opp, total numsteps: 212477, episode steps: 31, reward: 1050.91
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -556.22
+----------------------------------------
+Episode: 1960, opp: weak_opp, total numsteps: 213298, episode steps: 140, reward: 1591.42
+Episode: 1970, opp: weak_opp, total numsteps: 214198, episode steps: 30, reward: 1060.74
+Episode: 1980, opp: weak_opp, total numsteps: 215256, episode steps: 80, reward: 1329.64
+Episode: 1990, opp: weak_opp, total numsteps: 215975, episode steps: 31, reward: 1058.62
+Episode: 2000, opp: weak_opp, total numsteps: 216696, episode steps: 28, reward: 1054.22
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 0.87
+----------------------------------------
+Saving models to checkpoints/checkpoint_hockey_vs_2_all_rew_ep_2000_sac_rnn2_run1
+save statistics
+save statistics
+Episode: 2010, opp: weak_opp, total numsteps: 217181, episode steps: 32, reward: 1057.87
+Episode: 2020, opp: weak_opp, total numsteps: 218204, episode steps: 27, reward: 1070.92
+Episode: 2030, opp: weak_opp, total numsteps: 218772, episode steps: 27, reward: 1068.97
+Episode: 2040, opp: weak_opp, total numsteps: 219347, episode steps: 32, reward: 1067.3
+Episode: 2050, opp: weak_opp, total numsteps: 220375, episode steps: 66, reward: 1238.39
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -174.28
+----------------------------------------
+Episode: 2060, opp: weak_opp, total numsteps: 220984, episode steps: 30, reward: 1057.6
+Episode: 2070, opp: weak_opp, total numsteps: 221617, episode steps: 29, reward: 1057.12
+Episode: 2080, opp: weak_opp, total numsteps: 222411, episode steps: 35, reward: 1030.41
+Episode: 2090, opp: weak_opp, total numsteps: 223236, episode steps: 241, reward: 2103.66
+Episode: 2100, opp: weak_opp, total numsteps: 223720, episode steps: 45, reward: 1151.96
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -602.0
+----------------------------------------
+Episode: 2110, opp: weak_opp, total numsteps: 224473, episode steps: 30, reward: 1056.56
+Episode: 2120, opp: weak_opp, total numsteps: 225449, episode steps: 28, reward: 1064.3
+Episode: 2130, opp: weak_opp, total numsteps: 226218, episode steps: 31, reward: 1021.35
+Episode: 2140, opp: weak_opp, total numsteps: 227109, episode steps: 94, reward: 1160.27
+Episode: 2150, opp: weak_opp, total numsteps: 227670, episode steps: 31, reward: 1062.57
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 107.32
+----------------------------------------
+Episode: 2160, opp: weak_opp, total numsteps: 228443, episode steps: 31, reward: 1028.98
+Episode: 2170, opp: weak_opp, total numsteps: 228813, episode steps: 31, reward: 1019.9
+Episode: 2180, opp: weak_opp, total numsteps: 229555, episode steps: 34, reward: 1067.26
+Episode: 2190, opp: weak_opp, total numsteps: 230093, episode steps: 91, reward: 1009.15
+Episode: 2200, opp: weak_opp, total numsteps: 231021, episode steps: 30, reward: 1068.84
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 528.58
+----------------------------------------
+Episode: 2210, opp: weak_opp, total numsteps: 231682, episode steps: 31, reward: 1032.09
+Episode: 2220, opp: weak_opp, total numsteps: 232476, episode steps: 74, reward: -1195.0
+Episode: 2230, opp: weak_opp, total numsteps: 233151, episode steps: 30, reward: 1070.38
+Episode: 2240, opp: weak_opp, total numsteps: 233769, episode steps: 19, reward: 1058.7
+Episode: 2250, opp: weak_opp, total numsteps: 234542, episode steps: 40, reward: 1121.66
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -473.54
+----------------------------------------
+Episode: 2260, opp: weak_opp, total numsteps: 235227, episode steps: 175, reward: 1677.56
+Episode: 2270, opp: weak_opp, total numsteps: 235795, episode steps: 17, reward: 1064.16
+Episode: 2280, opp: weak_opp, total numsteps: 236538, episode steps: 31, reward: 1023.9
+Episode: 2290, opp: weak_opp, total numsteps: 236966, episode steps: 37, reward: 1167.89
+Episode: 2300, opp: weak_opp, total numsteps: 238041, episode steps: 103, reward: 1479.79
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -107.13
+----------------------------------------
+Episode: 2310, opp: weak_opp, total numsteps: 238680, episode steps: 27, reward: 1053.31
+Episode: 2320, opp: weak_opp, total numsteps: 239410, episode steps: 26, reward: 1068.28
+Episode: 2330, opp: weak_opp, total numsteps: 239936, episode steps: 32, reward: 1038.5
+Episode: 2340, opp: weak_opp, total numsteps: 240448, episode steps: 30, reward: 1031.29
+Episode: 2350, opp: weak_opp, total numsteps: 241396, episode steps: 78, reward: 1213.56
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -472.84
+----------------------------------------
+Episode: 2360, opp: weak_opp, total numsteps: 242447, episode steps: 87, reward: 1325.49
+Episode: 2370, opp: weak_opp, total numsteps: 242864, episode steps: 30, reward: 1032.91
+Episode: 2380, opp: weak_opp, total numsteps: 243462, episode steps: 44, reward: 1167.71
+Episode: 2390, opp: weak_opp, total numsteps: 243966, episode steps: 24, reward: 1068.29
+Episode: 2400, opp: weak_opp, total numsteps: 244626, episode steps: 39, reward: 1131.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 91.91
+----------------------------------------
+Episode: 2410, opp: weak_opp, total numsteps: 245321, episode steps: 46, reward: 1137.11
+Episode: 2420, opp: weak_opp, total numsteps: 246167, episode steps: 32, reward: 1029.58
+Episode: 2430, opp: weak_opp, total numsteps: 246754, episode steps: 32, reward: 1055.61
+Episode: 2440, opp: weak_opp, total numsteps: 247459, episode steps: 31, reward: 1072.59
+Episode: 2450, opp: weak_opp, total numsteps: 248235, episode steps: 31, reward: 1019.33
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -121.43
+----------------------------------------
+Episode: 2460, opp: weak_opp, total numsteps: 248730, episode steps: 32, reward: 1058.43
+Episode: 2470, opp: weak_opp, total numsteps: 249381, episode steps: 62, reward: 1204.7
+Episode: 2480, opp: weak_opp, total numsteps: 249776, episode steps: 31, reward: 1029.36
+Episode: 2490, opp: weak_opp, total numsteps: 250455, episode steps: 31, reward: 1067.73
+Episode: 2500, opp: weak_opp, total numsteps: 250968, episode steps: 33, reward: 1021.19
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -623.3
+----------------------------------------
+Episode: 2510, opp: weak_opp, total numsteps: 251637, episode steps: 62, reward: 1183.92
+Episode: 2520, opp: weak_opp, total numsteps: 252154, episode steps: 32, reward: 1031.31
+Episode: 2530, opp: weak_opp, total numsteps: 252906, episode steps: 82, reward: 1222.95
+Episode: 2540, opp: weak_opp, total numsteps: 253446, episode steps: 34, reward: 1036.53
+Episode: 2550, opp: weak_opp, total numsteps: 254283, episode steps: 19, reward: 1055.37
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -119.69
+----------------------------------------
+Episode: 2560, opp: weak_opp, total numsteps: 254861, episode steps: 30, reward: 1042.41
+Episode: 2570, opp: weak_opp, total numsteps: 255243, episode steps: 31, reward: 1025.27
+Episode: 2580, opp: weak_opp, total numsteps: 256477, episode steps: 250, reward: 939.83
+Episode: 2590, opp: weak_opp, total numsteps: 257588, episode steps: 250, reward: 69.52
+Episode: 2600, opp: weak_opp, total numsteps: 258136, episode steps: 29, reward: 1031.04
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 28.2
+----------------------------------------
+Episode: 2610, opp: weak_opp, total numsteps: 259009, episode steps: 85, reward: 1220.43
+Episode: 2620, opp: weak_opp, total numsteps: 259523, episode steps: 30, reward: 1065.17
+Episode: 2630, opp: weak_opp, total numsteps: 260181, episode steps: 183, reward: 1702.78
+Episode: 2640, opp: weak_opp, total numsteps: 260802, episode steps: 37, reward: 1148.54
+Episode: 2650, opp: weak_opp, total numsteps: 261633, episode steps: 30, reward: 1035.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -344.18
+----------------------------------------
+Episode: 2660, opp: weak_opp, total numsteps: 262265, episode steps: 32, reward: 1018.49
+Episode: 2670, opp: weak_opp, total numsteps: 262901, episode steps: 38, reward: 1154.56
+Episode: 2680, opp: weak_opp, total numsteps: 263639, episode steps: 109, reward: 1004.74
+Episode: 2690, opp: weak_opp, total numsteps: 264256, episode steps: 54, reward: 1136.82
+Episode: 2700, opp: weak_opp, total numsteps: 264902, episode steps: 32, reward: 1042.36
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 277.4
+----------------------------------------
+Episode: 2710, opp: weak_opp, total numsteps: 265421, episode steps: 58, reward: 1247.71
+Episode: 2720, opp: weak_opp, total numsteps: 266174, episode steps: 28, reward: 1031.28
+Episode: 2730, opp: weak_opp, total numsteps: 266769, episode steps: 29, reward: 1066.61
+Episode: 2740, opp: weak_opp, total numsteps: 267534, episode steps: 31, reward: 1076.89
+Episode: 2750, opp: weak_opp, total numsteps: 268364, episode steps: 32, reward: 1061.34
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -395.26
+----------------------------------------
+Episode: 2760, opp: weak_opp, total numsteps: 269202, episode steps: 250, reward: 38.76
+Episode: 2770, opp: weak_opp, total numsteps: 269759, episode steps: 31, reward: 1074.1
+Episode: 2780, opp: weak_opp, total numsteps: 270357, episode steps: 31, reward: 1054.81
+Episode: 2790, opp: weak_opp, total numsteps: 271088, episode steps: 71, reward: 1258.32
+Episode: 2800, opp: weak_opp, total numsteps: 271695, episode steps: 30, reward: 1053.23
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -96.35
+----------------------------------------
+Episode: 2810, opp: weak_opp, total numsteps: 272312, episode steps: 25, reward: 1066.94
+Episode: 2820, opp: weak_opp, total numsteps: 273187, episode steps: 29, reward: 1036.94
+Episode: 2830, opp: weak_opp, total numsteps: 273648, episode steps: 33, reward: 1042.25
+Episode: 2840, opp: weak_opp, total numsteps: 274166, episode steps: 31, reward: 1040.9
+Episode: 2850, opp: weak_opp, total numsteps: 275075, episode steps: 32, reward: 1072.04
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -401.02
+----------------------------------------
+Episode: 2860, opp: weak_opp, total numsteps: 275575, episode steps: 30, reward: 1067.99
+Episode: 2870, opp: weak_opp, total numsteps: 276109, episode steps: 29, reward: 1060.11
+Episode: 2880, opp: weak_opp, total numsteps: 276780, episode steps: 37, reward: 1148.46
+Episode: 2890, opp: weak_opp, total numsteps: 277275, episode steps: 38, reward: 1145.69
+Episode: 2900, opp: weak_opp, total numsteps: 277804, episode steps: 41, reward: 1150.15
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 252.48
+----------------------------------------
+Episode: 2910, opp: weak_opp, total numsteps: 278702, episode steps: 250, reward: 180.7
+Episode: 2920, opp: weak_opp, total numsteps: 279328, episode steps: 56, reward: 1252.9
+Episode: 2930, opp: weak_opp, total numsteps: 279815, episode steps: 31, reward: 1050.16
+Episode: 2940, opp: weak_opp, total numsteps: 280320, episode steps: 30, reward: 1067.52
+Episode: 2950, opp: weak_opp, total numsteps: 281213, episode steps: 29, reward: 1049.89
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -246.37
+----------------------------------------
+Episode: 2960, opp: weak_opp, total numsteps: 281812, episode steps: 71, reward: 1249.51
+Episode: 2970, opp: weak_opp, total numsteps: 282545, episode steps: 29, reward: 1053.15
+Episode: 2980, opp: weak_opp, total numsteps: 283102, episode steps: 84, reward: 1334.11
+Episode: 2990, opp: weak_opp, total numsteps: 283497, episode steps: 30, reward: 1037.08
+Episode: 3000, opp: weak_opp, total numsteps: 284189, episode steps: 29, reward: 1009.88
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -21.15
+----------------------------------------
+Episode: 3010, opp: weak_opp, total numsteps: 284827, episode steps: 77, reward: 1353.32
+Episode: 3020, opp: weak_opp, total numsteps: 285763, episode steps: 71, reward: 1198.05
+Episode: 3030, opp: weak_opp, total numsteps: 286210, episode steps: 42, reward: 1025.99
+Episode: 3040, opp: weak_opp, total numsteps: 286822, episode steps: 31, reward: 1055.05
+Episode: 3050, opp: weak_opp, total numsteps: 287599, episode steps: 105, reward: 1464.88
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -145.96
+----------------------------------------
+Episode: 3060, opp: weak_opp, total numsteps: 288426, episode steps: 46, reward: 1133.99
+Episode: 3070, opp: weak_opp, total numsteps: 289129, episode steps: 89, reward: 1039.37
+Episode: 3080, opp: weak_opp, total numsteps: 289878, episode steps: 29, reward: 1065.17
+Episode: 3090, opp: weak_opp, total numsteps: 290516, episode steps: 138, reward: 1321.59
+Episode: 3100, opp: weak_opp, total numsteps: 291299, episode steps: 82, reward: 1325.04
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -362.61
+----------------------------------------
+Episode: 3110, opp: weak_opp, total numsteps: 291997, episode steps: 29, reward: 1011.42
+Episode: 3120, opp: weak_opp, total numsteps: 292612, episode steps: 31, reward: 1052.2
+Episode: 3130, opp: weak_opp, total numsteps: 293407, episode steps: 31, reward: 1069.06
+Episode: 3140, opp: weak_opp, total numsteps: 294269, episode steps: 208, reward: 739.65
+Episode: 3150, opp: weak_opp, total numsteps: 294845, episode steps: 31, reward: 1034.05
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 306.27
+----------------------------------------
+Episode: 3160, opp: weak_opp, total numsteps: 295235, episode steps: 18, reward: 1055.28
+Episode: 3170, opp: weak_opp, total numsteps: 295953, episode steps: 64, reward: 1237.14
+Episode: 3180, opp: weak_opp, total numsteps: 296451, episode steps: 57, reward: 1107.26
+Episode: 3190, opp: weak_opp, total numsteps: 296907, episode steps: 76, reward: 1332.26
+Episode: 3200, opp: weak_opp, total numsteps: 297490, episode steps: 30, reward: 1058.63
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -539.62
+----------------------------------------
+Episode: 3210, opp: weak_opp, total numsteps: 298204, episode steps: 33, reward: 1019.24
+Episode: 3220, opp: weak_opp, total numsteps: 298753, episode steps: 124, reward: 1041.85
+Episode: 3230, opp: weak_opp, total numsteps: 299212, episode steps: 37, reward: 1167.1
+Episode: 3240, opp: weak_opp, total numsteps: 299920, episode steps: 29, reward: 1034.64
+Episode: 3250, opp: weak_opp, total numsteps: 300334, episode steps: 32, reward: 1064.28
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -406.85
+----------------------------------------
+Episode: 3260, opp: weak_opp, total numsteps: 300913, episode steps: 32, reward: 1037.93
+Episode: 3270, opp: weak_opp, total numsteps: 301514, episode steps: 91, reward: 977.45
+Episode: 3280, opp: weak_opp, total numsteps: 302019, episode steps: 32, reward: 1060.06
+Episode: 3290, opp: weak_opp, total numsteps: 302541, episode steps: 98, reward: 1274.89
+Episode: 3300, opp: weak_opp, total numsteps: 303042, episode steps: 129, reward: 1509.17
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 154.74
+----------------------------------------
+Episode: 3310, opp: weak_opp, total numsteps: 303691, episode steps: 30, reward: 1060.98
+Episode: 3320, opp: weak_opp, total numsteps: 304325, episode steps: 110, reward: 1327.48
+Episode: 3330, opp: weak_opp, total numsteps: 305322, episode steps: 27, reward: 1044.9
+Episode: 3340, opp: weak_opp, total numsteps: 305772, episode steps: 31, reward: 1048.62
+Episode: 3350, opp: weak_opp, total numsteps: 306371, episode steps: 28, reward: 1052.28
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 72.0
+----------------------------------------
+Episode: 3360, opp: weak_opp, total numsteps: 306863, episode steps: 32, reward: 1044.29
+Episode: 3370, opp: weak_opp, total numsteps: 307509, episode steps: 55, reward: 1253.38
+Episode: 3380, opp: weak_opp, total numsteps: 308197, episode steps: 20, reward: 1040.63
+Episode: 3390, opp: weak_opp, total numsteps: 308766, episode steps: 30, reward: 1049.91
+Episode: 3400, opp: weak_opp, total numsteps: 309336, episode steps: 29, reward: 1030.97
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -76.22
+----------------------------------------
+Episode: 3410, opp: weak_opp, total numsteps: 309876, episode steps: 25, reward: 1056.15
+Episode: 3420, opp: weak_opp, total numsteps: 310509, episode steps: 68, reward: 1237.4
+Episode: 3430, opp: weak_opp, total numsteps: 310950, episode steps: 31, reward: 1059.95
+Episode: 3440, opp: weak_opp, total numsteps: 311679, episode steps: 18, reward: 1057.28
+Episode: 3450, opp: weak_opp, total numsteps: 312380, episode steps: 34, reward: 1043.65
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -103.37
+----------------------------------------
+Episode: 3460, opp: weak_opp, total numsteps: 313037, episode steps: 27, reward: 1063.7
+Episode: 3470, opp: weak_opp, total numsteps: 313531, episode steps: 32, reward: 1057.68
+Episode: 3480, opp: weak_opp, total numsteps: 314065, episode steps: 31, reward: 1040.66
+Episode: 3490, opp: weak_opp, total numsteps: 314710, episode steps: 27, reward: 1034.52
+Episode: 3500, opp: weak_opp, total numsteps: 315177, episode steps: 34, reward: 1038.45
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -645.48
+----------------------------------------
+Episode: 3510, opp: weak_opp, total numsteps: 315639, episode steps: 32, reward: 1076.99
+Episode: 3520, opp: weak_opp, total numsteps: 316095, episode steps: 33, reward: 1027.49
+Episode: 3530, opp: weak_opp, total numsteps: 316651, episode steps: 30, reward: 1073.95
+Episode: 3540, opp: weak_opp, total numsteps: 317185, episode steps: 32, reward: 1034.06
+Episode: 3550, opp: weak_opp, total numsteps: 317750, episode steps: 32, reward: 1066.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -50.43
+----------------------------------------
+Episode: 3560, opp: weak_opp, total numsteps: 318270, episode steps: 30, reward: 1062.06
+Episode: 3570, opp: weak_opp, total numsteps: 318776, episode steps: 30, reward: 1029.54
+Episode: 3580, opp: weak_opp, total numsteps: 319298, episode steps: 30, reward: 1066.73
+Episode: 3590, opp: weak_opp, total numsteps: 320009, episode steps: 26, reward: 1066.81
+Episode: 3600, opp: weak_opp, total numsteps: 320500, episode steps: 31, reward: 1074.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -283.21
+----------------------------------------
+Episode: 3610, opp: weak_opp, total numsteps: 320941, episode steps: 29, reward: 1053.35
+Episode: 3620, opp: weak_opp, total numsteps: 321617, episode steps: 250, reward: 247.32
+Episode: 3630, opp: weak_opp, total numsteps: 322530, episode steps: 31, reward: 1041.03
+Episode: 3640, opp: weak_opp, total numsteps: 323123, episode steps: 56, reward: 1105.94
+Episode: 3650, opp: weak_opp, total numsteps: 323884, episode steps: 102, reward: 1438.9
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2.0
+----------------------------------------
+Episode: 3660, opp: weak_opp, total numsteps: 324560, episode steps: 88, reward: 1359.2
+Episode: 3670, opp: weak_opp, total numsteps: 325062, episode steps: 32, reward: 1014.04
+Episode: 3680, opp: weak_opp, total numsteps: 325522, episode steps: 29, reward: 1017.65
+Episode: 3690, opp: weak_opp, total numsteps: 326040, episode steps: 71, reward: 1202.0
+Episode: 3700, opp: weak_opp, total numsteps: 326922, episode steps: 100, reward: 1439.83
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -107.32
+----------------------------------------
+Episode: 3710, opp: weak_opp, total numsteps: 327632, episode steps: 30, reward: 1034.55
+Episode: 3720, opp: weak_opp, total numsteps: 328169, episode steps: 28, reward: 1057.9
+Episode: 3730, opp: weak_opp, total numsteps: 328637, episode steps: 32, reward: 1065.2
+Episode: 3740, opp: weak_opp, total numsteps: 329063, episode steps: 31, reward: 1048.11
+Episode: 3750, opp: weak_opp, total numsteps: 329580, episode steps: 29, reward: 1064.82
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 138.38
+----------------------------------------
+Episode: 3760, opp: weak_opp, total numsteps: 330222, episode steps: 46, reward: 1114.15
+Episode: 3770, opp: weak_opp, total numsteps: 330666, episode steps: 42, reward: 1163.17
+Episode: 3780, opp: weak_opp, total numsteps: 331324, episode steps: 32, reward: 1042.25
+Episode: 3790, opp: weak_opp, total numsteps: 332048, episode steps: 126, reward: 1199.47
+Episode: 3800, opp: weak_opp, total numsteps: 332682, episode steps: 31, reward: 1020.04
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -497.06
+----------------------------------------
+Episode: 3810, opp: weak_opp, total numsteps: 333300, episode steps: 27, reward: 1035.6
+Episode: 3820, opp: weak_opp, total numsteps: 333920, episode steps: 41, reward: 1014.58
+Episode: 3830, opp: weak_opp, total numsteps: 334456, episode steps: 32, reward: 1036.96
+Episode: 3840, opp: weak_opp, total numsteps: 335034, episode steps: 67, reward: 1236.64
+Episode: 3850, opp: weak_opp, total numsteps: 335530, episode steps: 22, reward: 1020.89
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -30.26
+----------------------------------------
+Episode: 3860, opp: weak_opp, total numsteps: 336216, episode steps: 25, reward: 1059.68
+Episode: 3870, opp: weak_opp, total numsteps: 336758, episode steps: 86, reward: 1301.65
+Episode: 3880, opp: weak_opp, total numsteps: 337184, episode steps: 47, reward: 1152.46
+Episode: 3890, opp: weak_opp, total numsteps: 338038, episode steps: 64, reward: 1207.4
+Episode: 3900, opp: weak_opp, total numsteps: 338512, episode steps: 80, reward: 1163.62
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -664.87
+----------------------------------------
+Episode: 3910, opp: weak_opp, total numsteps: 339014, episode steps: 31, reward: 1028.87
+Episode: 3920, opp: weak_opp, total numsteps: 339558, episode steps: 32, reward: 1059.27
+Episode: 3930, opp: weak_opp, total numsteps: 340039, episode steps: 32, reward: 1045.49
+Episode: 3940, opp: weak_opp, total numsteps: 340788, episode steps: 30, reward: 1075.59
+Episode: 3950, opp: weak_opp, total numsteps: 341340, episode steps: 86, reward: 1294.68
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 159.54
+----------------------------------------
+Episode: 3960, opp: weak_opp, total numsteps: 342055, episode steps: 29, reward: 1049.64
+Episode: 3970, opp: weak_opp, total numsteps: 342550, episode steps: 29, reward: 1057.36
+Episode: 3980, opp: weak_opp, total numsteps: 343116, episode steps: 29, reward: 1058.39
+Episode: 3990, opp: weak_opp, total numsteps: 343722, episode steps: 27, reward: 1043.59
+Episode: 4000, opp: weak_opp, total numsteps: 344464, episode steps: 32, reward: 1041.44
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 17.52
+----------------------------------------
+Saving models to checkpoints/checkpoint_hockey_vs_2_all_rew_ep_4000_sac_rnn2_run1
+save statistics
+save statistics
+Episode: 4010, opp: weak_opp, total numsteps: 345377, episode steps: 107, reward: 1421.13
+Episode: 4020, opp: weak_opp, total numsteps: 346055, episode steps: 33, reward: 1004.69
+Episode: 4030, opp: weak_opp, total numsteps: 346625, episode steps: 79, reward: 1308.5
+Episode: 4040, opp: weak_opp, total numsteps: 347340, episode steps: 250, reward: 51.69
+Episode: 4050, opp: weak_opp, total numsteps: 348109, episode steps: 92, reward: 1346.01
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -279.87
+----------------------------------------
+Episode: 4060, opp: weak_opp, total numsteps: 348669, episode steps: 18, reward: 1061.51
+Episode: 4070, opp: weak_opp, total numsteps: 349110, episode steps: 30, reward: 1063.57
+Episode: 4080, opp: weak_opp, total numsteps: 349805, episode steps: 113, reward: 1408.52
+Episode: 4090, opp: weak_opp, total numsteps: 350314, episode steps: 33, reward: 1037.84
+Episode: 4100, opp: weak_opp, total numsteps: 350866, episode steps: 84, reward: 1340.7
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -543.14
+----------------------------------------
+Episode: 4110, opp: weak_opp, total numsteps: 351282, episode steps: 67, reward: 1226.45
+Episode: 4120, opp: weak_opp, total numsteps: 351795, episode steps: 19, reward: 1047.28
+Episode: 4130, opp: weak_opp, total numsteps: 352207, episode steps: 28, reward: 1032.17
+Episode: 4140, opp: weak_opp, total numsteps: 352748, episode steps: 34, reward: 1032.41
+Episode: 4150, opp: weak_opp, total numsteps: 353266, episode steps: 29, reward: 1071.6
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 71.23
+----------------------------------------
+Episode: 4160, opp: weak_opp, total numsteps: 353935, episode steps: 28, reward: 1031.01
+Episode: 4170, opp: weak_opp, total numsteps: 354545, episode steps: 131, reward: 966.46
+Episode: 4180, opp: weak_opp, total numsteps: 355167, episode steps: 26, reward: 1048.08
+Episode: 4190, opp: weak_opp, total numsteps: 355743, episode steps: 47, reward: 1125.72
+Episode: 4200, opp: weak_opp, total numsteps: 356491, episode steps: 32, reward: 1072.24
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -145.49
+----------------------------------------
+Episode: 4210, opp: weak_opp, total numsteps: 357170, episode steps: 30, reward: 1026.26
+Episode: 4220, opp: weak_opp, total numsteps: 357587, episode steps: 27, reward: 1042.57
+Episode: 4230, opp: weak_opp, total numsteps: 358254, episode steps: 47, reward: 1148.72
+Episode: 4240, opp: weak_opp, total numsteps: 359051, episode steps: 31, reward: 1028.82
+Episode: 4250, opp: weak_opp, total numsteps: 359892, episode steps: 56, reward: 1112.49
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -42.5
+----------------------------------------
+Episode: 4260, opp: weak_opp, total numsteps: 360738, episode steps: 33, reward: 1052.75
+Episode: 4270, opp: weak_opp, total numsteps: 361091, episode steps: 31, reward: 1069.01
+Episode: 4280, opp: weak_opp, total numsteps: 361945, episode steps: 152, reward: 1308.38
+Episode: 4290, opp: weak_opp, total numsteps: 362680, episode steps: 52, reward: 1131.75
+Episode: 4300, opp: weak_opp, total numsteps: 363163, episode steps: 31, reward: 1065.83
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 409.79
+----------------------------------------
+Episode: 4310, opp: weak_opp, total numsteps: 363563, episode steps: 32, reward: 1045.91
+Episode: 4320, opp: weak_opp, total numsteps: 364244, episode steps: 148, reward: 124.61
+Episode: 4330, opp: weak_opp, total numsteps: 365027, episode steps: 24, reward: 1071.42
+Episode: 4340, opp: weak_opp, total numsteps: 365655, episode steps: 33, reward: 1069.84
+Episode: 4350, opp: weak_opp, total numsteps: 366051, episode steps: 30, reward: 1030.55
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -431.17
+----------------------------------------
+Episode: 4360, opp: weak_opp, total numsteps: 366725, episode steps: 84, reward: 1327.23
+Episode: 4370, opp: weak_opp, total numsteps: 367308, episode steps: 30, reward: 1023.15
+Episode: 4380, opp: weak_opp, total numsteps: 367926, episode steps: 31, reward: 1014.12
+Episode: 4390, opp: weak_opp, total numsteps: 368412, episode steps: 22, reward: 1018.67
+Episode: 4400, opp: weak_opp, total numsteps: 369056, episode steps: 44, reward: 1155.28
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 29.2
+----------------------------------------
+Episode: 4410, opp: weak_opp, total numsteps: 369769, episode steps: 37, reward: 1164.44
+Episode: 4420, opp: weak_opp, total numsteps: 370325, episode steps: 32, reward: 1009.91
+Episode: 4430, opp: weak_opp, total numsteps: 370775, episode steps: 30, reward: 1043.68
+Episode: 4440, opp: weak_opp, total numsteps: 371351, episode steps: 33, reward: 1027.25
+Episode: 4450, opp: weak_opp, total numsteps: 371843, episode steps: 30, reward: 1067.76
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 388.08
+----------------------------------------
+Episode: 4460, opp: weak_opp, total numsteps: 372447, episode steps: 46, reward: 1118.28
+Episode: 4470, opp: weak_opp, total numsteps: 373232, episode steps: 34, reward: 1037.93
+Episode: 4480, opp: weak_opp, total numsteps: 373959, episode steps: 66, reward: 1203.73
+Episode: 4490, opp: weak_opp, total numsteps: 374459, episode steps: 70, reward: 1241.2
+Episode: 4500, opp: weak_opp, total numsteps: 374957, episode steps: 30, reward: 1041.4
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -382.97
+----------------------------------------
+Episode: 4510, opp: weak_opp, total numsteps: 375401, episode steps: 32, reward: 1045.95
+Episode: 4520, opp: weak_opp, total numsteps: 376002, episode steps: 24, reward: 1060.94
+Episode: 4530, opp: weak_opp, total numsteps: 376469, episode steps: 53, reward: 1106.18
+Episode: 4540, opp: weak_opp, total numsteps: 376963, episode steps: 32, reward: 1044.93
+Episode: 4550, opp: weak_opp, total numsteps: 377603, episode steps: 77, reward: 935.37
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -107.6
+----------------------------------------
+Episode: 4560, opp: weak_opp, total numsteps: 378216, episode steps: 46, reward: 1108.77
+Episode: 4570, opp: weak_opp, total numsteps: 378832, episode steps: 32, reward: 1026.88
+Episode: 4580, opp: weak_opp, total numsteps: 379371, episode steps: 30, reward: 1057.55
+Episode: 4590, opp: weak_opp, total numsteps: 379990, episode steps: 44, reward: 1130.56
+Episode: 4600, opp: weak_opp, total numsteps: 380454, episode steps: 61, reward: 1235.9
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -228.74
+----------------------------------------
+Episode: 4610, opp: weak_opp, total numsteps: 381176, episode steps: 88, reward: 1295.84
+Episode: 4620, opp: weak_opp, total numsteps: 381671, episode steps: 38, reward: 1133.48
+Episode: 4630, opp: weak_opp, total numsteps: 382102, episode steps: 20, reward: 1035.2
+Episode: 4640, opp: weak_opp, total numsteps: 382783, episode steps: 48, reward: 1109.59
+Episode: 4650, opp: weak_opp, total numsteps: 383805, episode steps: 40, reward: 1149.07
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -495.13
+----------------------------------------
+Episode: 4660, opp: weak_opp, total numsteps: 384659, episode steps: 29, reward: 1053.94
+Episode: 4670, opp: weak_opp, total numsteps: 385122, episode steps: 29, reward: 1062.91
+Episode: 4680, opp: weak_opp, total numsteps: 385631, episode steps: 109, reward: 1148.97
+Episode: 4690, opp: weak_opp, total numsteps: 386211, episode steps: 28, reward: 1014.19
+Episode: 4700, opp: weak_opp, total numsteps: 386680, episode steps: 31, reward: 1026.57
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -452.8
+----------------------------------------
+Episode: 4710, opp: weak_opp, total numsteps: 387379, episode steps: 55, reward: 1270.75
+Episode: 4720, opp: weak_opp, total numsteps: 388086, episode steps: 31, reward: 1070.51
+Episode: 4730, opp: weak_opp, total numsteps: 388655, episode steps: 28, reward: 1070.77
+Episode: 4740, opp: weak_opp, total numsteps: 389302, episode steps: 141, reward: 1628.18
+Episode: 4750, opp: weak_opp, total numsteps: 389833, episode steps: 30, reward: 1069.1
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -138.77
+----------------------------------------
+Episode: 4760, opp: weak_opp, total numsteps: 390406, episode steps: 51, reward: 1163.26
+Episode: 4770, opp: weak_opp, total numsteps: 390911, episode steps: 31, reward: 1053.62
+Episode: 4780, opp: weak_opp, total numsteps: 391440, episode steps: 26, reward: 1062.0
+Episode: 4790, opp: weak_opp, total numsteps: 391937, episode steps: 30, reward: 1066.5
+Episode: 4800, opp: weak_opp, total numsteps: 392441, episode steps: 38, reward: 1163.91
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 182.87
+----------------------------------------
+Episode: 4810, opp: weak_opp, total numsteps: 392914, episode steps: 30, reward: 1064.87
+Episode: 4820, opp: weak_opp, total numsteps: 393515, episode steps: 29, reward: 1072.28
+Episode: 4830, opp: weak_opp, total numsteps: 394113, episode steps: 31, reward: 1062.61
+Episode: 4840, opp: weak_opp, total numsteps: 394744, episode steps: 33, reward: 1032.57
+Episode: 4850, opp: weak_opp, total numsteps: 395269, episode steps: 31, reward: 1070.59
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 243.97
+----------------------------------------
+Episode: 4860, opp: weak_opp, total numsteps: 395821, episode steps: 28, reward: 1024.41
+Episode: 4870, opp: weak_opp, total numsteps: 396450, episode steps: 47, reward: 1113.44
+Episode: 4880, opp: weak_opp, total numsteps: 397076, episode steps: 29, reward: 1070.8
+Episode: 4890, opp: weak_opp, total numsteps: 397707, episode steps: 29, reward: 1070.38
+Episode: 4900, opp: weak_opp, total numsteps: 398335, episode steps: 30, reward: 1069.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 481.53
+----------------------------------------
+Episode: 4910, opp: weak_opp, total numsteps: 398823, episode steps: 29, reward: 1069.39
+Episode: 4920, opp: weak_opp, total numsteps: 399315, episode steps: 32, reward: 1030.79
+Episode: 4930, opp: weak_opp, total numsteps: 399891, episode steps: 32, reward: 1059.13
+Episode: 4940, opp: weak_opp, total numsteps: 400655, episode steps: 38, reward: 1027.32
+Episode: 4950, opp: weak_opp, total numsteps: 401335, episode steps: 67, reward: 1086.87
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -685.24
+----------------------------------------
+Episode: 4960, opp: weak_opp, total numsteps: 402006, episode steps: 111, reward: 1146.74
+Episode: 4970, opp: weak_opp, total numsteps: 402452, episode steps: 44, reward: 1129.13
+Episode: 4980, opp: weak_opp, total numsteps: 402945, episode steps: 27, reward: 1029.37
+Episode: 4990, opp: weak_opp, total numsteps: 403376, episode steps: 29, reward: 1075.28
+Episode: 5000, opp: strong_opp, total numsteps: 404073, episode steps: 31, reward: 1066.45
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -320.22
+----------------------------------------
+Episode: 5010, opp: strong_opp, total numsteps: 405178, episode steps: 62, reward: -1032.82
+Episode: 5020, opp: strong_opp, total numsteps: 406382, episode steps: 31, reward: 1067.15
+Episode: 5030, opp: strong_opp, total numsteps: 408003, episode steps: 250, reward: -536.3
+Episode: 5040, opp: strong_opp, total numsteps: 409612, episode steps: 51, reward: -1197.82
+Episode: 5050, opp: strong_opp, total numsteps: 410612, episode steps: 32, reward: 1050.51
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -246.48
+----------------------------------------
+Episode: 5060, opp: strong_opp, total numsteps: 411666, episode steps: 38, reward: 1032.01
+Episode: 5070, opp: strong_opp, total numsteps: 413108, episode steps: 250, reward: 285.08
+Episode: 5080, opp: strong_opp, total numsteps: 414119, episode steps: 94, reward: 723.38
+Episode: 5090, opp: strong_opp, total numsteps: 414910, episode steps: 79, reward: 969.78
+Episode: 5100, opp: strong_opp, total numsteps: 416139, episode steps: 250, reward: -298.95
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -3.95
+----------------------------------------
+Episode: 5110, opp: strong_opp, total numsteps: 417281, episode steps: 33, reward: 1045.94
+Episode: 5120, opp: strong_opp, total numsteps: 418621, episode steps: 250, reward: -33.91
+Episode: 5130, opp: strong_opp, total numsteps: 419839, episode steps: 29, reward: 1061.55
+Episode: 5140, opp: strong_opp, total numsteps: 420899, episode steps: 30, reward: 1005.3
+Episode: 5150, opp: strong_opp, total numsteps: 422083, episode steps: 90, reward: 699.4
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -281.1
+----------------------------------------
+Episode: 5160, opp: strong_opp, total numsteps: 423313, episode steps: 30, reward: 1036.9
+Episode: 5170, opp: strong_opp, total numsteps: 424828, episode steps: 77, reward: -1264.71
+Episode: 5180, opp: strong_opp, total numsteps: 426189, episode steps: 250, reward: -1486.07
+Episode: 5190, opp: strong_opp, total numsteps: 427084, episode steps: 35, reward: 1013.71
+Episode: 5200, opp: strong_opp, total numsteps: 428334, episode steps: 179, reward: 654.16
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -360.43
+----------------------------------------
+Episode: 5210, opp: strong_opp, total numsteps: 429139, episode steps: 28, reward: 1079.19
+Episode: 5220, opp: strong_opp, total numsteps: 430192, episode steps: 250, reward: -749.85
+Episode: 5230, opp: strong_opp, total numsteps: 431473, episode steps: 157, reward: 189.83
+Episode: 5240, opp: strong_opp, total numsteps: 432437, episode steps: 37, reward: 1030.15
+Episode: 5250, opp: strong_opp, total numsteps: 433501, episode steps: 28, reward: 1012.89
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 148.22
+----------------------------------------
+Episode: 5260, opp: strong_opp, total numsteps: 435274, episode steps: 250, reward: -207.17
+Episode: 5270, opp: strong_opp, total numsteps: 436298, episode steps: 50, reward: 1044.87
+Episode: 5280, opp: strong_opp, total numsteps: 437581, episode steps: 30, reward: 1075.3
+Episode: 5290, opp: strong_opp, total numsteps: 438782, episode steps: 96, reward: 1151.19
+Episode: 5300, opp: strong_opp, total numsteps: 440177, episode steps: 29, reward: 1066.46
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -220.97
+----------------------------------------
+Episode: 5310, opp: strong_opp, total numsteps: 441242, episode steps: 250, reward: 332.96
+Episode: 5320, opp: strong_opp, total numsteps: 442258, episode steps: 29, reward: 1025.05
+Episode: 5330, opp: strong_opp, total numsteps: 442744, episode steps: 30, reward: 1037.31
+Episode: 5340, opp: strong_opp, total numsteps: 444419, episode steps: 102, reward: 1114.46
+Episode: 5350, opp: strong_opp, total numsteps: 445023, episode steps: 30, reward: 1037.26
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 202.91
+----------------------------------------
+Episode: 5360, opp: strong_opp, total numsteps: 446076, episode steps: 209, reward: 887.18
+Episode: 5370, opp: strong_opp, total numsteps: 447018, episode steps: 27, reward: 1049.08
+Episode: 5380, opp: strong_opp, total numsteps: 448183, episode steps: 37, reward: 1019.0
+Episode: 5390, opp: strong_opp, total numsteps: 449278, episode steps: 144, reward: 982.15
+Episode: 5400, opp: strong_opp, total numsteps: 450562, episode steps: 29, reward: 1079.87
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 218.34
+----------------------------------------
+Episode: 5410, opp: strong_opp, total numsteps: 451991, episode steps: 250, reward: -651.09
+Episode: 5420, opp: strong_opp, total numsteps: 453052, episode steps: 98, reward: 1046.01
+Episode: 5430, opp: strong_opp, total numsteps: 454163, episode steps: 195, reward: -1558.29
+Episode: 5440, opp: strong_opp, total numsteps: 455269, episode steps: 197, reward: -1410.09
+Episode: 5450, opp: strong_opp, total numsteps: 456584, episode steps: 28, reward: 1069.62
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 283.93
+----------------------------------------
+Episode: 5460, opp: strong_opp, total numsteps: 457660, episode steps: 27, reward: 1059.26
+Episode: 5470, opp: strong_opp, total numsteps: 458740, episode steps: 118, reward: -1239.68
+Episode: 5480, opp: strong_opp, total numsteps: 459901, episode steps: 44, reward: 973.09
+Episode: 5490, opp: strong_opp, total numsteps: 460983, episode steps: 30, reward: 1039.76
+Episode: 5500, opp: strong_opp, total numsteps: 461840, episode steps: 39, reward: 1031.78
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 37.56
+----------------------------------------
+Episode: 5510, opp: strong_opp, total numsteps: 462995, episode steps: 147, reward: 1385.94
+Episode: 5520, opp: strong_opp, total numsteps: 464436, episode steps: 250, reward: -782.9
+Episode: 5530, opp: strong_opp, total numsteps: 465716, episode steps: 27, reward: 1047.28
+Episode: 5540, opp: strong_opp, total numsteps: 466755, episode steps: 250, reward: -275.54
+Episode: 5550, opp: strong_opp, total numsteps: 468238, episode steps: 250, reward: 31.91
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -4.13
+----------------------------------------
+Episode: 5560, opp: strong_opp, total numsteps: 469345, episode steps: 69, reward: 1095.81
+Episode: 5570, opp: strong_opp, total numsteps: 470322, episode steps: 86, reward: 715.53
+Episode: 5580, opp: strong_opp, total numsteps: 471998, episode steps: 250, reward: -191.32
+Episode: 5590, opp: strong_opp, total numsteps: 473038, episode steps: 169, reward: 1039.15
+Episode: 5600, opp: strong_opp, total numsteps: 473902, episode steps: 151, reward: -1342.32
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 139.14
+----------------------------------------
+Episode: 5610, opp: strong_opp, total numsteps: 474801, episode steps: 26, reward: 1074.97
+Episode: 5620, opp: strong_opp, total numsteps: 476365, episode steps: 216, reward: 696.57
+Episode: 5630, opp: strong_opp, total numsteps: 477825, episode steps: 250, reward: -136.14
+Episode: 5640, opp: strong_opp, total numsteps: 479241, episode steps: 31, reward: 1038.22
+Episode: 5650, opp: strong_opp, total numsteps: 480154, episode steps: 62, reward: -1216.59
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 656.83
+----------------------------------------
+Episode: 5660, opp: strong_opp, total numsteps: 481229, episode steps: 148, reward: -1426.57
+Episode: 5670, opp: strong_opp, total numsteps: 482241, episode steps: 32, reward: 1037.37
+Episode: 5680, opp: strong_opp, total numsteps: 483312, episode steps: 28, reward: 1040.51
+Episode: 5690, opp: strong_opp, total numsteps: 484325, episode steps: 96, reward: -1211.64
+Episode: 5700, opp: strong_opp, total numsteps: 485486, episode steps: 250, reward: 19.61
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -4.37
+----------------------------------------
+Episode: 5710, opp: strong_opp, total numsteps: 486861, episode steps: 250, reward: -450.98
+Episode: 5720, opp: strong_opp, total numsteps: 487582, episode steps: 33, reward: 994.66
+Episode: 5730, opp: strong_opp, total numsteps: 488605, episode steps: 25, reward: 1065.38
+Episode: 5740, opp: strong_opp, total numsteps: 489755, episode steps: 27, reward: 1079.39
+Episode: 5750, opp: strong_opp, total numsteps: 490432, episode steps: 28, reward: 1061.49
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -68.77
+----------------------------------------
+Episode: 5760, opp: strong_opp, total numsteps: 491167, episode steps: 25, reward: 1047.97
+Episode: 5770, opp: strong_opp, total numsteps: 491784, episode steps: 28, reward: 1068.49
+Episode: 5780, opp: strong_opp, total numsteps: 492620, episode steps: 29, reward: 1071.68
+Episode: 5790, opp: strong_opp, total numsteps: 494104, episode steps: 102, reward: -1057.84
+Episode: 5800, opp: strong_opp, total numsteps: 495012, episode steps: 80, reward: 1238.52
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 194.57
+----------------------------------------
+Episode: 5810, opp: strong_opp, total numsteps: 496318, episode steps: 250, reward: -103.38
+Episode: 5820, opp: strong_opp, total numsteps: 497188, episode steps: 120, reward: -1000.6
+Episode: 5830, opp: strong_opp, total numsteps: 498385, episode steps: 28, reward: 1056.55
+Episode: 5840, opp: strong_opp, total numsteps: 499893, episode steps: 27, reward: 1059.23
+Episode: 5850, opp: strong_opp, total numsteps: 500748, episode steps: 65, reward: 1140.14
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 196.91
+----------------------------------------
+Episode: 5860, opp: strong_opp, total numsteps: 501709, episode steps: 42, reward: 1034.74
+Episode: 5870, opp: strong_opp, total numsteps: 502866, episode steps: 42, reward: -1079.03
+Episode: 5880, opp: strong_opp, total numsteps: 503904, episode steps: 180, reward: -1285.34
+Episode: 5890, opp: strong_opp, total numsteps: 505309, episode steps: 59, reward: -988.36
+Episode: 5900, opp: strong_opp, total numsteps: 506560, episode steps: 52, reward: 1149.47
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -60.7
+----------------------------------------
+Episode: 5910, opp: strong_opp, total numsteps: 507483, episode steps: 50, reward: -1130.37
+Episode: 5920, opp: strong_opp, total numsteps: 508530, episode steps: 177, reward: 972.63
+Episode: 5930, opp: strong_opp, total numsteps: 509583, episode steps: 30, reward: 1026.17
+Episode: 5940, opp: strong_opp, total numsteps: 510674, episode steps: 250, reward: -550.61
+Episode: 5950, opp: strong_opp, total numsteps: 511495, episode steps: 50, reward: 1109.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 820.49
+----------------------------------------
+Episode: 5960, opp: strong_opp, total numsteps: 512728, episode steps: 98, reward: 858.49
+Episode: 5970, opp: strong_opp, total numsteps: 514081, episode steps: 30, reward: 1048.99
+Episode: 5980, opp: strong_opp, total numsteps: 514995, episode steps: 30, reward: 1059.87
+Episode: 5990, opp: strong_opp, total numsteps: 515644, episode steps: 32, reward: 1022.47
+Episode: 6000, opp: strong_opp, total numsteps: 516803, episode steps: 78, reward: 984.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 519.78
+----------------------------------------
+Saving models to checkpoints/checkpoint_hockey_vs_2_all_rew_ep_6000_sac_rnn2_run1
+save statistics
+save statistics
+Episode: 6010, opp: strong_opp, total numsteps: 517479, episode steps: 29, reward: 1020.56
+Episode: 6020, opp: strong_opp, total numsteps: 518251, episode steps: 33, reward: 1062.71
+Episode: 6030, opp: strong_opp, total numsteps: 519195, episode steps: 26, reward: 1045.57
+Episode: 6040, opp: strong_opp, total numsteps: 520008, episode steps: 136, reward: 1122.77
+Episode: 6050, opp: strong_opp, total numsteps: 520544, episode steps: 28, reward: 1046.34
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 367.35
+----------------------------------------
+Episode: 6060, opp: strong_opp, total numsteps: 520991, episode steps: 35, reward: 1028.46
+Episode: 6070, opp: strong_opp, total numsteps: 521643, episode steps: 32, reward: 1034.5
+Episode: 6080, opp: strong_opp, total numsteps: 522685, episode steps: 250, reward: 27.47
+Episode: 6090, opp: strong_opp, total numsteps: 523651, episode steps: 250, reward: -9.01
+Episode: 6100, opp: strong_opp, total numsteps: 524458, episode steps: 110, reward: -1226.03
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 873.92
+----------------------------------------
+Episode: 6110, opp: strong_opp, total numsteps: 525491, episode steps: 91, reward: -1346.86
+Episode: 6120, opp: strong_opp, total numsteps: 526219, episode steps: 37, reward: 1022.56
+Episode: 6130, opp: strong_opp, total numsteps: 527041, episode steps: 133, reward: 1146.84
+Episode: 6140, opp: strong_opp, total numsteps: 527703, episode steps: 30, reward: 1023.47
+Episode: 6150, opp: strong_opp, total numsteps: 528841, episode steps: 99, reward: 954.99
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 96.64
+----------------------------------------
+Episode: 6160, opp: strong_opp, total numsteps: 529975, episode steps: 47, reward: 1011.79
+Episode: 6170, opp: strong_opp, total numsteps: 530931, episode steps: 31, reward: 1036.64
+Episode: 6180, opp: strong_opp, total numsteps: 531594, episode steps: 28, reward: 1073.26
+Episode: 6190, opp: strong_opp, total numsteps: 532384, episode steps: 40, reward: 1023.01
+Episode: 6200, opp: strong_opp, total numsteps: 533717, episode steps: 88, reward: 1172.83
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 296.08
+----------------------------------------
+Episode: 6210, opp: strong_opp, total numsteps: 534315, episode steps: 27, reward: 1012.99
+Episode: 6220, opp: strong_opp, total numsteps: 535023, episode steps: 47, reward: -1109.81
+Episode: 6230, opp: strong_opp, total numsteps: 536079, episode steps: 28, reward: 1034.05
+Episode: 6240, opp: strong_opp, total numsteps: 537174, episode steps: 144, reward: 1055.01
+Episode: 6250, opp: strong_opp, total numsteps: 538375, episode steps: 37, reward: 1023.92
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 600.44
+----------------------------------------
+Episode: 6260, opp: strong_opp, total numsteps: 539030, episode steps: 26, reward: 1071.63
+Episode: 6270, opp: strong_opp, total numsteps: 539499, episode steps: 28, reward: 1040.58
+Episode: 6280, opp: strong_opp, total numsteps: 540349, episode steps: 27, reward: 1069.46
+Episode: 6290, opp: strong_opp, total numsteps: 540902, episode steps: 31, reward: 1058.05
+Episode: 6300, opp: strong_opp, total numsteps: 541795, episode steps: 250, reward: 66.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -4.1
+----------------------------------------
+Episode: 6310, opp: strong_opp, total numsteps: 542765, episode steps: 63, reward: 1063.12
+Episode: 6320, opp: strong_opp, total numsteps: 543555, episode steps: 74, reward: 1004.12
+Episode: 6330, opp: strong_opp, total numsteps: 544067, episode steps: 32, reward: 1031.56
+Episode: 6340, opp: strong_opp, total numsteps: 544949, episode steps: 39, reward: 1048.16
+Episode: 6350, opp: strong_opp, total numsteps: 545786, episode steps: 23, reward: 1047.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 452.39
+----------------------------------------
+Episode: 6360, opp: strong_opp, total numsteps: 546526, episode steps: 134, reward: -1242.01
+Episode: 6370, opp: strong_opp, total numsteps: 547198, episode steps: 28, reward: 1076.19
+Episode: 6380, opp: strong_opp, total numsteps: 548099, episode steps: 30, reward: 1052.15
+Episode: 6390, opp: strong_opp, total numsteps: 548908, episode steps: 28, reward: 1035.22
+Episode: 6400, opp: strong_opp, total numsteps: 549829, episode steps: 29, reward: 1067.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 867.36
+----------------------------------------
+Episode: 6410, opp: strong_opp, total numsteps: 550510, episode steps: 23, reward: 1033.76
+Episode: 6420, opp: strong_opp, total numsteps: 551027, episode steps: 59, reward: 1098.6
+Episode: 6430, opp: strong_opp, total numsteps: 551476, episode steps: 40, reward: 1073.12
+Episode: 6440, opp: strong_opp, total numsteps: 552075, episode steps: 31, reward: 1063.56
+Episode: 6450, opp: strong_opp, total numsteps: 552685, episode steps: 29, reward: 1023.94
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 175.72
+----------------------------------------
+Episode: 6460, opp: strong_opp, total numsteps: 553398, episode steps: 28, reward: 1038.45
+Episode: 6470, opp: strong_opp, total numsteps: 553901, episode steps: 101, reward: 1100.29
+Episode: 6480, opp: strong_opp, total numsteps: 554789, episode steps: 156, reward: 1000.3
+Episode: 6490, opp: strong_opp, total numsteps: 555265, episode steps: 46, reward: 1136.49
+Episode: 6500, opp: strong_opp, total numsteps: 555967, episode steps: 55, reward: 1122.57
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 881.4
+----------------------------------------
+Episode: 6510, opp: strong_opp, total numsteps: 556557, episode steps: 21, reward: 1066.14
+Episode: 6520, opp: strong_opp, total numsteps: 557165, episode steps: 30, reward: 1069.8
+Episode: 6530, opp: strong_opp, total numsteps: 557885, episode steps: 50, reward: 1155.47
+Episode: 6540, opp: strong_opp, total numsteps: 558958, episode steps: 60, reward: -1176.32
+Episode: 6550, opp: strong_opp, total numsteps: 559459, episode steps: 27, reward: 1075.56
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 777.7
+----------------------------------------
+Episode: 6560, opp: strong_opp, total numsteps: 560093, episode steps: 83, reward: 1012.41
+Episode: 6570, opp: strong_opp, total numsteps: 560933, episode steps: 33, reward: 1036.8
+Episode: 6580, opp: strong_opp, total numsteps: 561847, episode steps: 48, reward: -1082.24
+Episode: 6590, opp: strong_opp, total numsteps: 562623, episode steps: 74, reward: -1029.39
+Episode: 6600, opp: strong_opp, total numsteps: 563521, episode steps: 28, reward: 1056.52
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 871.65
+----------------------------------------
+Episode: 6610, opp: strong_opp, total numsteps: 564433, episode steps: 29, reward: 1008.56
+Episode: 6620, opp: strong_opp, total numsteps: 565057, episode steps: 22, reward: 1074.1
+Episode: 6630, opp: strong_opp, total numsteps: 566037, episode steps: 250, reward: 52.98
+Episode: 6640, opp: strong_opp, total numsteps: 566461, episode steps: 64, reward: -1032.14
+Episode: 6650, opp: strong_opp, total numsteps: 567233, episode steps: 250, reward: -392.51
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -4.46
+----------------------------------------
+Episode: 6660, opp: strong_opp, total numsteps: 567947, episode steps: 34, reward: 1064.6
+Episode: 6670, opp: strong_opp, total numsteps: 568678, episode steps: 30, reward: 1023.8
+Episode: 6680, opp: strong_opp, total numsteps: 569182, episode steps: 44, reward: -1083.93
+Episode: 6690, opp: strong_opp, total numsteps: 569918, episode steps: 58, reward: 1103.69
+Episode: 6700, opp: strong_opp, total numsteps: 570796, episode steps: 32, reward: 1065.87
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 436.51
+----------------------------------------
+Episode: 6710, opp: strong_opp, total numsteps: 571808, episode steps: 42, reward: 995.86
+Episode: 6720, opp: strong_opp, total numsteps: 572378, episode steps: 46, reward: -1158.8
+Episode: 6730, opp: strong_opp, total numsteps: 573142, episode steps: 113, reward: 948.49
+Episode: 6740, opp: strong_opp, total numsteps: 574001, episode steps: 30, reward: 1036.07
+Episode: 6750, opp: strong_opp, total numsteps: 574803, episode steps: 30, reward: 1054.44
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 348.63
+----------------------------------------
+Episode: 6760, opp: strong_opp, total numsteps: 575373, episode steps: 30, reward: 1056.87
+Episode: 6770, opp: strong_opp, total numsteps: 576023, episode steps: 76, reward: 1086.06
+Episode: 6780, opp: strong_opp, total numsteps: 576585, episode steps: 57, reward: 1148.22
+Episode: 6790, opp: strong_opp, total numsteps: 577250, episode steps: 38, reward: 1050.79
+Episode: 6800, opp: strong_opp, total numsteps: 577933, episode steps: 31, reward: 1044.82
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 618.76
+----------------------------------------
+Episode: 6810, opp: strong_opp, total numsteps: 579130, episode steps: 250, reward: -287.28
+Episode: 6820, opp: strong_opp, total numsteps: 579856, episode steps: 127, reward: 1062.48
+Episode: 6830, opp: strong_opp, total numsteps: 580398, episode steps: 31, reward: 1051.93
+Episode: 6840, opp: strong_opp, total numsteps: 581021, episode steps: 29, reward: 1026.09
+Episode: 6850, opp: strong_opp, total numsteps: 581638, episode steps: 32, reward: 1067.9
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1049.65
+----------------------------------------
+Episode: 6860, opp: strong_opp, total numsteps: 582081, episode steps: 20, reward: 1069.11
+Episode: 6870, opp: strong_opp, total numsteps: 582613, episode steps: 28, reward: 1049.47
+Episode: 6880, opp: strong_opp, total numsteps: 583163, episode steps: 22, reward: 1063.62
+Episode: 6890, opp: strong_opp, total numsteps: 583645, episode steps: 25, reward: 1052.05
+Episode: 6900, opp: strong_opp, total numsteps: 584201, episode steps: 28, reward: 1030.12
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1047.57
+----------------------------------------
+Episode: 6910, opp: strong_opp, total numsteps: 584790, episode steps: 23, reward: 1044.49
+Episode: 6920, opp: strong_opp, total numsteps: 585576, episode steps: 31, reward: 1046.93
+Episode: 6930, opp: strong_opp, total numsteps: 586177, episode steps: 27, reward: 1051.14
+Episode: 6940, opp: strong_opp, total numsteps: 587022, episode steps: 58, reward: 1097.8
+Episode: 6950, opp: strong_opp, total numsteps: 587967, episode steps: 144, reward: 1207.48
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 640.58
+----------------------------------------
+Episode: 6960, opp: strong_opp, total numsteps: 588601, episode steps: 31, reward: 1076.61
+Episode: 6970, opp: strong_opp, total numsteps: 589185, episode steps: 58, reward: 1124.36
+Episode: 6980, opp: strong_opp, total numsteps: 589959, episode steps: 80, reward: 1258.07
+Episode: 6990, opp: strong_opp, total numsteps: 590441, episode steps: 53, reward: -1116.9
+Episode: 7000, opp: strong_opp, total numsteps: 591022, episode steps: 31, reward: 1033.2
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 347.18
+----------------------------------------
+Episode: 7010, opp: strong_opp, total numsteps: 591625, episode steps: 28, reward: 1062.54
+Episode: 7020, opp: strong_opp, total numsteps: 592314, episode steps: 60, reward: 1168.43
+Episode: 7030, opp: strong_opp, total numsteps: 593083, episode steps: 81, reward: 1170.29
+Episode: 7040, opp: strong_opp, total numsteps: 593616, episode steps: 26, reward: 1061.82
+Episode: 7050, opp: strong_opp, total numsteps: 594113, episode steps: 28, reward: 1022.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 819.2
+----------------------------------------
+Episode: 7060, opp: strong_opp, total numsteps: 594643, episode steps: 30, reward: 1053.26
+Episode: 7070, opp: strong_opp, total numsteps: 595163, episode steps: 25, reward: 1040.3
+Episode: 7080, opp: strong_opp, total numsteps: 595640, episode steps: 29, reward: 1074.6
+Episode: 7090, opp: strong_opp, total numsteps: 596056, episode steps: 49, reward: -1146.82
+Episode: 7100, opp: strong_opp, total numsteps: 596522, episode steps: 30, reward: 1069.67
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1085.63
+----------------------------------------
+Episode: 7110, opp: strong_opp, total numsteps: 597128, episode steps: 23, reward: 1061.27
+Episode: 7120, opp: strong_opp, total numsteps: 597850, episode steps: 34, reward: 1015.46
+Episode: 7130, opp: strong_opp, total numsteps: 598566, episode steps: 62, reward: 1167.47
+Episode: 7140, opp: strong_opp, total numsteps: 599014, episode steps: 30, reward: 1075.05
+Episode: 7150, opp: strong_opp, total numsteps: 600052, episode steps: 182, reward: -1299.57
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1059.94
+----------------------------------------
+Episode: 7160, opp: strong_opp, total numsteps: 600694, episode steps: 64, reward: 1154.67
+Episode: 7170, opp: strong_opp, total numsteps: 601173, episode steps: 28, reward: 1024.21
+Episode: 7180, opp: strong_opp, total numsteps: 601968, episode steps: 250, reward: -286.46
+Episode: 7190, opp: strong_opp, total numsteps: 602580, episode steps: 64, reward: 1104.25
+Episode: 7200, opp: strong_opp, total numsteps: 603239, episode steps: 57, reward: 1118.73
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 845.56
+----------------------------------------
+Episode: 7210, opp: strong_opp, total numsteps: 603950, episode steps: 31, reward: 1059.18
+Episode: 7220, opp: strong_opp, total numsteps: 604464, episode steps: 33, reward: 1054.81
+Episode: 7230, opp: strong_opp, total numsteps: 605030, episode steps: 32, reward: 1016.21
+Episode: 7240, opp: strong_opp, total numsteps: 605611, episode steps: 143, reward: 921.79
+Episode: 7250, opp: strong_opp, total numsteps: 606275, episode steps: 61, reward: 1131.62
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1072.4
+----------------------------------------
+Episode: 7260, opp: strong_opp, total numsteps: 606883, episode steps: 64, reward: 1105.14
+Episode: 7270, opp: strong_opp, total numsteps: 607579, episode steps: 36, reward: 1045.24
+Episode: 7280, opp: strong_opp, total numsteps: 608176, episode steps: 29, reward: 1041.44
+Episode: 7290, opp: strong_opp, total numsteps: 608760, episode steps: 27, reward: 1028.66
+Episode: 7300, opp: strong_opp, total numsteps: 609506, episode steps: 57, reward: 1154.24
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1052.75
+----------------------------------------
+Episode: 7310, opp: strong_opp, total numsteps: 610278, episode steps: 98, reward: 1206.17
+Episode: 7320, opp: strong_opp, total numsteps: 610959, episode steps: 97, reward: -1134.26
+Episode: 7330, opp: strong_opp, total numsteps: 611585, episode steps: 87, reward: 1085.98
+Episode: 7340, opp: strong_opp, total numsteps: 612007, episode steps: 30, reward: 1049.17
+Episode: 7350, opp: strong_opp, total numsteps: 612531, episode steps: 82, reward: 1117.96
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1063.67
+----------------------------------------
+Episode: 7360, opp: strong_opp, total numsteps: 613077, episode steps: 32, reward: 1077.7
+Episode: 7370, opp: strong_opp, total numsteps: 613598, episode steps: 27, reward: 1075.6
+Episode: 7380, opp: strong_opp, total numsteps: 614249, episode steps: 27, reward: 1055.83
+Episode: 7390, opp: strong_opp, total numsteps: 614746, episode steps: 31, reward: 1081.14
+Episode: 7400, opp: strong_opp, total numsteps: 615554, episode steps: 169, reward: 977.02
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1061.95
+----------------------------------------
+Episode: 7410, opp: strong_opp, total numsteps: 616105, episode steps: 127, reward: -1499.14
+Episode: 7420, opp: strong_opp, total numsteps: 616520, episode steps: 62, reward: 1078.93
+Episode: 7430, opp: strong_opp, total numsteps: 617031, episode steps: 30, reward: 1052.17
+Episode: 7440, opp: strong_opp, total numsteps: 617565, episode steps: 92, reward: 1177.39
+Episode: 7450, opp: strong_opp, total numsteps: 617971, episode steps: 38, reward: 1070.32
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 582.17
+----------------------------------------
+Episode: 7460, opp: strong_opp, total numsteps: 618447, episode steps: 52, reward: 959.93
+Episode: 7470, opp: strong_opp, total numsteps: 619036, episode steps: 29, reward: 1032.06
+Episode: 7480, opp: strong_opp, total numsteps: 619575, episode steps: 28, reward: 1054.2
+Episode: 7490, opp: strong_opp, total numsteps: 620231, episode steps: 77, reward: 1062.78
+Episode: 7500, opp: strong_opp, total numsteps: 620901, episode steps: 55, reward: 1109.04
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 796.37
+----------------------------------------
+Episode: 7510, opp: strong_opp, total numsteps: 621660, episode steps: 52, reward: 1117.18
+Episode: 7520, opp: strong_opp, total numsteps: 622245, episode steps: 26, reward: 1067.61
+Episode: 7530, opp: strong_opp, total numsteps: 622790, episode steps: 30, reward: 1019.04
+Episode: 7540, opp: strong_opp, total numsteps: 623357, episode steps: 29, reward: 1056.6
+Episode: 7550, opp: strong_opp, total numsteps: 623812, episode steps: 29, reward: 1038.78
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1070.1
+----------------------------------------
+Episode: 7560, opp: strong_opp, total numsteps: 624495, episode steps: 119, reward: 1005.33
+Episode: 7570, opp: strong_opp, total numsteps: 625251, episode steps: 250, reward: 908.74
+Episode: 7580, opp: strong_opp, total numsteps: 625866, episode steps: 31, reward: 1023.86
+Episode: 7590, opp: strong_opp, total numsteps: 626303, episode steps: 28, reward: 1070.62
+Episode: 7600, opp: strong_opp, total numsteps: 626709, episode steps: 33, reward: 1037.4
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 656.99
+----------------------------------------
+Episode: 7610, opp: strong_opp, total numsteps: 627162, episode steps: 27, reward: 1032.15
+Episode: 7620, opp: strong_opp, total numsteps: 627631, episode steps: 30, reward: 1035.57
+Episode: 7630, opp: strong_opp, total numsteps: 628215, episode steps: 36, reward: 1033.97
+Episode: 7640, opp: strong_opp, total numsteps: 628856, episode steps: 250, reward: 116.2
+Episode: 7650, opp: strong_opp, total numsteps: 629273, episode steps: 24, reward: 1059.56
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 841.27
+----------------------------------------
+Episode: 7660, opp: strong_opp, total numsteps: 629953, episode steps: 31, reward: 1061.48
+Episode: 7670, opp: strong_opp, total numsteps: 630412, episode steps: 30, reward: 1046.82
+Episode: 7680, opp: strong_opp, total numsteps: 631149, episode steps: 29, reward: 1069.64
+Episode: 7690, opp: strong_opp, total numsteps: 631734, episode steps: 82, reward: 1227.28
+Episode: 7700, opp: strong_opp, total numsteps: 632252, episode steps: 29, reward: 1076.31
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 976.62
+----------------------------------------
+Episode: 7710, opp: strong_opp, total numsteps: 632786, episode steps: 26, reward: 1066.04
+Episode: 7720, opp: strong_opp, total numsteps: 633365, episode steps: 96, reward: 1029.23
+Episode: 7730, opp: strong_opp, total numsteps: 633826, episode steps: 26, reward: 1053.48
+Episode: 7740, opp: strong_opp, total numsteps: 634281, episode steps: 32, reward: 1052.48
+Episode: 7750, opp: strong_opp, total numsteps: 634767, episode steps: 34, reward: 1027.85
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 624.55
+----------------------------------------
+Episode: 7760, opp: strong_opp, total numsteps: 635191, episode steps: 29, reward: 1062.04
+Episode: 7770, opp: strong_opp, total numsteps: 635669, episode steps: 29, reward: 1073.78
+Episode: 7780, opp: strong_opp, total numsteps: 636360, episode steps: 76, reward: 1035.4
+Episode: 7790, opp: strong_opp, total numsteps: 636869, episode steps: 32, reward: 1050.13
+Episode: 7800, opp: strong_opp, total numsteps: 637816, episode steps: 201, reward: 594.45
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 611.41
+----------------------------------------
+Episode: 7810, opp: strong_opp, total numsteps: 638405, episode steps: 86, reward: -1146.6
+Episode: 7820, opp: strong_opp, total numsteps: 638827, episode steps: 32, reward: 1033.89
+Episode: 7830, opp: strong_opp, total numsteps: 639556, episode steps: 29, reward: 1017.97
+Episode: 7840, opp: strong_opp, total numsteps: 640181, episode steps: 26, reward: 1065.07
+Episode: 7850, opp: strong_opp, total numsteps: 640595, episode steps: 27, reward: 1050.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1070.28
+----------------------------------------
+Episode: 7860, opp: strong_opp, total numsteps: 641055, episode steps: 29, reward: 1032.85
+Episode: 7870, opp: strong_opp, total numsteps: 641645, episode steps: 29, reward: 1066.25
+Episode: 7880, opp: strong_opp, total numsteps: 642380, episode steps: 63, reward: 1115.21
+Episode: 7890, opp: strong_opp, total numsteps: 642881, episode steps: 98, reward: 967.54
+Episode: 7900, opp: strong_opp, total numsteps: 643405, episode steps: 148, reward: 1326.97
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1085.76
+----------------------------------------
+Episode: 7910, opp: strong_opp, total numsteps: 643989, episode steps: 75, reward: 1031.43
+Episode: 7920, opp: strong_opp, total numsteps: 644468, episode steps: 124, reward: -1311.74
+Episode: 7930, opp: strong_opp, total numsteps: 645009, episode steps: 31, reward: 1074.29
+Episode: 7940, opp: strong_opp, total numsteps: 645445, episode steps: 31, reward: 1059.98
+Episode: 7950, opp: strong_opp, total numsteps: 645898, episode steps: 39, reward: 1011.72
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1129.31
+----------------------------------------
+Episode: 7960, opp: strong_opp, total numsteps: 646390, episode steps: 31, reward: 1033.49
+Episode: 7970, opp: strong_opp, total numsteps: 646906, episode steps: 52, reward: 1140.63
+Episode: 7980, opp: strong_opp, total numsteps: 647833, episode steps: 26, reward: 1066.68
+Episode: 7990, opp: strong_opp, total numsteps: 648260, episode steps: 29, reward: 1053.61
+Episode: 8000, opp: strong_opp, total numsteps: 648610, episode steps: 22, reward: 1060.73
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 875.07
+----------------------------------------
+Saving models to checkpoints/checkpoint_hockey_vs_2_all_rew_ep_8000_sac_rnn2_run1
+save statistics
+save statistics
+Episode: 8010, opp: strong_opp, total numsteps: 649374, episode steps: 23, reward: 1068.96
+Episode: 8020, opp: strong_opp, total numsteps: 650161, episode steps: 42, reward: 1055.64
+Episode: 8030, opp: strong_opp, total numsteps: 650566, episode steps: 28, reward: 1032.03
+Episode: 8040, opp: strong_opp, total numsteps: 651115, episode steps: 33, reward: 1064.88
+Episode: 8050, opp: strong_opp, total numsteps: 651655, episode steps: 28, reward: 1058.59
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 839.62
+----------------------------------------
+Episode: 8060, opp: strong_opp, total numsteps: 652200, episode steps: 30, reward: 1032.32
+Episode: 8070, opp: strong_opp, total numsteps: 652803, episode steps: 27, reward: 1060.32
+Episode: 8080, opp: strong_opp, total numsteps: 653202, episode steps: 31, reward: 1037.54
+Episode: 8090, opp: strong_opp, total numsteps: 653696, episode steps: 55, reward: 1163.9
+Episode: 8100, opp: strong_opp, total numsteps: 654217, episode steps: 59, reward: 1139.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1096.91
+----------------------------------------
+Episode: 8110, opp: strong_opp, total numsteps: 654646, episode steps: 24, reward: 1036.53
+Episode: 8120, opp: strong_opp, total numsteps: 655478, episode steps: 32, reward: 1048.32
+Episode: 8130, opp: strong_opp, total numsteps: 656063, episode steps: 51, reward: -1093.08
+Episode: 8140, opp: strong_opp, total numsteps: 656505, episode steps: 26, reward: 1048.76
+Episode: 8150, opp: strong_opp, total numsteps: 656973, episode steps: 29, reward: 1033.42
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1067.24
+----------------------------------------
+Episode: 8160, opp: strong_opp, total numsteps: 657444, episode steps: 30, reward: 1058.1
+Episode: 8170, opp: strong_opp, total numsteps: 658071, episode steps: 24, reward: 1052.35
+Episode: 8180, opp: strong_opp, total numsteps: 658484, episode steps: 28, reward: 1059.94
+Episode: 8190, opp: strong_opp, total numsteps: 659073, episode steps: 29, reward: 1060.15
+Episode: 8200, opp: strong_opp, total numsteps: 659651, episode steps: 29, reward: 1023.76
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 839.68
+----------------------------------------
+Episode: 8210, opp: strong_opp, total numsteps: 660026, episode steps: 33, reward: 1014.0
+Episode: 8220, opp: strong_opp, total numsteps: 660604, episode steps: 25, reward: 1076.0
+Episode: 8230, opp: strong_opp, total numsteps: 661097, episode steps: 43, reward: 1013.64
+Episode: 8240, opp: strong_opp, total numsteps: 661518, episode steps: 30, reward: 1014.4
+Episode: 8250, opp: strong_opp, total numsteps: 662053, episode steps: 29, reward: 1013.87
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1082.56
+----------------------------------------
+Episode: 8260, opp: strong_opp, total numsteps: 662699, episode steps: 37, reward: 1042.78
+Episode: 8270, opp: strong_opp, total numsteps: 663123, episode steps: 30, reward: 1051.02
+Episode: 8280, opp: strong_opp, total numsteps: 663529, episode steps: 27, reward: 1018.03
+Episode: 8290, opp: strong_opp, total numsteps: 663952, episode steps: 27, reward: 1062.48
+Episode: 8300, opp: strong_opp, total numsteps: 664487, episode steps: 122, reward: 989.1
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 970.79
+----------------------------------------
+Episode: 8310, opp: strong_opp, total numsteps: 664903, episode steps: 23, reward: 1071.92
+Episode: 8320, opp: strong_opp, total numsteps: 665595, episode steps: 28, reward: 1042.6
+Episode: 8330, opp: strong_opp, total numsteps: 666310, episode steps: 27, reward: 1078.29
+Episode: 8340, opp: strong_opp, total numsteps: 666713, episode steps: 32, reward: 1022.75
+Episode: 8350, opp: strong_opp, total numsteps: 667274, episode steps: 28, reward: 1029.92
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 658.03
+----------------------------------------
+Episode: 8360, opp: strong_opp, total numsteps: 667789, episode steps: 26, reward: 1041.11
+Episode: 8370, opp: strong_opp, total numsteps: 668215, episode steps: 36, reward: 1017.71
+Episode: 8380, opp: strong_opp, total numsteps: 668646, episode steps: 33, reward: 1020.6
+Episode: 8390, opp: strong_opp, total numsteps: 669109, episode steps: 74, reward: 1029.46
+Episode: 8400, opp: strong_opp, total numsteps: 669544, episode steps: 25, reward: 1038.24
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1061.74
+----------------------------------------
+Episode: 8410, opp: strong_opp, total numsteps: 670075, episode steps: 28, reward: 1076.99
+Episode: 8420, opp: strong_opp, total numsteps: 670623, episode steps: 28, reward: 1022.27
+Episode: 8430, opp: strong_opp, total numsteps: 671187, episode steps: 75, reward: 1021.71
+Episode: 8440, opp: strong_opp, total numsteps: 671574, episode steps: 28, reward: 1075.76
+Episode: 8450, opp: strong_opp, total numsteps: 672114, episode steps: 115, reward: 1155.54
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1083.71
+----------------------------------------
+Episode: 8460, opp: strong_opp, total numsteps: 672566, episode steps: 28, reward: 1040.08
+Episode: 8470, opp: strong_opp, total numsteps: 673013, episode steps: 27, reward: 1080.68
+Episode: 8480, opp: strong_opp, total numsteps: 673499, episode steps: 55, reward: 1112.46
+Episode: 8490, opp: strong_opp, total numsteps: 673919, episode steps: 27, reward: 1069.52
+Episode: 8500, opp: strong_opp, total numsteps: 674475, episode steps: 29, reward: 1052.51
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 844.74
+----------------------------------------
+Episode: 8510, opp: strong_opp, total numsteps: 674955, episode steps: 62, reward: 1145.3
+Episode: 8520, opp: strong_opp, total numsteps: 675329, episode steps: 29, reward: 1054.04
+Episode: 8530, opp: strong_opp, total numsteps: 675766, episode steps: 85, reward: 1102.07
+Episode: 8540, opp: strong_opp, total numsteps: 676317, episode steps: 27, reward: 1075.7
+Episode: 8550, opp: strong_opp, total numsteps: 676792, episode steps: 56, reward: 1115.3
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1080.92
+----------------------------------------
+Episode: 8560, opp: strong_opp, total numsteps: 677223, episode steps: 62, reward: 1134.76
+Episode: 8570, opp: strong_opp, total numsteps: 677941, episode steps: 107, reward: 1072.5
+Episode: 8580, opp: strong_opp, total numsteps: 678444, episode steps: 26, reward: 1071.95
+Episode: 8590, opp: strong_opp, total numsteps: 678877, episode steps: 28, reward: 1065.14
+Episode: 8600, opp: strong_opp, total numsteps: 679363, episode steps: 80, reward: 1005.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 933.74
+----------------------------------------
+Episode: 8610, opp: strong_opp, total numsteps: 679847, episode steps: 27, reward: 1071.56
+Episode: 8620, opp: strong_opp, total numsteps: 680303, episode steps: 32, reward: 1065.32
+Episode: 8630, opp: strong_opp, total numsteps: 680712, episode steps: 23, reward: 1071.09
+Episode: 8640, opp: strong_opp, total numsteps: 681221, episode steps: 54, reward: 1132.1
+Episode: 8650, opp: strong_opp, total numsteps: 681724, episode steps: 30, reward: 1055.12
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1061.92
+----------------------------------------
+Episode: 8660, opp: strong_opp, total numsteps: 682198, episode steps: 58, reward: 1138.66
+Episode: 8670, opp: strong_opp, total numsteps: 682749, episode steps: 30, reward: 1053.34
+Episode: 8680, opp: strong_opp, total numsteps: 683511, episode steps: 120, reward: 1016.14
+Episode: 8690, opp: strong_opp, total numsteps: 684030, episode steps: 29, reward: 1053.59
+Episode: 8700, opp: strong_opp, total numsteps: 684531, episode steps: 56, reward: 1108.93
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1071.28
+----------------------------------------
+Episode: 8710, opp: strong_opp, total numsteps: 685005, episode steps: 76, reward: 1090.64
+Episode: 8720, opp: strong_opp, total numsteps: 685389, episode steps: 31, reward: 1054.85
+Episode: 8730, opp: strong_opp, total numsteps: 685799, episode steps: 25, reward: 1064.46
+Episode: 8740, opp: strong_opp, total numsteps: 686308, episode steps: 60, reward: 1127.31
+Episode: 8750, opp: strong_opp, total numsteps: 686669, episode steps: 27, reward: 1032.17
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1068.88
+----------------------------------------
+Episode: 8760, opp: strong_opp, total numsteps: 687336, episode steps: 31, reward: 1045.3
+Episode: 8770, opp: strong_opp, total numsteps: 687743, episode steps: 27, reward: 1041.67
+Episode: 8780, opp: strong_opp, total numsteps: 688163, episode steps: 30, reward: 1042.12
+Episode: 8790, opp: strong_opp, total numsteps: 688671, episode steps: 141, reward: 1065.58
+Episode: 8800, opp: strong_opp, total numsteps: 689099, episode steps: 28, reward: 1057.76
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1116.29
+----------------------------------------
+Episode: 8810, opp: strong_opp, total numsteps: 689754, episode steps: 28, reward: 1034.58
+Episode: 8820, opp: strong_opp, total numsteps: 690218, episode steps: 23, reward: 1072.63
+Episode: 8830, opp: strong_opp, total numsteps: 690781, episode steps: 31, reward: 1052.24
+Episode: 8840, opp: strong_opp, total numsteps: 691189, episode steps: 33, reward: 1019.61
+Episode: 8850, opp: strong_opp, total numsteps: 691691, episode steps: 28, reward: 1056.42
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1082.7
+----------------------------------------
+Episode: 8860, opp: strong_opp, total numsteps: 692139, episode steps: 24, reward: 1074.93
+Episode: 8870, opp: strong_opp, total numsteps: 692564, episode steps: 70, reward: 1129.61
+Episode: 8880, opp: strong_opp, total numsteps: 692949, episode steps: 33, reward: 1044.28
+Episode: 8890, opp: strong_opp, total numsteps: 693432, episode steps: 78, reward: 990.26
+Episode: 8900, opp: strong_opp, total numsteps: 693893, episode steps: 28, reward: 1063.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1067.82
+----------------------------------------
+Episode: 8910, opp: strong_opp, total numsteps: 694428, episode steps: 30, reward: 1043.21
+Episode: 8920, opp: strong_opp, total numsteps: 694964, episode steps: 27, reward: 1055.21
+Episode: 8930, opp: strong_opp, total numsteps: 695514, episode steps: 29, reward: 1045.29
+Episode: 8940, opp: strong_opp, total numsteps: 695935, episode steps: 56, reward: 1157.9
+Episode: 8950, opp: strong_opp, total numsteps: 696300, episode steps: 39, reward: 1017.71
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 841.18
+----------------------------------------
+Episode: 8960, opp: strong_opp, total numsteps: 696900, episode steps: 66, reward: 1107.32
+Episode: 8970, opp: strong_opp, total numsteps: 697323, episode steps: 27, reward: 1060.85
+Episode: 8980, opp: strong_opp, total numsteps: 698119, episode steps: 87, reward: 1063.24
+Episode: 8990, opp: strong_opp, total numsteps: 698618, episode steps: 27, reward: 1031.03
+Episode: 9000, opp: strong_opp, total numsteps: 699056, episode steps: 30, reward: 1080.26
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1075.66
+----------------------------------------
+Episode: 9010, opp: strong_opp, total numsteps: 699507, episode steps: 27, reward: 1027.92
+Episode: 9020, opp: strong_opp, total numsteps: 700106, episode steps: 55, reward: 1118.79
+Episode: 9030, opp: strong_opp, total numsteps: 700575, episode steps: 25, reward: 1066.6
+Episode: 9040, opp: strong_opp, total numsteps: 701286, episode steps: 23, reward: 1068.14
+Episode: 9050, opp: strong_opp, total numsteps: 701822, episode steps: 27, reward: 1069.85
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 858.19
+----------------------------------------
+Episode: 9060, opp: strong_opp, total numsteps: 702404, episode steps: 29, reward: 1058.52
+Episode: 9070, opp: strong_opp, total numsteps: 702829, episode steps: 30, reward: 1034.92
+Episode: 9080, opp: strong_opp, total numsteps: 703310, episode steps: 27, reward: 1029.71
+Episode: 9090, opp: strong_opp, total numsteps: 703890, episode steps: 29, reward: 1032.2
+Episode: 9100, opp: strong_opp, total numsteps: 704472, episode steps: 28, reward: 1066.07
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1100.46
+----------------------------------------
+Episode: 9110, opp: strong_opp, total numsteps: 704959, episode steps: 28, reward: 1060.24
+Episode: 9120, opp: strong_opp, total numsteps: 705428, episode steps: 84, reward: 1120.55
+Episode: 9130, opp: strong_opp, total numsteps: 705969, episode steps: 35, reward: 1025.78
+Episode: 9140, opp: strong_opp, total numsteps: 706627, episode steps: 34, reward: 1035.87
+Episode: 9150, opp: strong_opp, total numsteps: 707108, episode steps: 29, reward: 1056.55
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1089.61
+----------------------------------------
+Episode: 9160, opp: strong_opp, total numsteps: 707619, episode steps: 30, reward: 1053.3
+Episode: 9170, opp: strong_opp, total numsteps: 708028, episode steps: 26, reward: 1062.8
+Episode: 9180, opp: strong_opp, total numsteps: 708387, episode steps: 27, reward: 1068.92
+Episode: 9190, opp: strong_opp, total numsteps: 708834, episode steps: 31, reward: 1030.98
+Episode: 9200, opp: strong_opp, total numsteps: 709486, episode steps: 105, reward: 1184.51
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1065.29
+----------------------------------------
+Episode: 9210, opp: strong_opp, total numsteps: 709902, episode steps: 31, reward: 1031.74
+Episode: 9220, opp: strong_opp, total numsteps: 710432, episode steps: 27, reward: 1058.11
+Episode: 9230, opp: strong_opp, total numsteps: 711023, episode steps: 58, reward: 1119.68
+Episode: 9240, opp: strong_opp, total numsteps: 711394, episode steps: 30, reward: 1037.41
+Episode: 9250, opp: strong_opp, total numsteps: 711783, episode steps: 25, reward: 1074.35
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1097.47
+----------------------------------------
+Episode: 9260, opp: strong_opp, total numsteps: 712323, episode steps: 28, reward: 1057.15
+Episode: 9270, opp: strong_opp, total numsteps: 712762, episode steps: 26, reward: 1037.85
+Episode: 9280, opp: strong_opp, total numsteps: 713247, episode steps: 29, reward: 1053.7
+Episode: 9290, opp: strong_opp, total numsteps: 713764, episode steps: 59, reward: 1139.52
+Episode: 9300, opp: strong_opp, total numsteps: 714182, episode steps: 38, reward: 1043.6
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 876.85
+----------------------------------------
+Episode: 9310, opp: strong_opp, total numsteps: 714609, episode steps: 26, reward: 1047.94
+Episode: 9320, opp: strong_opp, total numsteps: 715209, episode steps: 28, reward: 1067.39
+Episode: 9330, opp: strong_opp, total numsteps: 715709, episode steps: 28, reward: 1032.99
+Episode: 9340, opp: strong_opp, total numsteps: 716344, episode steps: 196, reward: 850.41
+Episode: 9350, opp: strong_opp, total numsteps: 716788, episode steps: 33, reward: 1007.47
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1072.53
+----------------------------------------
+Episode: 9360, opp: strong_opp, total numsteps: 717308, episode steps: 27, reward: 1056.97
+Episode: 9370, opp: strong_opp, total numsteps: 717802, episode steps: 55, reward: 1142.54
+Episode: 9380, opp: strong_opp, total numsteps: 718242, episode steps: 97, reward: 1085.26
+Episode: 9390, opp: strong_opp, total numsteps: 718692, episode steps: 34, reward: 1067.05
+Episode: 9400, opp: strong_opp, total numsteps: 719272, episode steps: 30, reward: 1069.47
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1075.52
+----------------------------------------
+Episode: 9410, opp: strong_opp, total numsteps: 719659, episode steps: 28, reward: 1056.88
+Episode: 9420, opp: strong_opp, total numsteps: 720114, episode steps: 29, reward: 1010.96
+Episode: 9430, opp: strong_opp, total numsteps: 720593, episode steps: 25, reward: 1067.8
+Episode: 9440, opp: strong_opp, total numsteps: 721020, episode steps: 30, reward: 1053.96
+Episode: 9450, opp: strong_opp, total numsteps: 721441, episode steps: 28, reward: 1072.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 857.12
+----------------------------------------
+Episode: 9460, opp: strong_opp, total numsteps: 721942, episode steps: 27, reward: 1038.88
+Episode: 9470, opp: strong_opp, total numsteps: 722391, episode steps: 71, reward: 971.64
+Episode: 9480, opp: strong_opp, total numsteps: 722923, episode steps: 75, reward: 996.92
+Episode: 9490, opp: strong_opp, total numsteps: 723555, episode steps: 26, reward: 1037.32
+Episode: 9500, opp: strong_opp, total numsteps: 723924, episode steps: 26, reward: 1014.85
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1054.89
+----------------------------------------
+Episode: 9510, opp: strong_opp, total numsteps: 724367, episode steps: 28, reward: 1013.89
+Episode: 9520, opp: strong_opp, total numsteps: 724939, episode steps: 101, reward: 1029.74
+Episode: 9530, opp: strong_opp, total numsteps: 725374, episode steps: 22, reward: 1074.09
+Episode: 9540, opp: strong_opp, total numsteps: 725804, episode steps: 30, reward: 1072.18
+Episode: 9550, opp: strong_opp, total numsteps: 726188, episode steps: 30, reward: 1036.02
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1065.83
+----------------------------------------
+Episode: 9560, opp: strong_opp, total numsteps: 726702, episode steps: 27, reward: 1074.15
+Episode: 9570, opp: strong_opp, total numsteps: 727212, episode steps: 31, reward: 1020.54
+Episode: 9580, opp: strong_opp, total numsteps: 727625, episode steps: 27, reward: 1053.26
+Episode: 9590, opp: strong_opp, total numsteps: 728110, episode steps: 70, reward: 1048.44
+Episode: 9600, opp: strong_opp, total numsteps: 728512, episode steps: 30, reward: 1075.65
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1084.01
+----------------------------------------
+Episode: 9610, opp: strong_opp, total numsteps: 728920, episode steps: 33, reward: 1023.75
+Episode: 9620, opp: strong_opp, total numsteps: 729335, episode steps: 67, reward: -1279.95
+Episode: 9630, opp: strong_opp, total numsteps: 729932, episode steps: 250, reward: 65.74
+Episode: 9640, opp: strong_opp, total numsteps: 730396, episode steps: 60, reward: 1138.18
+Episode: 9650, opp: strong_opp, total numsteps: 730798, episode steps: 27, reward: 1055.65
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1077.58
+----------------------------------------
+Episode: 9660, opp: strong_opp, total numsteps: 731162, episode steps: 29, reward: 1063.83
+Episode: 9670, opp: strong_opp, total numsteps: 731573, episode steps: 25, reward: 1049.92
+Episode: 9680, opp: strong_opp, total numsteps: 732143, episode steps: 141, reward: 1163.39
+Episode: 9690, opp: strong_opp, total numsteps: 732517, episode steps: 29, reward: 1060.64
+Episode: 9700, opp: strong_opp, total numsteps: 732953, episode steps: 27, reward: 1062.76
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1051.9
+----------------------------------------
+Episode: 9710, opp: strong_opp, total numsteps: 733438, episode steps: 126, reward: 962.12
+Episode: 9720, opp: strong_opp, total numsteps: 734054, episode steps: 29, reward: 1057.16
+Episode: 9730, opp: strong_opp, total numsteps: 734518, episode steps: 29, reward: 1028.75
+Episode: 9740, opp: strong_opp, total numsteps: 734901, episode steps: 28, reward: 1057.45
+Episode: 9750, opp: strong_opp, total numsteps: 735349, episode steps: 28, reward: 1066.74
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1086.32
+----------------------------------------
+Episode: 9760, opp: strong_opp, total numsteps: 735791, episode steps: 23, reward: 1072.56
+Episode: 9770, opp: strong_opp, total numsteps: 736306, episode steps: 29, reward: 1029.96
+Episode: 9780, opp: strong_opp, total numsteps: 736771, episode steps: 26, reward: 1046.74
+Episode: 9790, opp: strong_opp, total numsteps: 737241, episode steps: 22, reward: 1061.46
+Episode: 9800, opp: strong_opp, total numsteps: 737669, episode steps: 39, reward: 1034.17
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 621.26
+----------------------------------------
+Episode: 9810, opp: strong_opp, total numsteps: 738049, episode steps: 34, reward: 1067.04
+Episode: 9820, opp: strong_opp, total numsteps: 738594, episode steps: 59, reward: 1111.87
+Episode: 9830, opp: strong_opp, total numsteps: 738990, episode steps: 27, reward: 1059.05
+Episode: 9840, opp: strong_opp, total numsteps: 739566, episode steps: 85, reward: 963.66
+Episode: 9850, opp: strong_opp, total numsteps: 739979, episode steps: 31, reward: 1063.98
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1063.23
+----------------------------------------
+Episode: 9860, opp: strong_opp, total numsteps: 740478, episode steps: 33, reward: 1029.65
+Episode: 9870, opp: strong_opp, total numsteps: 740965, episode steps: 103, reward: 996.75
+Episode: 9880, opp: strong_opp, total numsteps: 741631, episode steps: 28, reward: 1044.06
+Episode: 9890, opp: strong_opp, total numsteps: 742074, episode steps: 27, reward: 1057.58
+Episode: 9900, opp: strong_opp, total numsteps: 742492, episode steps: 58, reward: 1133.67
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1062.11
+----------------------------------------
+Episode: 9910, opp: strong_opp, total numsteps: 742994, episode steps: 24, reward: 1060.16
+Episode: 9920, opp: strong_opp, total numsteps: 743526, episode steps: 55, reward: 1115.89
+Episode: 9930, opp: strong_opp, total numsteps: 744018, episode steps: 28, reward: 1065.47
+Episode: 9940, opp: strong_opp, total numsteps: 744565, episode steps: 29, reward: 1063.18
+Episode: 9950, opp: strong_opp, total numsteps: 745041, episode steps: 28, reward: 1069.02
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1049.03
+----------------------------------------
+Episode: 9960, opp: strong_opp, total numsteps: 745466, episode steps: 28, reward: 1078.47
+Episode: 9970, opp: strong_opp, total numsteps: 745935, episode steps: 31, reward: 1030.78
+Episode: 9980, opp: strong_opp, total numsteps: 746472, episode steps: 31, reward: 1033.17
+Episode: 9990, opp: strong_opp, total numsteps: 746861, episode steps: 29, reward: 1046.69

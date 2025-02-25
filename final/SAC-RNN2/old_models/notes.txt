@@ -1,0 +1,10 @@
+what the names stand for: 
+qr_sac_run5 = checkpoint_hockey_vs_sac_and_strong_all_rew_ep_20000_qr_sac_run5 from folder QR-SAC5
+sac_strong = sac_checkpoint_hockey_vs_strong_and_self_all_rew_ep_35000 from folder SAC_hockey_strong
+sac_8400 = sac_checkpoint_hockey_vs_rand_all_rew_ep_8400 from folder SAC2_hockey_random
+sac_run3 = checkpoint_hockey_vs_self_all_rew_ep_9000_sac_run3 from folder SAC-clean (der der nur über Bande spielt und der sac_strong overfittet)
+qr_sac_run6 = checkpoint_hockey_vs_self_and_sac_strong_all_rew_ep_20000_qr_sac_run6 from folder QR-SAC5
+sac_moe_run2 = checkpoint_hockey_vs_random_all_rew_ep_22000_sac_moe_run2 from folder SAC_MoE
+sac_rnn_run1 = checkpoint_hockey_vs_weak_all_rew_ep_20000_sac_rnn_run1 from folder SAC-RNN
+sac_rnn_run2 = checkpoint_hockey_vs_3_all_rew_ep_20000_sac_rnn_run2 from folder SAC-RNN
+sac_rnn2_run1 = checkpoint_hockey_vs_2_all_rew_ep_4000_sac_rnn2_run1 from folder SAC-RNN2
