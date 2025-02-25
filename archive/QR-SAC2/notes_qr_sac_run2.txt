@@ -1,0 +1,10 @@
+"Article"
+- QR-SAC vs random agent
+- alle rewards sind angestellt: closenes to puck, touch puck, puck direction
+- lasse es für ? 5 h laufen / ~ 60000 Epochen / ~ 10.000.000 steps 
+- alle pars.args auf Default (außer unten) 
+- + layer normalization
+- reward * 100
+- Agent hat 4 outputs und im Buffer wird nur Aktion vom agent gespeichert 
+- mit 16 quantilen und traj length 7 
+--cuda --batch_size 1024 --updates_per_step 300 --log_test_save 1 5 100 --alpha 0.01 --num_quantile 32

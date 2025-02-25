@@ -1,0 +1,27 @@
+- starte mit qr_sac_runx1
+- Gegner siehe unten
+- qr_sac_run6 wird alle 20k durch sich selbst ersetzt 
+- alle rewards sind angestellt: closenes to puck, touch puck, puck direction
+- lasse es für ca 4 Tage laufen / ~ 120.000 Epochen / ~ 4.000.000 steps 
+- für args siehe qr_sac_runx2_args.pkl
+- + layer normalization
+- reward * 100
+- Agent hat 4 outputs und im Buffer wird nur Aktion vom agent gespeichert 
+- testing jeweils 5 eps gegen strong, qr (wird neu gemacht), sac3, sac_strong
+
+
+def which_opp(episode):
+    if ((episode // 500) % 7) == 0:
+        return weak_opp, "weak_opp"
+    if ((episode // 500) % 7) == 1:
+        return qr_sac_run6, "qr_sac_run6"
+    if ((episode // 500) % 7) == 2:
+        return sac_run3, "sac_run3"
+    if ((episode // 500) % 7) == 3:
+        return sac_strong, "sac_strong"
+    if ((episode // 500) % 7) == 4:
+        return strong_opp, "strong_opp"
+    if ((episode // 500) % 7) == 5:
+        return sac_strong, "sac_strong"
+    if ((episode // 500) % 7) == 6:
+        return agent, "self"

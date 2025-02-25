@@ -1,0 +1,1606 @@
+cuda:0
+cuda
+Loading models from ./old_models/checkpoint_hockey_vs_sac_and_strong_all_rew_ep_20000_qr_sac_run5
+cuda
+Episode: 50, opp: self, total numsteps: 10746, episode steps: 66, reward: 907.74
+Episode: 100, opp: self, total numsteps: 17751, episode steps: 86, reward: 1189.38
+Episode: 150, opp: self, total numsteps: 24077, episode steps: 33, reward: 1008.53
+Episode: 200, opp: self, total numsteps: 31982, episode steps: 127, reward: -1015.42
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -650.34
+----------------------------------------
+Episode: 250, opp: self, total numsteps: 39266, episode steps: 45, reward: 880.02
+Episode: 300, opp: self, total numsteps: 46074, episode steps: 250, reward: -602.68
+Episode: 350, opp: self, total numsteps: 53155, episode steps: 250, reward: -729.03
+Episode: 400, opp: self, total numsteps: 59763, episode steps: 77, reward: 902.57
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -465.42
+----------------------------------------
+Episode: 450, opp: self, total numsteps: 67079, episode steps: 84, reward: -1154.86
+Episode: 500, opp: self, total numsteps: 72591, episode steps: 72, reward: -1016.26
+Episode: 550, opp: self, total numsteps: 79324, episode steps: 98, reward: 1155.07
+Episode: 600, opp: self, total numsteps: 85790, episode steps: 157, reward: 625.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -694.84
+----------------------------------------
+Episode: 650, opp: self, total numsteps: 92007, episode steps: 141, reward: 873.35
+Episode: 700, opp: self, total numsteps: 99396, episode steps: 181, reward: 889.41
+Episode: 750, opp: self, total numsteps: 105470, episode steps: 167, reward: -1061.87
+Episode: 800, opp: self, total numsteps: 112400, episode steps: 156, reward: 989.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -393.73
+----------------------------------------
+Episode: 850, opp: self, total numsteps: 118231, episode steps: 26, reward: 992.23
+Episode: 900, opp: self, total numsteps: 123623, episode steps: 250, reward: -701.01
+Episode: 950, opp: self, total numsteps: 130194, episode steps: 201, reward: 674.2
+Episode: 1000, opp: self, total numsteps: 136457, episode steps: 154, reward: 1096.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -522.29
+----------------------------------------
+Episode: 1050, opp: self, total numsteps: 143438, episode steps: 250, reward: -20.09
+Episode: 1100, opp: self, total numsteps: 150775, episode steps: 125, reward: 572.56
+Episode: 1150, opp: self, total numsteps: 158658, episode steps: 250, reward: -935.93
+Episode: 1200, opp: self, total numsteps: 165141, episode steps: 206, reward: 584.36
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -529.23
+----------------------------------------
+Episode: 1250, opp: self, total numsteps: 171668, episode steps: 139, reward: 1176.71
+Episode: 1300, opp: self, total numsteps: 177545, episode steps: 105, reward: 1321.33
+Episode: 1350, opp: self, total numsteps: 184614, episode steps: 191, reward: -1600.27
+Episode: 1400, opp: self, total numsteps: 190754, episode steps: 203, reward: -911.85
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -581.92
+----------------------------------------
+Episode: 1450, opp: self, total numsteps: 197830, episode steps: 69, reward: 869.71
+Episode: 1500, opp: self, total numsteps: 204381, episode steps: 116, reward: -1254.26
+Episode: 1550, opp: self, total numsteps: 210648, episode steps: 55, reward: -1114.7
+Episode: 1600, opp: self, total numsteps: 217644, episode steps: 250, reward: -71.75
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -372.23
+----------------------------------------
+Episode: 1650, opp: self, total numsteps: 224488, episode steps: 95, reward: -1044.94
+Episode: 1700, opp: self, total numsteps: 230589, episode steps: 156, reward: -1126.94
+Episode: 1750, opp: self, total numsteps: 237313, episode steps: 23, reward: 1027.13
+Episode: 1800, opp: self, total numsteps: 244433, episode steps: 222, reward: -1246.85
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -535.14
+----------------------------------------
+Episode: 1850, opp: self, total numsteps: 250673, episode steps: 73, reward: 779.04
+Episode: 1900, opp: self, total numsteps: 256476, episode steps: 62, reward: 888.61
+Episode: 1950, opp: self, total numsteps: 263373, episode steps: 193, reward: 998.18
+Episode: 2000, opp: self, total numsteps: 270266, episode steps: 151, reward: 674.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -204.95
+----------------------------------------
+Episode: 2050, opp: self, total numsteps: 277535, episode steps: 60, reward: 995.21
+Episode: 2100, opp: self, total numsteps: 284431, episode steps: 59, reward: -1173.68
+Episode: 2150, opp: self, total numsteps: 291856, episode steps: 62, reward: 1014.97
+Episode: 2200, opp: self, total numsteps: 297785, episode steps: 250, reward: -107.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -509.52
+----------------------------------------
+Episode: 2250, opp: self, total numsteps: 304315, episode steps: 250, reward: -556.24
+Episode: 2300, opp: self, total numsteps: 310872, episode steps: 99, reward: -1323.34
+Episode: 2350, opp: self, total numsteps: 317842, episode steps: 250, reward: 203.22
+Episode: 2400, opp: self, total numsteps: 324735, episode steps: 60, reward: 1233.82
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -848.46
+----------------------------------------
+Episode: 2450, opp: self, total numsteps: 331152, episode steps: 42, reward: -1177.1
+Episode: 2500, opp: self, total numsteps: 337299, episode steps: 157, reward: 1206.98
+Episode: 2550, opp: self, total numsteps: 344706, episode steps: 34, reward: 1023.91
+Episode: 2600, opp: self, total numsteps: 352071, episode steps: 37, reward: 928.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 121.13
+----------------------------------------
+Episode: 2650, opp: self, total numsteps: 359087, episode steps: 250, reward: -845.5
+Episode: 2700, opp: self, total numsteps: 365897, episode steps: 221, reward: 1325.92
+Episode: 2750, opp: self, total numsteps: 373266, episode steps: 73, reward: -1385.16
+Episode: 2800, opp: self, total numsteps: 379833, episode steps: 250, reward: -58.63
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -734.96
+----------------------------------------
+Episode: 2850, opp: self, total numsteps: 385537, episode steps: 145, reward: -1423.01
+Episode: 2900, opp: self, total numsteps: 392160, episode steps: 96, reward: -1229.17
+Episode: 2950, opp: self, total numsteps: 399633, episode steps: 85, reward: 1193.6
+Episode: 3000, opp: sac_strong, total numsteps: 406498, episode steps: 75, reward: -1353.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -138.23
+----------------------------------------
+Episode: 3050, opp: sac_strong, total numsteps: 412065, episode steps: 211, reward: 1157.23
+Episode: 3100, opp: sac_strong, total numsteps: 417886, episode steps: 20, reward: 1032.11
+Episode: 3150, opp: sac_strong, total numsteps: 422894, episode steps: 39, reward: 1033.39
+Episode: 3200, opp: sac_strong, total numsteps: 427551, episode steps: 64, reward: -1106.45
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -208.08
+----------------------------------------
+Episode: 3250, opp: sac_strong, total numsteps: 432492, episode steps: 250, reward: 503.38
+Episode: 3300, opp: sac_strong, total numsteps: 437651, episode steps: 250, reward: 291.26
+Episode: 3350, opp: sac_strong, total numsteps: 443256, episode steps: 42, reward: -1065.52
+Episode: 3400, opp: sac_strong, total numsteps: 449700, episode steps: 208, reward: -738.39
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -381.31
+----------------------------------------
+Episode: 3450, opp: sac_strong, total numsteps: 455334, episode steps: 70, reward: -986.89
+Episode: 3500, opp: sac_strong, total numsteps: 461913, episode steps: 94, reward: -874.73
+Episode: 3550, opp: sac_strong, total numsteps: 468103, episode steps: 72, reward: -1020.65
+Episode: 3600, opp: sac_strong, total numsteps: 474340, episode steps: 230, reward: -990.72
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -203.82
+----------------------------------------
+Episode: 3650, opp: sac_strong, total numsteps: 479542, episode steps: 64, reward: 1060.6
+Episode: 3700, opp: sac_strong, total numsteps: 485777, episode steps: 202, reward: 730.13
+Episode: 3750, opp: sac_strong, total numsteps: 490957, episode steps: 246, reward: -1632.47
+Episode: 3800, opp: sac_strong, total numsteps: 496320, episode steps: 173, reward: 1160.11
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -359.96
+----------------------------------------
+Episode: 3850, opp: sac_strong, total numsteps: 502239, episode steps: 32, reward: 1056.2
+Episode: 3900, opp: sac_strong, total numsteps: 507682, episode steps: 33, reward: 1050.44
+Episode: 3950, opp: sac_strong, total numsteps: 513346, episode steps: 127, reward: -786.28
+Episode: 4000, opp: sac_strong, total numsteps: 518695, episode steps: 20, reward: 1033.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -416.08
+----------------------------------------
+Episode: 4050, opp: sac_strong, total numsteps: 524505, episode steps: 39, reward: -1041.77
+Episode: 4100, opp: sac_strong, total numsteps: 530362, episode steps: 52, reward: -1070.7
+Episode: 4150, opp: sac_strong, total numsteps: 536235, episode steps: 97, reward: -1079.18
+Episode: 4200, opp: sac_strong, total numsteps: 542653, episode steps: 233, reward: -1194.61
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -425.82
+----------------------------------------
+Episode: 4250, opp: sac_strong, total numsteps: 549526, episode steps: 72, reward: -1058.14
+Episode: 4300, opp: sac_strong, total numsteps: 556596, episode steps: 38, reward: -1057.56
+Episode: 4350, opp: sac_strong, total numsteps: 563003, episode steps: 50, reward: -1049.99
+Episode: 4400, opp: sac_strong, total numsteps: 569259, episode steps: 28, reward: 1016.48
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -243.97
+----------------------------------------
+Episode: 4450, opp: sac_strong, total numsteps: 575675, episode steps: 79, reward: 896.8
+Episode: 4500, opp: sac_strong, total numsteps: 582141, episode steps: 22, reward: 1019.34
+Episode: 4550, opp: sac_strong, total numsteps: 589100, episode steps: 73, reward: -979.58
+Episode: 4600, opp: sac_strong, total numsteps: 596486, episode steps: 76, reward: 1148.64
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -413.64
+----------------------------------------
+Episode: 4650, opp: sac_strong, total numsteps: 603192, episode steps: 35, reward: -1007.26
+Episode: 4700, opp: sac_strong, total numsteps: 610648, episode steps: 196, reward: 1333.51
+Episode: 4750, opp: sac_strong, total numsteps: 617022, episode steps: 62, reward: -1005.54
+Episode: 4800, opp: sac_strong, total numsteps: 623845, episode steps: 250, reward: 111.12
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -432.77
+----------------------------------------
+Episode: 4850, opp: sac_strong, total numsteps: 630538, episode steps: 26, reward: 1015.77
+Episode: 4900, opp: sac_strong, total numsteps: 637783, episode steps: 110, reward: 837.98
+Episode: 4950, opp: sac_strong, total numsteps: 643735, episode steps: 42, reward: -1065.04
+Episode: 5000, opp: sac_strong, total numsteps: 651416, episode steps: 250, reward: 126.17
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -618.06
+----------------------------------------
+Episode: 5050, opp: sac_strong, total numsteps: 658237, episode steps: 176, reward: 961.98
+Episode: 5100, opp: sac_strong, total numsteps: 663951, episode steps: 48, reward: -1150.07
+Episode: 5150, opp: sac_strong, total numsteps: 670257, episode steps: 74, reward: 1128.63
+Episode: 5200, opp: sac_strong, total numsteps: 677405, episode steps: 67, reward: -1109.08
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -186.2
+----------------------------------------
+Episode: 5250, opp: sac_strong, total numsteps: 683931, episode steps: 29, reward: 1053.98
+Episode: 5300, opp: sac_strong, total numsteps: 691462, episode steps: 142, reward: 918.76
+Episode: 5350, opp: sac_strong, total numsteps: 699348, episode steps: 81, reward: 1195.77
+Episode: 5400, opp: sac_strong, total numsteps: 706648, episode steps: 100, reward: 1009.94
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -117.71
+----------------------------------------
+Episode: 5450, opp: sac_strong, total numsteps: 713814, episode steps: 250, reward: -1815.17
+Episode: 5500, opp: sac_strong, total numsteps: 719898, episode steps: 138, reward: 1093.15
+Episode: 5550, opp: sac_strong, total numsteps: 726739, episode steps: 100, reward: -1056.63
+Episode: 5600, opp: sac_strong, total numsteps: 733354, episode steps: 168, reward: -1074.89
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -278.06
+----------------------------------------
+Episode: 5650, opp: sac_strong, total numsteps: 740249, episode steps: 157, reward: 770.0
+Episode: 5700, opp: sac_strong, total numsteps: 747125, episode steps: 87, reward: 847.81
+Episode: 5750, opp: sac_strong, total numsteps: 753661, episode steps: 63, reward: 1102.15
+Episode: 5800, opp: sac_strong, total numsteps: 761312, episode steps: 176, reward: 743.73
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 25.92
+----------------------------------------
+Episode: 5850, opp: sac_strong, total numsteps: 768404, episode steps: 51, reward: -1058.71
+Episode: 5900, opp: sac_strong, total numsteps: 774761, episode steps: 215, reward: -963.99
+Episode: 5950, opp: sac_strong, total numsteps: 781973, episode steps: 250, reward: 415.64
+Episode: 6000, opp: sac_strong, total numsteps: 788290, episode steps: 59, reward: 1101.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -105.37
+----------------------------------------
+Episode: 6050, opp: sac_strong, total numsteps: 794951, episode steps: 101, reward: 1157.27
+Episode: 6100, opp: sac_strong, total numsteps: 800921, episode steps: 120, reward: -1240.48
+Episode: 6150, opp: sac_strong, total numsteps: 808606, episode steps: 152, reward: -1096.23
+Episode: 6200, opp: sac_strong, total numsteps: 815303, episode steps: 250, reward: 273.61
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -168.44
+----------------------------------------
+Episode: 6250, opp: sac_strong, total numsteps: 821945, episode steps: 139, reward: -1151.61
+Episode: 6300, opp: sac_strong, total numsteps: 828441, episode steps: 165, reward: 1339.18
+Episode: 6350, opp: sac_strong, total numsteps: 835663, episode steps: 151, reward: 898.77
+Episode: 6400, opp: sac_strong, total numsteps: 842930, episode steps: 101, reward: 1054.76
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -153.59
+----------------------------------------
+Episode: 6450, opp: sac_strong, total numsteps: 849560, episode steps: 86, reward: 1066.58
+Episode: 6500, opp: sac_strong, total numsteps: 857066, episode steps: 41, reward: 1055.02
+Episode: 6550, opp: sac_strong, total numsteps: 863942, episode steps: 103, reward: 836.81
+Episode: 6600, opp: sac_strong, total numsteps: 870092, episode steps: 80, reward: -1040.08
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 526.81
+----------------------------------------
+Episode: 6650, opp: sac_strong, total numsteps: 875849, episode steps: 115, reward: -1036.92
+Episode: 6700, opp: sac_strong, total numsteps: 883536, episode steps: 207, reward: -1195.16
+Episode: 6750, opp: sac_strong, total numsteps: 890551, episode steps: 141, reward: 1105.85
+Episode: 6800, opp: sac_strong, total numsteps: 897490, episode steps: 46, reward: 1034.89
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 402.97
+----------------------------------------
+Episode: 6850, opp: sac_strong, total numsteps: 904871, episode steps: 161, reward: -896.01
+Episode: 6900, opp: sac_strong, total numsteps: 911136, episode steps: 167, reward: 1168.42
+Episode: 6950, opp: sac_strong, total numsteps: 918110, episode steps: 181, reward: 1132.47
+Episode: 7000, opp: sac_strong, total numsteps: 924862, episode steps: 70, reward: -1057.41
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 413.82
+----------------------------------------
+Episode: 7050, opp: sac_strong, total numsteps: 931865, episode steps: 22, reward: 1022.61
+Episode: 7100, opp: sac_strong, total numsteps: 939477, episode steps: 205, reward: 1161.2
+Episode: 7150, opp: sac_strong, total numsteps: 946931, episode steps: 246, reward: -1780.4
+Episode: 7200, opp: sac_strong, total numsteps: 953180, episode steps: 130, reward: 1222.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 398.54
+----------------------------------------
+Episode: 7250, opp: sac_strong, total numsteps: 959838, episode steps: 114, reward: 1225.65
+Episode: 7300, opp: sac_strong, total numsteps: 967505, episode steps: 250, reward: 111.94
+Episode: 7350, opp: sac_strong, total numsteps: 974657, episode steps: 21, reward: 1029.77
+Episode: 7400, opp: sac_strong, total numsteps: 981829, episode steps: 45, reward: -1043.05
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 478.94
+----------------------------------------
+Episode: 7450, opp: sac_strong, total numsteps: 988585, episode steps: 62, reward: 1124.84
+Episode: 7500, opp: sac_strong, total numsteps: 996071, episode steps: 39, reward: 989.87
+Episode: 7550, opp: sac_strong, total numsteps: 1003517, episode steps: 91, reward: 793.94
+Episode: 7600, opp: sac_strong, total numsteps: 1010599, episode steps: 77, reward: 985.41
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 491.14
+----------------------------------------
+Episode: 7650, opp: sac_strong, total numsteps: 1017956, episode steps: 57, reward: 986.73
+Episode: 7700, opp: sac_strong, total numsteps: 1025129, episode steps: 233, reward: -862.96
+Episode: 7750, opp: sac_strong, total numsteps: 1032580, episode steps: 113, reward: 1299.07
+Episode: 7800, opp: sac_strong, total numsteps: 1040080, episode steps: 231, reward: -825.56
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 257.7
+----------------------------------------
+Episode: 7850, opp: sac_strong, total numsteps: 1047210, episode steps: 150, reward: 1183.61
+Episode: 7900, opp: sac_strong, total numsteps: 1055305, episode steps: 237, reward: -1239.93
+Episode: 7950, opp: sac_strong, total numsteps: 1062676, episode steps: 58, reward: 977.23
+Episode: 8000, opp: sac_strong, total numsteps: 1069573, episode steps: 92, reward: -991.05
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 30.53
+----------------------------------------
+Episode: 8050, opp: sac_strong, total numsteps: 1075405, episode steps: 56, reward: 997.35
+Episode: 8100, opp: sac_strong, total numsteps: 1081369, episode steps: 56, reward: 1139.38
+Episode: 8150, opp: sac_strong, total numsteps: 1089100, episode steps: 145, reward: 943.19
+Episode: 8200, opp: sac_strong, total numsteps: 1095593, episode steps: 250, reward: -148.05
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 809.21
+----------------------------------------
+Episode: 8250, opp: sac_strong, total numsteps: 1102298, episode steps: 201, reward: -1188.89
+Episode: 8300, opp: sac_strong, total numsteps: 1108544, episode steps: 71, reward: 1031.34
+Episode: 8350, opp: sac_strong, total numsteps: 1114913, episode steps: 206, reward: 1104.25
+Episode: 8400, opp: sac_strong, total numsteps: 1120879, episode steps: 32, reward: 1019.95
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 432.02
+----------------------------------------
+Episode: 8450, opp: sac_strong, total numsteps: 1128039, episode steps: 194, reward: 1177.52
+Episode: 8500, opp: sac_strong, total numsteps: 1134889, episode steps: 59, reward: -999.56
+Episode: 8550, opp: sac_strong, total numsteps: 1140536, episode steps: 59, reward: 1124.2
+Episode: 8600, opp: sac_strong, total numsteps: 1145949, episode steps: 55, reward: -1011.43
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 603.27
+----------------------------------------
+Episode: 8650, opp: sac_strong, total numsteps: 1152159, episode steps: 157, reward: 1066.75
+Episode: 8700, opp: sac_strong, total numsteps: 1158517, episode steps: 64, reward: 1086.06
+Episode: 8750, opp: sac_strong, total numsteps: 1164942, episode steps: 50, reward: -1070.35
+Episode: 8800, opp: sac_strong, total numsteps: 1171712, episode steps: 58, reward: 1132.96
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 821.01
+----------------------------------------
+Episode: 8850, opp: sac_strong, total numsteps: 1177677, episode steps: 45, reward: 1047.51
+Episode: 8900, opp: sac_strong, total numsteps: 1183931, episode steps: 168, reward: -949.59
+Episode: 8950, opp: sac_strong, total numsteps: 1189937, episode steps: 68, reward: 1096.42
+Episode: 9000, opp: sac_strong, total numsteps: 1195659, episode steps: 55, reward: 1001.63
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 460.07
+----------------------------------------
+Episode: 9050, opp: sac_strong, total numsteps: 1202024, episode steps: 74, reward: -987.5
+Episode: 9100, opp: sac_strong, total numsteps: 1207638, episode steps: 250, reward: -206.23
+Episode: 9150, opp: sac_strong, total numsteps: 1214455, episode steps: 250, reward: 162.38
+Episode: 9200, opp: sac_strong, total numsteps: 1220702, episode steps: 76, reward: 1087.48
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 470.59
+----------------------------------------
+Episode: 9250, opp: sac_strong, total numsteps: 1226823, episode steps: 148, reward: 1048.99
+Episode: 9300, opp: sac_strong, total numsteps: 1233305, episode steps: 212, reward: 1288.59
+Episode: 9350, opp: sac_strong, total numsteps: 1239562, episode steps: 185, reward: 1159.18
+Episode: 9400, opp: sac_strong, total numsteps: 1246443, episode steps: 61, reward: 1097.23
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 621.04
+----------------------------------------
+Episode: 9450, opp: sac_strong, total numsteps: 1253104, episode steps: 171, reward: 821.76
+Episode: 9500, opp: sac_strong, total numsteps: 1258819, episode steps: 74, reward: 1100.16
+Episode: 9550, opp: sac_strong, total numsteps: 1264524, episode steps: 21, reward: 1023.36
+Episode: 9600, opp: sac_strong, total numsteps: 1270778, episode steps: 69, reward: 1095.24
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 501.19
+----------------------------------------
+Episode: 9650, opp: sac_strong, total numsteps: 1276122, episode steps: 70, reward: 1111.44
+Episode: 9700, opp: sac_strong, total numsteps: 1282581, episode steps: 100, reward: 1174.82
+Episode: 9750, opp: sac_strong, total numsteps: 1288049, episode steps: 183, reward: 1213.09
+Episode: 9800, opp: sac_strong, total numsteps: 1293613, episode steps: 221, reward: -1075.36
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 705.81
+----------------------------------------
+Episode: 9850, opp: sac_strong, total numsteps: 1299959, episode steps: 153, reward: 1071.91
+Episode: 9900, opp: sac_strong, total numsteps: 1305421, episode steps: 81, reward: 1111.97
+Episode: 9950, opp: sac_strong, total numsteps: 1310962, episode steps: 159, reward: 1365.25
+Episode: 10000, opp: sac_strong, total numsteps: 1317202, episode steps: 36, reward: 1055.96
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 769.2
+----------------------------------------
+Saving models to checkpoints/checkpoint_hockey_vs_self_and_sac_strong_all_rew_ep_10000_qr_sac_run6
+Episode: 10050, opp: sac_strong, total numsteps: 1322993, episode steps: 179, reward: 1057.8
+Episode: 10100, opp: sac_strong, total numsteps: 1328189, episode steps: 148, reward: 935.46
+Episode: 10150, opp: sac_strong, total numsteps: 1333420, episode steps: 43, reward: 1042.37
+Episode: 10200, opp: sac_strong, total numsteps: 1338770, episode steps: 250, reward: 378.43
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1063.95
+----------------------------------------
+Episode: 10250, opp: sac_strong, total numsteps: 1345861, episode steps: 52, reward: 1018.01
+Episode: 10300, opp: sac_strong, total numsteps: 1351732, episode steps: 35, reward: 1065.62
+Episode: 10350, opp: sac_strong, total numsteps: 1358244, episode steps: 250, reward: 193.59
+Episode: 10400, opp: sac_strong, total numsteps: 1363750, episode steps: 250, reward: -363.83
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 854.16
+----------------------------------------
+Episode: 10450, opp: sac_strong, total numsteps: 1369357, episode steps: 242, reward: -897.5
+Episode: 10500, opp: sac_strong, total numsteps: 1374377, episode steps: 75, reward: 1135.68
+Episode: 10550, opp: sac_strong, total numsteps: 1380323, episode steps: 37, reward: 1063.39
+Episode: 10600, opp: sac_strong, total numsteps: 1386228, episode steps: 96, reward: 1123.47
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 605.52
+----------------------------------------
+Episode: 10650, opp: sac_strong, total numsteps: 1392211, episode steps: 118, reward: 1168.09
+Episode: 10700, opp: sac_strong, total numsteps: 1398407, episode steps: 40, reward: 1070.01
+Episode: 10750, opp: sac_strong, total numsteps: 1403636, episode steps: 47, reward: -1031.55
+Episode: 10800, opp: sac_strong, total numsteps: 1408637, episode steps: 117, reward: 1133.97
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 682.26
+----------------------------------------
+Episode: 10850, opp: sac_strong, total numsteps: 1413893, episode steps: 29, reward: 1020.73
+Episode: 10900, opp: sac_strong, total numsteps: 1418301, episode steps: 21, reward: 1016.89
+Episode: 10950, opp: sac_strong, total numsteps: 1423273, episode steps: 22, reward: 1024.58
+Episode: 11000, opp: sac_strong, total numsteps: 1428915, episode steps: 250, reward: 513.16
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 850.99
+----------------------------------------
+Episode: 11050, opp: sac_strong, total numsteps: 1432891, episode steps: 140, reward: 1135.45
+Episode: 11100, opp: sac_strong, total numsteps: 1438464, episode steps: 32, reward: 1006.1
+Episode: 11150, opp: sac_strong, total numsteps: 1443601, episode steps: 40, reward: 1046.24
+Episode: 11200, opp: sac_strong, total numsteps: 1448666, episode steps: 31, reward: 1018.84
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 932.51
+----------------------------------------
+Episode: 11250, opp: sac_strong, total numsteps: 1454172, episode steps: 250, reward: -298.97
+Episode: 11300, opp: sac_strong, total numsteps: 1459185, episode steps: 250, reward: -689.27
+Episode: 11350, opp: sac_strong, total numsteps: 1464706, episode steps: 142, reward: -1131.48
+Episode: 11400, opp: sac_strong, total numsteps: 1469908, episode steps: 45, reward: 1026.09
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 744.04
+----------------------------------------
+Episode: 11450, opp: sac_strong, total numsteps: 1475714, episode steps: 121, reward: 1198.25
+Episode: 11500, opp: sac_strong, total numsteps: 1481841, episode steps: 21, reward: 1018.14
+Episode: 11550, opp: sac_strong, total numsteps: 1488078, episode steps: 210, reward: 1292.7
+Episode: 11600, opp: sac_strong, total numsteps: 1493591, episode steps: 148, reward: 1160.72
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 874.29
+----------------------------------------
+Episode: 11650, opp: sac_strong, total numsteps: 1498277, episode steps: 175, reward: -918.06
+Episode: 11700, opp: sac_strong, total numsteps: 1504322, episode steps: 165, reward: -1023.8
+Episode: 11750, opp: sac_strong, total numsteps: 1510418, episode steps: 37, reward: 1052.32
+Episode: 11800, opp: sac_strong, total numsteps: 1516321, episode steps: 190, reward: 858.66
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 242.13
+----------------------------------------
+Episode: 11850, opp: sac_strong, total numsteps: 1521654, episode steps: 31, reward: 1044.41
+Episode: 11900, opp: sac_strong, total numsteps: 1527120, episode steps: 250, reward: -57.95
+Episode: 11950, opp: sac_strong, total numsteps: 1532853, episode steps: 47, reward: 1035.32
+Episode: 12000, opp: sac_strong, total numsteps: 1539089, episode steps: 250, reward: -52.48
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 661.38
+----------------------------------------
+Episode: 12050, opp: sac_strong, total numsteps: 1544119, episode steps: 20, reward: 1044.53
+Episode: 12100, opp: sac_strong, total numsteps: 1548935, episode steps: 30, reward: 1019.83
+Episode: 12150, opp: sac_strong, total numsteps: 1554334, episode steps: 155, reward: 1161.44
+Episode: 12200, opp: sac_strong, total numsteps: 1559265, episode steps: 38, reward: 1057.54
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 915.69
+----------------------------------------
+Episode: 12250, opp: sac_strong, total numsteps: 1565079, episode steps: 22, reward: 1016.09
+Episode: 12300, opp: sac_strong, total numsteps: 1570151, episode steps: 46, reward: 1041.71
+Episode: 12350, opp: sac_strong, total numsteps: 1575261, episode steps: 89, reward: 1057.68
+Episode: 12400, opp: sac_strong, total numsteps: 1580533, episode steps: 117, reward: 1058.71
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 596.37
+----------------------------------------
+Episode: 12450, opp: sac_strong, total numsteps: 1585561, episode steps: 40, reward: 1042.79
+Episode: 12500, opp: sac_strong, total numsteps: 1591308, episode steps: 205, reward: 927.89
+Episode: 12550, opp: sac_strong, total numsteps: 1596004, episode steps: 27, reward: 1003.2
+Episode: 12600, opp: sac_strong, total numsteps: 1602146, episode steps: 250, reward: 279.48
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 600.67
+----------------------------------------
+Episode: 12650, opp: sac_strong, total numsteps: 1607939, episode steps: 150, reward: 1300.8
+Episode: 12700, opp: sac_strong, total numsteps: 1613061, episode steps: 30, reward: 1045.72
+Episode: 12750, opp: sac_strong, total numsteps: 1618117, episode steps: 80, reward: 1099.72
+Episode: 12800, opp: sac_strong, total numsteps: 1623417, episode steps: 140, reward: 1093.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 713.94
+----------------------------------------
+Episode: 12850, opp: sac_strong, total numsteps: 1629619, episode steps: 39, reward: 1036.82
+Episode: 12900, opp: sac_strong, total numsteps: 1634166, episode steps: 68, reward: 1099.81
+Episode: 12950, opp: sac_strong, total numsteps: 1638633, episode steps: 119, reward: 1005.29
+Episode: 13000, opp: sac_strong, total numsteps: 1643288, episode steps: 21, reward: 1027.2
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 867.29
+----------------------------------------
+Episode: 13050, opp: sac_strong, total numsteps: 1648257, episode steps: 25, reward: 1019.06
+Episode: 13100, opp: sac_strong, total numsteps: 1653391, episode steps: 80, reward: 1115.05
+Episode: 13150, opp: sac_strong, total numsteps: 1658230, episode steps: 21, reward: 1021.84
+Episode: 13200, opp: sac_strong, total numsteps: 1663717, episode steps: 21, reward: 1018.37
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1088.79
+----------------------------------------
+Episode: 13250, opp: sac_strong, total numsteps: 1668509, episode steps: 21, reward: 1020.31
+Episode: 13300, opp: sac_strong, total numsteps: 1674266, episode steps: 42, reward: 1045.1
+Episode: 13350, opp: sac_strong, total numsteps: 1680566, episode steps: 129, reward: 1064.99
+Episode: 13400, opp: sac_strong, total numsteps: 1686467, episode steps: 136, reward: 1141.84
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 975.83
+----------------------------------------
+Episode: 13450, opp: sac_strong, total numsteps: 1691291, episode steps: 96, reward: 1082.39
+Episode: 13500, opp: sac_strong, total numsteps: 1696142, episode steps: 29, reward: 1033.06
+Episode: 13550, opp: sac_strong, total numsteps: 1702075, episode steps: 154, reward: 1111.43
+Episode: 13600, opp: sac_strong, total numsteps: 1707130, episode steps: 167, reward: 1229.12
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 830.58
+----------------------------------------
+Episode: 13650, opp: sac_strong, total numsteps: 1711468, episode steps: 48, reward: 1001.96
+Episode: 13700, opp: sac_strong, total numsteps: 1716822, episode steps: 156, reward: 1222.52
+Episode: 13750, opp: sac_strong, total numsteps: 1721700, episode steps: 166, reward: 1223.4
+Episode: 13800, opp: sac_strong, total numsteps: 1726450, episode steps: 250, reward: 234.71
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 919.45
+----------------------------------------
+Episode: 13850, opp: sac_strong, total numsteps: 1731708, episode steps: 142, reward: 1131.8
+Episode: 13900, opp: sac_strong, total numsteps: 1736535, episode steps: 98, reward: 1022.5
+Episode: 13950, opp: sac_strong, total numsteps: 1741396, episode steps: 21, reward: 1043.22
+Episode: 14000, opp: sac_strong, total numsteps: 1746021, episode steps: 111, reward: 1006.28
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 990.05
+----------------------------------------
+Episode: 14050, opp: sac_strong, total numsteps: 1750509, episode steps: 49, reward: 1036.25
+Episode: 14100, opp: sac_strong, total numsteps: 1755251, episode steps: 38, reward: 1036.12
+Episode: 14150, opp: sac_strong, total numsteps: 1760024, episode steps: 233, reward: 1254.77
+Episode: 14200, opp: sac_strong, total numsteps: 1764780, episode steps: 34, reward: 1064.25
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 834.29
+----------------------------------------
+Episode: 14250, opp: sac_strong, total numsteps: 1769585, episode steps: 29, reward: 1023.56
+Episode: 14300, opp: sac_strong, total numsteps: 1774042, episode steps: 22, reward: 1028.88
+Episode: 14350, opp: sac_strong, total numsteps: 1778795, episode steps: 30, reward: 1019.49
+Episode: 14400, opp: sac_strong, total numsteps: 1783833, episode steps: 153, reward: 1104.92
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 703.28
+----------------------------------------
+Episode: 14450, opp: sac_strong, total numsteps: 1789435, episode steps: 125, reward: -1050.04
+Episode: 14500, opp: sac_strong, total numsteps: 1793193, episode steps: 156, reward: 1106.37
+Episode: 14550, opp: sac_strong, total numsteps: 1797526, episode steps: 41, reward: 1016.69
+Episode: 14600, opp: sac_strong, total numsteps: 1801415, episode steps: 22, reward: 1015.66
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 863.27
+----------------------------------------
+Episode: 14650, opp: sac_strong, total numsteps: 1805434, episode steps: 39, reward: 1053.33
+Episode: 14700, opp: sac_strong, total numsteps: 1810091, episode steps: 191, reward: 1236.27
+Episode: 14750, opp: sac_strong, total numsteps: 1814580, episode steps: 39, reward: 1067.49
+Episode: 14800, opp: sac_strong, total numsteps: 1818539, episode steps: 39, reward: 1066.72
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 774.6
+----------------------------------------
+Episode: 14850, opp: sac_strong, total numsteps: 1822813, episode steps: 40, reward: 1048.94
+Episode: 14900, opp: sac_strong, total numsteps: 1826916, episode steps: 41, reward: 1063.62
+Episode: 14950, opp: sac_strong, total numsteps: 1830831, episode steps: 21, reward: 1015.79
+Episode: 15000, opp: sac_strong, total numsteps: 1835009, episode steps: 123, reward: 1104.15
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1062.31
+----------------------------------------
+Episode: 15050, opp: sac_strong, total numsteps: 1839383, episode steps: 206, reward: 1243.51
+Episode: 15100, opp: sac_strong, total numsteps: 1844907, episode steps: 250, reward: -111.35
+Episode: 15150, opp: sac_strong, total numsteps: 1849406, episode steps: 21, reward: 1018.15
+Episode: 15200, opp: sac_strong, total numsteps: 1853990, episode steps: 40, reward: 1059.38
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1093.78
+----------------------------------------
+Episode: 15250, opp: sac_strong, total numsteps: 1858398, episode steps: 167, reward: 1036.37
+Episode: 15300, opp: sac_strong, total numsteps: 1863082, episode steps: 159, reward: 1308.76
+Episode: 15350, opp: sac_strong, total numsteps: 1867629, episode steps: 38, reward: 1048.92
+Episode: 15400, opp: sac_strong, total numsteps: 1872854, episode steps: 36, reward: 1068.26
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1036.62
+----------------------------------------
+Episode: 15450, opp: sac_strong, total numsteps: 1878254, episode steps: 25, reward: 1011.64
+Episode: 15500, opp: sac_strong, total numsteps: 1882622, episode steps: 73, reward: 1091.34
+Episode: 15550, opp: sac_strong, total numsteps: 1887290, episode steps: 40, reward: 1031.39
+Episode: 15600, opp: sac_strong, total numsteps: 1892066, episode steps: 41, reward: 1056.64
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 853.88
+----------------------------------------
+Episode: 15650, opp: sac_strong, total numsteps: 1896332, episode steps: 44, reward: 1049.64
+Episode: 15700, opp: sac_strong, total numsteps: 1901019, episode steps: 45, reward: 1001.43
+Episode: 15750, opp: sac_strong, total numsteps: 1906129, episode steps: 153, reward: 1241.33
+Episode: 15800, opp: sac_strong, total numsteps: 1911220, episode steps: 131, reward: 1145.54
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 820.81
+----------------------------------------
+Episode: 15850, opp: sac_strong, total numsteps: 1916536, episode steps: 64, reward: 1048.41
+Episode: 15900, opp: sac_strong, total numsteps: 1921718, episode steps: 45, reward: 1041.93
+Episode: 15950, opp: sac_strong, total numsteps: 1926509, episode steps: 73, reward: 1082.32
+Episode: 16000, opp: sac_strong, total numsteps: 1930590, episode steps: 21, reward: 1024.21
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1085.93
+----------------------------------------
+Episode: 16050, opp: sac_strong, total numsteps: 1935173, episode steps: 124, reward: 1110.56
+Episode: 16100, opp: sac_strong, total numsteps: 1939411, episode steps: 20, reward: 1023.96
+Episode: 16150, opp: sac_strong, total numsteps: 1943517, episode steps: 21, reward: 1046.62
+Episode: 16200, opp: sac_strong, total numsteps: 1948102, episode steps: 250, reward: 422.94
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 972.52
+----------------------------------------
+Episode: 16250, opp: sac_strong, total numsteps: 1952219, episode steps: 25, reward: 1022.92
+Episode: 16300, opp: sac_strong, total numsteps: 1957135, episode steps: 145, reward: 1136.3
+Episode: 16350, opp: sac_strong, total numsteps: 1961673, episode steps: 28, reward: 997.49
+Episode: 16400, opp: sac_strong, total numsteps: 1965841, episode steps: 21, reward: 1022.84
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 326.0
+----------------------------------------
+Episode: 16450, opp: sac_strong, total numsteps: 1971546, episode steps: 95, reward: 1065.78
+Episode: 16500, opp: sac_strong, total numsteps: 1976038, episode steps: 21, reward: 1020.06
+Episode: 16550, opp: sac_strong, total numsteps: 1981476, episode steps: 91, reward: 1167.6
+Episode: 16600, opp: sac_strong, total numsteps: 1985474, episode steps: 104, reward: 1163.85
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1064.54
+----------------------------------------
+Episode: 16650, opp: sac_strong, total numsteps: 1990022, episode steps: 20, reward: 1050.83
+Episode: 16700, opp: sac_strong, total numsteps: 1993772, episode steps: 22, reward: 1033.52
+Episode: 16750, opp: sac_strong, total numsteps: 1998594, episode steps: 148, reward: 1135.34
+Episode: 16800, opp: sac_strong, total numsteps: 2002703, episode steps: 40, reward: 1053.73
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 983.09
+----------------------------------------
+Episode: 16850, opp: sac_strong, total numsteps: 2007120, episode steps: 39, reward: 1055.78
+Episode: 16900, opp: sac_strong, total numsteps: 2011035, episode steps: 39, reward: 1063.67
+Episode: 16950, opp: sac_strong, total numsteps: 2015106, episode steps: 30, reward: 1020.1
+Episode: 17000, opp: sac_strong, total numsteps: 2020090, episode steps: 161, reward: 1063.91
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 775.82
+----------------------------------------
+Episode: 17050, opp: sac_strong, total numsteps: 2025219, episode steps: 231, reward: 642.76
+Episode: 17100, opp: sac_strong, total numsteps: 2029167, episode steps: 106, reward: 913.24
+Episode: 17150, opp: sac_strong, total numsteps: 2034139, episode steps: 250, reward: 209.92
+Episode: 17200, opp: sac_strong, total numsteps: 2038404, episode steps: 68, reward: 1085.84
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 998.96
+----------------------------------------
+Episode: 17250, opp: sac_strong, total numsteps: 2043181, episode steps: 42, reward: 1022.16
+Episode: 17300, opp: sac_strong, total numsteps: 2048610, episode steps: 43, reward: 1007.84
+Episode: 17350, opp: sac_strong, total numsteps: 2053259, episode steps: 250, reward: -278.29
+Episode: 17400, opp: sac_strong, total numsteps: 2057673, episode steps: 69, reward: 1059.7
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 998.99
+----------------------------------------
+Episode: 17450, opp: sac_strong, total numsteps: 2061525, episode steps: 59, reward: -1171.03
+Episode: 17500, opp: sac_strong, total numsteps: 2066051, episode steps: 27, reward: 1049.76
+Episode: 17550, opp: sac_strong, total numsteps: 2070396, episode steps: 180, reward: 1210.53
+Episode: 17600, opp: sac_strong, total numsteps: 2075329, episode steps: 52, reward: -1182.15
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 998.64
+----------------------------------------
+Episode: 17650, opp: sac_strong, total numsteps: 2079924, episode steps: 250, reward: -63.39
+Episode: 17700, opp: sac_strong, total numsteps: 2084069, episode steps: 40, reward: 1036.04
+Episode: 17750, opp: sac_strong, total numsteps: 2088426, episode steps: 49, reward: 997.61
+Episode: 17800, opp: sac_strong, total numsteps: 2093620, episode steps: 41, reward: 1041.79
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1069.93
+----------------------------------------
+Episode: 17850, opp: sac_strong, total numsteps: 2097930, episode steps: 40, reward: 1054.72
+Episode: 17900, opp: sac_strong, total numsteps: 2102048, episode steps: 43, reward: 1022.72
+Episode: 17950, opp: sac_strong, total numsteps: 2106285, episode steps: 110, reward: 1044.68
+Episode: 18000, opp: sac_strong, total numsteps: 2111458, episode steps: 250, reward: 169.62
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 812.56
+----------------------------------------
+Episode: 18050, opp: sac_strong, total numsteps: 2116377, episode steps: 45, reward: 1012.4
+Episode: 18100, opp: sac_strong, total numsteps: 2120887, episode steps: 26, reward: 1024.36
+Episode: 18150, opp: sac_strong, total numsteps: 2125641, episode steps: 72, reward: 1136.43
+Episode: 18200, opp: sac_strong, total numsteps: 2129963, episode steps: 146, reward: -1010.45
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 863.05
+----------------------------------------
+Episode: 18250, opp: sac_strong, total numsteps: 2134297, episode steps: 76, reward: 1144.04
+Episode: 18300, opp: sac_strong, total numsteps: 2138528, episode steps: 46, reward: 1046.12
+Episode: 18350, opp: sac_strong, total numsteps: 2143304, episode steps: 227, reward: 1098.24
+Episode: 18400, opp: sac_strong, total numsteps: 2147955, episode steps: 45, reward: 1054.36
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 981.87
+----------------------------------------
+Episode: 18450, opp: sac_strong, total numsteps: 2152735, episode steps: 184, reward: 1075.91
+Episode: 18500, opp: sac_strong, total numsteps: 2157776, episode steps: 37, reward: 1049.31
+Episode: 18550, opp: sac_strong, total numsteps: 2162348, episode steps: 250, reward: 371.25
+Episode: 18600, opp: sac_strong, total numsteps: 2166880, episode steps: 43, reward: 1047.1
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 847.36
+----------------------------------------
+Episode: 18650, opp: sac_strong, total numsteps: 2171345, episode steps: 127, reward: 1133.07
+Episode: 18700, opp: sac_strong, total numsteps: 2175542, episode steps: 38, reward: 1026.87
+Episode: 18750, opp: sac_strong, total numsteps: 2179875, episode steps: 107, reward: 1102.76
+Episode: 18800, opp: sac_strong, total numsteps: 2184834, episode steps: 28, reward: 1055.88
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1093.85
+----------------------------------------
+Episode: 18850, opp: sac_strong, total numsteps: 2189551, episode steps: 97, reward: 1061.8
+Episode: 18900, opp: sac_strong, total numsteps: 2193784, episode steps: 37, reward: 1057.0
+Episode: 18950, opp: sac_strong, total numsteps: 2197975, episode steps: 161, reward: 1174.95
+Episode: 19000, opp: sac_strong, total numsteps: 2202072, episode steps: 90, reward: 1097.23
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 748.64
+----------------------------------------
+Episode: 19050, opp: sac_strong, total numsteps: 2206490, episode steps: 90, reward: 1088.01
+Episode: 19100, opp: sac_strong, total numsteps: 2210991, episode steps: 28, reward: 1023.85
+Episode: 19150, opp: sac_strong, total numsteps: 2214944, episode steps: 23, reward: 1035.92
+Episode: 19200, opp: sac_strong, total numsteps: 2219467, episode steps: 28, reward: 1052.28
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1101.62
+----------------------------------------
+Episode: 19250, opp: sac_strong, total numsteps: 2222633, episode steps: 26, reward: 1034.66
+Episode: 19300, opp: sac_strong, total numsteps: 2226328, episode steps: 209, reward: 1329.73
+Episode: 19350, opp: sac_strong, total numsteps: 2230544, episode steps: 100, reward: 1080.17
+Episode: 19400, opp: sac_strong, total numsteps: 2234573, episode steps: 68, reward: 1101.67
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 793.13
+----------------------------------------
+Episode: 19450, opp: sac_strong, total numsteps: 2239715, episode steps: 154, reward: 1059.36
+Episode: 19500, opp: sac_strong, total numsteps: 2243477, episode steps: 27, reward: 1049.4
+Episode: 19550, opp: sac_strong, total numsteps: 2247737, episode steps: 38, reward: 1064.64
+Episode: 19600, opp: sac_strong, total numsteps: 2251485, episode steps: 26, reward: 1028.26
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1078.84
+----------------------------------------
+Episode: 19650, opp: sac_strong, total numsteps: 2256119, episode steps: 34, reward: 1073.21
+Episode: 19700, opp: sac_strong, total numsteps: 2260303, episode steps: 77, reward: 1112.45
+Episode: 19750, opp: sac_strong, total numsteps: 2263901, episode steps: 116, reward: 858.15
+Episode: 19800, opp: sac_strong, total numsteps: 2268167, episode steps: 25, reward: 1036.22
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 880.39
+----------------------------------------
+Episode: 19850, opp: sac_strong, total numsteps: 2271546, episode steps: 29, reward: 1034.68
+Episode: 19900, opp: sac_strong, total numsteps: 2275559, episode steps: 37, reward: 1053.74
+Episode: 19950, opp: sac_strong, total numsteps: 2279681, episode steps: 72, reward: 1099.63
+Episode: 20000, opp: sac_strong, total numsteps: 2283143, episode steps: 42, reward: 1038.46
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1087.19
+----------------------------------------
+Saving models to checkpoints/checkpoint_hockey_vs_self_and_sac_strong_all_rew_ep_20000_qr_sac_run6
+Episode: 20050, opp: sac_strong, total numsteps: 2288186, episode steps: 77, reward: 1069.26
+Episode: 20100, opp: sac_strong, total numsteps: 2292497, episode steps: 70, reward: 1065.23
+Episode: 20150, opp: sac_strong, total numsteps: 2297139, episode steps: 39, reward: 1052.55
+Episode: 20200, opp: sac_strong, total numsteps: 2301542, episode steps: 26, reward: 1018.06
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1076.35
+----------------------------------------
+Episode: 20250, opp: sac_strong, total numsteps: 2306223, episode steps: 43, reward: 1041.75
+Episode: 20300, opp: sac_strong, total numsteps: 2310956, episode steps: 71, reward: 1122.01
+Episode: 20350, opp: sac_strong, total numsteps: 2315253, episode steps: 152, reward: 1238.34
+Episode: 20400, opp: sac_strong, total numsteps: 2319050, episode steps: 142, reward: 1011.21
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 875.88
+----------------------------------------
+Episode: 20450, opp: sac_strong, total numsteps: 2323593, episode steps: 70, reward: 1124.38
+Episode: 20500, opp: sac_strong, total numsteps: 2327958, episode steps: 40, reward: 1067.59
+Episode: 20550, opp: sac_strong, total numsteps: 2332028, episode steps: 28, reward: 1036.71
+Episode: 20600, opp: sac_strong, total numsteps: 2336506, episode steps: 46, reward: 1050.74
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1091.08
+----------------------------------------
+Episode: 20650, opp: sac_strong, total numsteps: 2341005, episode steps: 232, reward: 1279.76
+Episode: 20700, opp: sac_strong, total numsteps: 2345069, episode steps: 117, reward: 1006.35
+Episode: 20750, opp: sac_strong, total numsteps: 2349695, episode steps: 73, reward: 1099.07
+Episode: 20800, opp: sac_strong, total numsteps: 2354607, episode steps: 28, reward: 1019.15
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1071.74
+----------------------------------------
+Episode: 20850, opp: sac_strong, total numsteps: 2359153, episode steps: 22, reward: 1054.07
+Episode: 20900, opp: sac_strong, total numsteps: 2362941, episode steps: 102, reward: -1190.73
+Episode: 20950, opp: sac_strong, total numsteps: 2367322, episode steps: 85, reward: -1198.22
+Episode: 21000, opp: sac_strong, total numsteps: 2371592, episode steps: 74, reward: 1145.09
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 959.13
+----------------------------------------
+Episode: 21050, opp: sac_strong, total numsteps: 2375722, episode steps: 109, reward: 1063.45
+Episode: 21100, opp: sac_strong, total numsteps: 2379521, episode steps: 45, reward: 1028.77
+Episode: 21150, opp: sac_strong, total numsteps: 2383784, episode steps: 31, reward: 1012.38
+Episode: 21200, opp: sac_strong, total numsteps: 2387990, episode steps: 39, reward: 1065.21
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 958.75
+----------------------------------------
+Episode: 21250, opp: sac_strong, total numsteps: 2393007, episode steps: 69, reward: 1097.44
+Episode: 21300, opp: sac_strong, total numsteps: 2397038, episode steps: 45, reward: 1010.05
+Episode: 21350, opp: sac_strong, total numsteps: 2400558, episode steps: 71, reward: 1139.08
+Episode: 21400, opp: sac_strong, total numsteps: 2404996, episode steps: 69, reward: 1110.51
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 850.75
+----------------------------------------
+Episode: 21450, opp: sac_strong, total numsteps: 2408553, episode steps: 37, reward: 1062.8
+Episode: 21500, opp: sac_strong, total numsteps: 2412646, episode steps: 41, reward: 1027.45
+Episode: 21550, opp: sac_strong, total numsteps: 2416583, episode steps: 39, reward: 1064.88
+Episode: 21600, opp: sac_strong, total numsteps: 2420468, episode steps: 250, reward: 379.36
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 865.33
+----------------------------------------
+Episode: 21650, opp: sac_strong, total numsteps: 2423412, episode steps: 24, reward: 1054.88
+Episode: 21700, opp: sac_strong, total numsteps: 2427682, episode steps: 41, reward: 1062.08
+Episode: 21750, opp: sac_strong, total numsteps: 2431445, episode steps: 38, reward: 1046.7
+Episode: 21800, opp: sac_strong, total numsteps: 2435531, episode steps: 26, reward: 1040.84
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1082.94
+----------------------------------------
+Episode: 21850, opp: sac_strong, total numsteps: 2439210, episode steps: 43, reward: 1052.79
+Episode: 21900, opp: sac_strong, total numsteps: 2443424, episode steps: 90, reward: 1094.18
+Episode: 21950, opp: sac_strong, total numsteps: 2447586, episode steps: 26, reward: 1056.54
+Episode: 22000, opp: sac_strong, total numsteps: 2451399, episode steps: 39, reward: 1036.7
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 983.14
+----------------------------------------
+Episode: 22050, opp: sac_strong, total numsteps: 2455254, episode steps: 45, reward: 1024.46
+Episode: 22100, opp: sac_strong, total numsteps: 2458997, episode steps: 250, reward: 325.57
+Episode: 22150, opp: sac_strong, total numsteps: 2462791, episode steps: 45, reward: 1044.67
+Episode: 22200, opp: sac_strong, total numsteps: 2466226, episode steps: 68, reward: -1153.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1130.8
+----------------------------------------
+Episode: 22250, opp: sac_strong, total numsteps: 2469812, episode steps: 26, reward: 1034.17
+Episode: 22300, opp: sac_strong, total numsteps: 2474517, episode steps: 45, reward: 1004.16
+Episode: 22350, opp: sac_strong, total numsteps: 2477803, episode steps: 176, reward: 1071.37
+Episode: 22400, opp: sac_strong, total numsteps: 2481871, episode steps: 146, reward: 1065.3
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1090.84
+----------------------------------------
+Episode: 22450, opp: sac_strong, total numsteps: 2485957, episode steps: 39, reward: 1034.3
+Episode: 22500, opp: sac_strong, total numsteps: 2490547, episode steps: 182, reward: 1204.07
+Episode: 22550, opp: sac_strong, total numsteps: 2494500, episode steps: 90, reward: 1101.02
+Episode: 22600, opp: sac_strong, total numsteps: 2498036, episode steps: 21, reward: 1037.15
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1114.43
+----------------------------------------
+Episode: 22650, opp: sac_strong, total numsteps: 2501446, episode steps: 190, reward: 1081.98
+Episode: 22700, opp: sac_strong, total numsteps: 2505117, episode steps: 40, reward: 1054.21
+Episode: 22750, opp: sac_strong, total numsteps: 2508398, episode steps: 48, reward: 1012.32
+Episode: 22800, opp: sac_strong, total numsteps: 2512290, episode steps: 128, reward: 964.91
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 981.25
+----------------------------------------
+Episode: 22850, opp: sac_strong, total numsteps: 2515931, episode steps: 42, reward: 1032.13
+Episode: 22900, opp: sac_strong, total numsteps: 2519463, episode steps: 167, reward: 1081.43
+Episode: 22950, opp: sac_strong, total numsteps: 2522510, episode steps: 76, reward: 1139.87
+Episode: 23000, opp: sac_strong, total numsteps: 2526807, episode steps: 249, reward: 1372.93
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 850.48
+----------------------------------------
+Episode: 23050, opp: sac_strong, total numsteps: 2530979, episode steps: 156, reward: 1138.16
+Episode: 23100, opp: sac_strong, total numsteps: 2535288, episode steps: 127, reward: 1009.84
+Episode: 23150, opp: sac_strong, total numsteps: 2538981, episode steps: 110, reward: 1120.29
+Episode: 23200, opp: sac_strong, total numsteps: 2542572, episode steps: 119, reward: 1216.44
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1048.49
+----------------------------------------
+Episode: 23250, opp: sac_strong, total numsteps: 2546169, episode steps: 26, reward: 1017.69
+Episode: 23300, opp: sac_strong, total numsteps: 2549776, episode steps: 38, reward: 1072.28
+Episode: 23350, opp: sac_strong, total numsteps: 2553482, episode steps: 46, reward: 1037.16
+Episode: 23400, opp: sac_strong, total numsteps: 2557307, episode steps: 37, reward: 1067.82
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1081.69
+----------------------------------------
+Episode: 23450, opp: sac_strong, total numsteps: 2561414, episode steps: 202, reward: 1230.12
+Episode: 23500, opp: sac_strong, total numsteps: 2565020, episode steps: 70, reward: 1080.33
+Episode: 23550, opp: sac_strong, total numsteps: 2568580, episode steps: 69, reward: 1089.4
+Episode: 23600, opp: sac_strong, total numsteps: 2572220, episode steps: 47, reward: 997.49
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1007.98
+----------------------------------------
+Episode: 23650, opp: sac_strong, total numsteps: 2576355, episode steps: 40, reward: 1063.35
+Episode: 23700, opp: sac_strong, total numsteps: 2580568, episode steps: 27, reward: 1019.63
+Episode: 23750, opp: sac_strong, total numsteps: 2585625, episode steps: 245, reward: 1212.52
+Episode: 23800, opp: sac_strong, total numsteps: 2589740, episode steps: 139, reward: 1139.62
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 803.99
+----------------------------------------
+Episode: 23850, opp: sac_strong, total numsteps: 2593818, episode steps: 250, reward: -301.41
+Episode: 23900, opp: sac_strong, total numsteps: 2598030, episode steps: 27, reward: 1036.58
+Episode: 23950, opp: sac_strong, total numsteps: 2602032, episode steps: 83, reward: 1109.9
+Episode: 24000, opp: sac_strong, total numsteps: 2605653, episode steps: 250, reward: 102.97
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1068.46
+----------------------------------------
+Episode: 24050, opp: sac_strong, total numsteps: 2609718, episode steps: 40, reward: 1053.2
+Episode: 24100, opp: sac_strong, total numsteps: 2613634, episode steps: 39, reward: 1071.54
+Episode: 24150, opp: sac_strong, total numsteps: 2617549, episode steps: 95, reward: 1052.95
+Episode: 24200, opp: sac_strong, total numsteps: 2621895, episode steps: 173, reward: -1061.11
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1122.53
+----------------------------------------
+Episode: 24250, opp: sac_strong, total numsteps: 2625059, episode steps: 25, reward: 1033.58
+Episode: 24300, opp: sac_strong, total numsteps: 2629882, episode steps: 143, reward: 1232.18
+Episode: 24350, opp: sac_strong, total numsteps: 2633604, episode steps: 40, reward: 1066.14
+Episode: 24400, opp: sac_strong, total numsteps: 2637800, episode steps: 205, reward: 1300.74
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1072.37
+----------------------------------------
+Episode: 24450, opp: sac_strong, total numsteps: 2641502, episode steps: 43, reward: 1033.85
+Episode: 24500, opp: sac_strong, total numsteps: 2645251, episode steps: 136, reward: 1009.53
+Episode: 24550, opp: sac_strong, total numsteps: 2648707, episode steps: 39, reward: 1044.31
+Episode: 24600, opp: sac_strong, total numsteps: 2652482, episode steps: 48, reward: 1015.21
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 986.27
+----------------------------------------
+Episode: 24650, opp: sac_strong, total numsteps: 2656269, episode steps: 135, reward: 934.64
+Episode: 24700, opp: sac_strong, total numsteps: 2660278, episode steps: 35, reward: 1071.04
+Episode: 24750, opp: sac_strong, total numsteps: 2663740, episode steps: 26, reward: 1032.53
+Episode: 24800, opp: sac_strong, total numsteps: 2667278, episode steps: 136, reward: 892.73
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 888.32
+----------------------------------------
+Episode: 24850, opp: sac_strong, total numsteps: 2671019, episode steps: 81, reward: 1148.07
+Episode: 24900, opp: sac_strong, total numsteps: 2674284, episode steps: 39, reward: 1060.25
+Episode: 24950, opp: sac_strong, total numsteps: 2678652, episode steps: 74, reward: 1137.88
+Episode: 25000, opp: sac_strong, total numsteps: 2682110, episode steps: 89, reward: 1063.6
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1077.67
+----------------------------------------
+Episode: 25050, opp: sac_strong, total numsteps: 2686412, episode steps: 41, reward: 1065.25
+Episode: 25100, opp: sac_strong, total numsteps: 2690476, episode steps: 42, reward: 1033.04
+Episode: 25150, opp: sac_strong, total numsteps: 2694127, episode steps: 30, reward: 1056.12
+Episode: 25200, opp: sac_strong, total numsteps: 2698220, episode steps: 169, reward: 1162.64
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1072.0
+----------------------------------------
+Episode: 25250, opp: sac_strong, total numsteps: 2701699, episode steps: 175, reward: 851.05
+Episode: 25300, opp: sac_strong, total numsteps: 2705591, episode steps: 154, reward: 956.55
+Episode: 25350, opp: sac_strong, total numsteps: 2709974, episode steps: 72, reward: 1102.73
+Episode: 25400, opp: sac_strong, total numsteps: 2714190, episode steps: 108, reward: 1107.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1083.05
+----------------------------------------
+Episode: 25450, opp: sac_strong, total numsteps: 2718343, episode steps: 40, reward: 1055.78
+Episode: 25500, opp: sac_strong, total numsteps: 2722173, episode steps: 45, reward: 1027.59
+Episode: 25550, opp: sac_strong, total numsteps: 2725780, episode steps: 122, reward: 1103.53
+Episode: 25600, opp: sac_strong, total numsteps: 2729920, episode steps: 98, reward: 1068.24
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1088.67
+----------------------------------------
+Episode: 25650, opp: sac_strong, total numsteps: 2734159, episode steps: 46, reward: 1047.54
+Episode: 25700, opp: sac_strong, total numsteps: 2738312, episode steps: 131, reward: 1139.97
+Episode: 25750, opp: sac_strong, total numsteps: 2741746, episode steps: 41, reward: 1065.89
+Episode: 25800, opp: sac_strong, total numsteps: 2745821, episode steps: 200, reward: 1020.78
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 969.71
+----------------------------------------
+Episode: 25850, opp: sac_strong, total numsteps: 2749936, episode steps: 46, reward: 999.79
+Episode: 25900, opp: sac_strong, total numsteps: 2753623, episode steps: 132, reward: 986.69
+Episode: 25950, opp: sac_strong, total numsteps: 2758091, episode steps: 42, reward: 1063.05
+Episode: 26000, opp: sac_strong, total numsteps: 2762011, episode steps: 30, reward: 1025.6
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1026.45
+----------------------------------------
+Episode: 26050, opp: sac_strong, total numsteps: 2766577, episode steps: 226, reward: 1205.73
+Episode: 26100, opp: sac_strong, total numsteps: 2770228, episode steps: 72, reward: 1157.82
+Episode: 26150, opp: sac_strong, total numsteps: 2773570, episode steps: 250, reward: 270.34
+Episode: 26200, opp: sac_strong, total numsteps: 2777270, episode steps: 39, reward: 1055.18
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1068.32
+----------------------------------------
+Episode: 26250, opp: sac_strong, total numsteps: 2781332, episode steps: 92, reward: 1088.78
+Episode: 26300, opp: sac_strong, total numsteps: 2785718, episode steps: 170, reward: 1062.3
+Episode: 26350, opp: sac_strong, total numsteps: 2789108, episode steps: 250, reward: -587.48
+Episode: 26400, opp: sac_strong, total numsteps: 2792924, episode steps: 78, reward: 1140.08
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1086.69
+----------------------------------------
+Episode: 26450, opp: sac_strong, total numsteps: 2796724, episode steps: 96, reward: 1113.61
+Episode: 26500, opp: sac_strong, total numsteps: 2800129, episode steps: 174, reward: 1185.87
+Episode: 26550, opp: sac_strong, total numsteps: 2803391, episode steps: 40, reward: 1042.81
+Episode: 26600, opp: sac_strong, total numsteps: 2807160, episode steps: 43, reward: 1030.62
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 984.89
+----------------------------------------
+Episode: 26650, opp: sac_strong, total numsteps: 2811286, episode steps: 23, reward: 1057.97
+Episode: 26700, opp: sac_strong, total numsteps: 2814577, episode steps: 29, reward: 1018.12
+Episode: 26750, opp: sac_strong, total numsteps: 2817903, episode steps: 183, reward: 1194.85
+Episode: 26800, opp: sac_strong, total numsteps: 2821883, episode steps: 92, reward: 1089.49
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1087.26
+----------------------------------------
+Episode: 26850, opp: sac_strong, total numsteps: 2825802, episode steps: 90, reward: 977.68
+Episode: 26900, opp: sac_strong, total numsteps: 2829305, episode steps: 99, reward: 1099.67
+Episode: 26950, opp: sac_strong, total numsteps: 2833243, episode steps: 114, reward: 1197.37
+Episode: 27000, opp: sac_strong, total numsteps: 2836634, episode steps: 80, reward: 1088.1
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1081.21
+----------------------------------------
+Episode: 27050, opp: sac_strong, total numsteps: 2840798, episode steps: 41, reward: 1070.35
+Episode: 27100, opp: sac_strong, total numsteps: 2844943, episode steps: 223, reward: 1385.0
+Episode: 27150, opp: sac_strong, total numsteps: 2849492, episode steps: 45, reward: 1005.44
+Episode: 27200, opp: sac_strong, total numsteps: 2853396, episode steps: 43, reward: 1010.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 965.1
+----------------------------------------
+Episode: 27250, opp: sac_strong, total numsteps: 2856808, episode steps: 190, reward: -1053.53
+Episode: 27300, opp: sac_strong, total numsteps: 2861097, episode steps: 78, reward: 1115.55
+Episode: 27350, opp: sac_strong, total numsteps: 2864955, episode steps: 41, reward: 1069.31
+Episode: 27400, opp: sac_strong, total numsteps: 2868765, episode steps: 94, reward: 1080.57
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1049.77
+----------------------------------------
+Episode: 27450, opp: sac_strong, total numsteps: 2871982, episode steps: 43, reward: 1030.82
+Episode: 27500, opp: sac_strong, total numsteps: 2875302, episode steps: 81, reward: 1075.59
+Episode: 27550, opp: sac_strong, total numsteps: 2878953, episode steps: 32, reward: 1010.2
+Episode: 27600, opp: sac_strong, total numsteps: 2882577, episode steps: 45, reward: 1056.11
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 913.21
+----------------------------------------
+Episode: 27650, opp: sac_strong, total numsteps: 2885874, episode steps: 36, reward: 1066.54
+Episode: 27700, opp: sac_strong, total numsteps: 2889939, episode steps: 28, reward: 1031.22
+Episode: 27750, opp: sac_strong, total numsteps: 2893885, episode steps: 99, reward: 1100.19
+Episode: 27800, opp: sac_strong, total numsteps: 2897427, episode steps: 23, reward: 1055.32
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 992.22
+----------------------------------------
+Episode: 27850, opp: sac_strong, total numsteps: 2901147, episode steps: 42, reward: 1063.56
+Episode: 27900, opp: sac_strong, total numsteps: 2905184, episode steps: 47, reward: 996.33
+Episode: 27950, opp: sac_strong, total numsteps: 2908947, episode steps: 39, reward: 1068.38
+Episode: 28000, opp: sac_strong, total numsteps: 2912773, episode steps: 42, reward: 1032.88
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1080.23
+----------------------------------------
+Episode: 28050, opp: sac_strong, total numsteps: 2916216, episode steps: 96, reward: 1106.0
+Episode: 28100, opp: sac_strong, total numsteps: 2920055, episode steps: 134, reward: 1146.23
+Episode: 28150, opp: sac_strong, total numsteps: 2923520, episode steps: 42, reward: 1052.16
+Episode: 28200, opp: sac_strong, total numsteps: 2927085, episode steps: 111, reward: 1000.07
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 844.19
+----------------------------------------
+Episode: 28250, opp: sac_strong, total numsteps: 2930553, episode steps: 123, reward: 1131.72
+Episode: 28300, opp: sac_strong, total numsteps: 2934672, episode steps: 43, reward: 1028.56
+Episode: 28350, opp: sac_strong, total numsteps: 2938730, episode steps: 40, reward: 1058.15
+Episode: 28400, opp: sac_strong, total numsteps: 2942483, episode steps: 42, reward: 1054.87
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1070.58
+----------------------------------------
+Episode: 28450, opp: sac_strong, total numsteps: 2945740, episode steps: 41, reward: 1070.31
+Episode: 28500, opp: sac_strong, total numsteps: 2949312, episode steps: 67, reward: 1110.18
+Episode: 28550, opp: sac_strong, total numsteps: 2953454, episode steps: 44, reward: 1006.03
+Episode: 28600, opp: sac_strong, total numsteps: 2956931, episode steps: 141, reward: 1112.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1082.48
+----------------------------------------
+Episode: 28650, opp: sac_strong, total numsteps: 2960574, episode steps: 108, reward: 1058.96
+Episode: 28700, opp: sac_strong, total numsteps: 2964169, episode steps: 38, reward: 1061.7
+Episode: 28750, opp: sac_strong, total numsteps: 2967506, episode steps: 46, reward: 1009.05
+Episode: 28800, opp: sac_strong, total numsteps: 2971164, episode steps: 44, reward: 1015.3
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 981.11
+----------------------------------------
+Episode: 28850, opp: sac_strong, total numsteps: 2974940, episode steps: 188, reward: 1264.9
+Episode: 28900, opp: sac_strong, total numsteps: 2978559, episode steps: 89, reward: 1110.71
+Episode: 28950, opp: sac_strong, total numsteps: 2981919, episode steps: 38, reward: 1063.95
+Episode: 29000, opp: sac_strong, total numsteps: 2985935, episode steps: 181, reward: 1258.21
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1095.95
+----------------------------------------
+Episode: 29050, opp: sac_strong, total numsteps: 2989881, episode steps: 38, reward: 1056.1
+Episode: 29100, opp: sac_strong, total numsteps: 2993781, episode steps: 88, reward: 1116.5
+Episode: 29150, opp: sac_strong, total numsteps: 2997712, episode steps: 128, reward: 1110.57
+Episode: 29200, opp: sac_strong, total numsteps: 3001646, episode steps: 26, reward: 1033.58
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 861.57
+----------------------------------------
+Episode: 29250, opp: sac_strong, total numsteps: 3005554, episode steps: 75, reward: 1143.17
+Episode: 29300, opp: sac_strong, total numsteps: 3009134, episode steps: 41, reward: 1060.25
+Episode: 29350, opp: sac_strong, total numsteps: 3013173, episode steps: 39, reward: 1047.38
+Episode: 29400, opp: sac_strong, total numsteps: 3017159, episode steps: 49, reward: 1005.02
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1093.78
+----------------------------------------
+Episode: 29450, opp: sac_strong, total numsteps: 3020404, episode steps: 43, reward: 1049.55
+Episode: 29500, opp: sac_strong, total numsteps: 3023908, episode steps: 119, reward: 1184.27
+Episode: 29550, opp: sac_strong, total numsteps: 3027908, episode steps: 149, reward: 1240.97
+Episode: 29600, opp: sac_strong, total numsteps: 3031318, episode steps: 48, reward: 1002.14
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 860.26
+----------------------------------------
+Episode: 29650, opp: sac_strong, total numsteps: 3035391, episode steps: 129, reward: 1199.33
+Episode: 29700, opp: sac_strong, total numsteps: 3038682, episode steps: 43, reward: 1021.35
+Episode: 29750, opp: sac_strong, total numsteps: 3042575, episode steps: 40, reward: 1065.82
+Episode: 29800, opp: sac_strong, total numsteps: 3046264, episode steps: 41, reward: 1043.9
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1077.06
+----------------------------------------
+Episode: 29850, opp: sac_strong, total numsteps: 3050263, episode steps: 41, reward: 1055.42
+Episode: 29900, opp: sac_strong, total numsteps: 3053556, episode steps: 43, reward: 1021.15
+Episode: 29950, opp: sac_strong, total numsteps: 3057021, episode steps: 90, reward: 1123.7
+Episode: 30000, opp: sac_strong, total numsteps: 3060392, episode steps: 37, reward: 1071.44
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1091.72
+----------------------------------------
+Saving models to checkpoints/checkpoint_hockey_vs_self_and_sac_strong_all_rew_ep_30000_qr_sac_run6
+Episode: 30050, opp: sac_strong, total numsteps: 3064226, episode steps: 110, reward: 1065.01
+Episode: 30100, opp: sac_strong, total numsteps: 3067566, episode steps: 38, reward: 1064.1
+Episode: 30150, opp: sac_strong, total numsteps: 3071220, episode steps: 38, reward: 1063.55
+Episode: 30200, opp: sac_strong, total numsteps: 3074628, episode steps: 46, reward: 1028.98
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 792.58
+----------------------------------------
+Episode: 30250, opp: sac_strong, total numsteps: 3078477, episode steps: 31, reward: 1016.58
+Episode: 30300, opp: sac_strong, total numsteps: 3082305, episode steps: 40, reward: 1042.93
+Episode: 30350, opp: sac_strong, total numsteps: 3085835, episode steps: 44, reward: 1057.63
+Episode: 30400, opp: sac_strong, total numsteps: 3089267, episode steps: 42, reward: 1040.93
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1067.46
+----------------------------------------
+Episode: 30450, opp: sac_strong, total numsteps: 3092383, episode steps: 48, reward: 1027.62
+Episode: 30500, opp: sac_strong, total numsteps: 3096199, episode steps: 45, reward: 1016.8
+Episode: 30550, opp: sac_strong, total numsteps: 3099803, episode steps: 48, reward: 1006.06
+Episode: 30600, opp: sac_strong, total numsteps: 3103640, episode steps: 36, reward: 1074.91
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1029.21
+----------------------------------------
+Episode: 30650, opp: sac_strong, total numsteps: 3107500, episode steps: 45, reward: 1017.47
+Episode: 30700, opp: sac_strong, total numsteps: 3110741, episode steps: 41, reward: 1037.83
+Episode: 30750, opp: sac_strong, total numsteps: 3114060, episode steps: 106, reward: 942.47
+Episode: 30800, opp: sac_strong, total numsteps: 3117388, episode steps: 42, reward: 1060.77
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 906.76
+----------------------------------------
+Episode: 30850, opp: sac_strong, total numsteps: 3121416, episode steps: 39, reward: 1054.49
+Episode: 30900, opp: sac_strong, total numsteps: 3124737, episode steps: 30, reward: 1014.0
+Episode: 30950, opp: sac_strong, total numsteps: 3128531, episode steps: 44, reward: 1063.88
+Episode: 31000, opp: sac_strong, total numsteps: 3131810, episode steps: 28, reward: 1044.95
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1075.42
+----------------------------------------
+Episode: 31050, opp: sac_strong, total numsteps: 3135086, episode steps: 104, reward: 1119.34
+Episode: 31100, opp: sac_strong, total numsteps: 3138796, episode steps: 28, reward: 985.59
+Episode: 31150, opp: sac_strong, total numsteps: 3142292, episode steps: 216, reward: 1199.23
+Episode: 31200, opp: sac_strong, total numsteps: 3145780, episode steps: 43, reward: 1037.56
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1097.23
+----------------------------------------
+Episode: 31250, opp: sac_strong, total numsteps: 3149304, episode steps: 40, reward: 1052.41
+Episode: 31300, opp: sac_strong, total numsteps: 3152837, episode steps: 40, reward: 1061.3
+Episode: 31350, opp: sac_strong, total numsteps: 3156293, episode steps: 43, reward: 1042.97
+Episode: 31400, opp: sac_strong, total numsteps: 3160101, episode steps: 58, reward: 970.87
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1104.46
+----------------------------------------
+Episode: 31450, opp: sac_strong, total numsteps: 3163726, episode steps: 47, reward: 999.61
+Episode: 31500, opp: sac_strong, total numsteps: 3167769, episode steps: 44, reward: 1032.01
+Episode: 31550, opp: sac_strong, total numsteps: 3171174, episode steps: 250, reward: 283.44
+Episode: 31600, opp: sac_strong, total numsteps: 3174947, episode steps: 141, reward: 1211.96
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1061.7
+----------------------------------------
+Episode: 31650, opp: sac_strong, total numsteps: 3178612, episode steps: 38, reward: 1067.83
+Episode: 31700, opp: sac_strong, total numsteps: 3182119, episode steps: 142, reward: 1110.92
+Episode: 31750, opp: sac_strong, total numsteps: 3186277, episode steps: 180, reward: 1145.25
+Episode: 31800, opp: sac_strong, total numsteps: 3189845, episode steps: 60, reward: 1009.77
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 856.04
+----------------------------------------
+Episode: 31850, opp: sac_strong, total numsteps: 3193539, episode steps: 48, reward: 1006.56
+Episode: 31900, opp: sac_strong, total numsteps: 3197150, episode steps: 43, reward: 1026.89
+Episode: 31950, opp: sac_strong, total numsteps: 3200749, episode steps: 197, reward: 1044.05
+Episode: 32000, opp: sac_strong, total numsteps: 3205017, episode steps: 41, reward: 1072.45
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1083.01
+----------------------------------------
+Episode: 32050, opp: sac_strong, total numsteps: 3208822, episode steps: 42, reward: 1035.4
+Episode: 32100, opp: sac_strong, total numsteps: 3212177, episode steps: 54, reward: -1146.58
+Episode: 32150, opp: sac_strong, total numsteps: 3215977, episode steps: 43, reward: 1060.24
+Episode: 32200, opp: sac_strong, total numsteps: 3219162, episode steps: 39, reward: 1065.04
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1071.06
+----------------------------------------
+Episode: 32250, opp: sac_strong, total numsteps: 3222870, episode steps: 46, reward: 1011.64
+Episode: 32300, opp: sac_strong, total numsteps: 3226338, episode steps: 39, reward: 1055.52
+Episode: 32350, opp: sac_strong, total numsteps: 3229890, episode steps: 87, reward: 1125.81
+Episode: 32400, opp: sac_strong, total numsteps: 3233938, episode steps: 41, reward: 1066.32
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1068.04
+----------------------------------------
+Episode: 32450, opp: sac_strong, total numsteps: 3237965, episode steps: 45, reward: 1039.18
+Episode: 32500, opp: sac_strong, total numsteps: 3241523, episode steps: 42, reward: 1052.81
+Episode: 32550, opp: sac_strong, total numsteps: 3245439, episode steps: 126, reward: 887.27
+Episode: 32600, opp: sac_strong, total numsteps: 3249047, episode steps: 45, reward: 1027.89
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1071.41
+----------------------------------------
+Episode: 32650, opp: sac_strong, total numsteps: 3252708, episode steps: 42, reward: 1036.46
+Episode: 32700, opp: sac_strong, total numsteps: 3256815, episode steps: 30, reward: 1017.13
+Episode: 32750, opp: sac_strong, total numsteps: 3259953, episode steps: 41, reward: 1035.73
+Episode: 32800, opp: sac_strong, total numsteps: 3263648, episode steps: 83, reward: 1110.03
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 887.1
+----------------------------------------
+Episode: 32850, opp: sac_strong, total numsteps: 3266708, episode steps: 41, reward: 1056.24
+Episode: 32900, opp: sac_strong, total numsteps: 3270413, episode steps: 90, reward: 1104.53
+Episode: 32950, opp: sac_strong, total numsteps: 3273752, episode steps: 82, reward: 1057.33
+Episode: 33000, opp: sac_strong, total numsteps: 3277122, episode steps: 45, reward: 1020.31
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1059.04
+----------------------------------------
+Episode: 33050, opp: sac_strong, total numsteps: 3280227, episode steps: 128, reward: 1143.01
+Episode: 33100, opp: sac_strong, total numsteps: 3284093, episode steps: 46, reward: 1044.33
+Episode: 33150, opp: sac_strong, total numsteps: 3287768, episode steps: 41, reward: 1059.92
+Episode: 33200, opp: sac_strong, total numsteps: 3291762, episode steps: 87, reward: 1077.25
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1082.9
+----------------------------------------
+Episode: 33250, opp: sac_strong, total numsteps: 3295531, episode steps: 37, reward: 1068.84
+Episode: 33300, opp: sac_strong, total numsteps: 3299494, episode steps: 44, reward: 1050.41
+Episode: 33350, opp: sac_strong, total numsteps: 3302660, episode steps: 44, reward: 1027.15
+Episode: 33400, opp: sac_strong, total numsteps: 3306155, episode steps: 49, reward: 1028.08
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1082.03
+----------------------------------------
+Episode: 33450, opp: sac_strong, total numsteps: 3309224, episode steps: 49, reward: 1055.46
+Episode: 33500, opp: sac_strong, total numsteps: 3312446, episode steps: 32, reward: 1043.12
+Episode: 33550, opp: sac_strong, total numsteps: 3316144, episode steps: 86, reward: 1084.02
+Episode: 33600, opp: sac_strong, total numsteps: 3319992, episode steps: 43, reward: 1061.84
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1054.52
+----------------------------------------
+Episode: 33650, opp: sac_strong, total numsteps: 3323816, episode steps: 46, reward: 1007.04
+Episode: 33700, opp: sac_strong, total numsteps: 3327468, episode steps: 122, reward: 1096.56
+Episode: 33750, opp: sac_strong, total numsteps: 3331775, episode steps: 212, reward: 1138.92
+Episode: 33800, opp: sac_strong, total numsteps: 3335443, episode steps: 171, reward: 1166.1
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1027.69
+----------------------------------------
+Episode: 33850, opp: sac_strong, total numsteps: 3339339, episode steps: 43, reward: 1035.35
+Episode: 33900, opp: sac_strong, total numsteps: 3342502, episode steps: 89, reward: 1068.91
+Episode: 33950, opp: sac_strong, total numsteps: 3346517, episode steps: 45, reward: 1037.67
+Episode: 34000, opp: sac_strong, total numsteps: 3350146, episode steps: 78, reward: 1140.1
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1083.35
+----------------------------------------
+Episode: 34050, opp: sac_strong, total numsteps: 3353385, episode steps: 42, reward: 1050.94
+Episode: 34100, opp: sac_strong, total numsteps: 3356747, episode steps: 42, reward: 1041.81
+Episode: 34150, opp: sac_strong, total numsteps: 3360324, episode steps: 82, reward: 1119.85
+Episode: 34200, opp: sac_strong, total numsteps: 3363672, episode steps: 105, reward: 1083.56
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1082.47
+----------------------------------------
+Episode: 34250, opp: sac_strong, total numsteps: 3367380, episode steps: 87, reward: 1111.65
+Episode: 34300, opp: sac_strong, total numsteps: 3371132, episode steps: 40, reward: 1060.25
+Episode: 34350, opp: sac_strong, total numsteps: 3374634, episode steps: 41, reward: 1051.89
+Episode: 34400, opp: sac_strong, total numsteps: 3378330, episode steps: 41, reward: 1052.71
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1058.82
+----------------------------------------
+Episode: 34450, opp: sac_strong, total numsteps: 3381482, episode steps: 100, reward: 1075.95
+Episode: 34500, opp: sac_strong, total numsteps: 3384713, episode steps: 83, reward: 1118.49
+Episode: 34550, opp: sac_strong, total numsteps: 3388424, episode steps: 43, reward: 1024.12
+Episode: 34600, opp: sac_strong, total numsteps: 3391962, episode steps: 48, reward: 1041.67
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 990.99
+----------------------------------------
+Episode: 34650, opp: sac_strong, total numsteps: 3395477, episode steps: 111, reward: 1137.98
+Episode: 34700, opp: sac_strong, total numsteps: 3399318, episode steps: 90, reward: 1069.85
+Episode: 34750, opp: sac_strong, total numsteps: 3403561, episode steps: 42, reward: 1028.79
+Episode: 34800, opp: sac_strong, total numsteps: 3406620, episode steps: 83, reward: 1103.87
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1058.14
+----------------------------------------
+Episode: 34850, opp: sac_strong, total numsteps: 3409636, episode steps: 43, reward: 1022.6
+Episode: 34900, opp: sac_strong, total numsteps: 3413231, episode steps: 92, reward: 1058.08
+Episode: 34950, opp: sac_strong, total numsteps: 3416762, episode steps: 40, reward: 1045.63
+Episode: 35000, opp: sac_strong, total numsteps: 3420537, episode steps: 45, reward: 1019.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1070.5
+----------------------------------------
+Episode: 35050, opp: sac_strong, total numsteps: 3423841, episode steps: 43, reward: 1044.83
+Episode: 35100, opp: sac_strong, total numsteps: 3427669, episode steps: 43, reward: 1034.63
+Episode: 35150, opp: sac_strong, total numsteps: 3430664, episode steps: 42, reward: 1035.44
+Episode: 35200, opp: sac_strong, total numsteps: 3434654, episode steps: 43, reward: 1058.71
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1073.03
+----------------------------------------
+Episode: 35250, opp: sac_strong, total numsteps: 3437990, episode steps: 43, reward: 1020.43
+Episode: 35300, opp: sac_strong, total numsteps: 3441483, episode steps: 74, reward: 1090.58
+Episode: 35350, opp: sac_strong, total numsteps: 3444946, episode steps: 229, reward: 1217.79
+Episode: 35400, opp: sac_strong, total numsteps: 3448336, episode steps: 45, reward: 1048.65
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1068.02
+----------------------------------------
+Episode: 35450, opp: sac_strong, total numsteps: 3451826, episode steps: 46, reward: 1018.97
+Episode: 35500, opp: sac_strong, total numsteps: 3455172, episode steps: 42, reward: 1048.11
+Episode: 35550, opp: sac_strong, total numsteps: 3458537, episode steps: 42, reward: 1057.18
+Episode: 35600, opp: sac_strong, total numsteps: 3462098, episode steps: 120, reward: 1179.35
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1064.44
+----------------------------------------
+Episode: 35650, opp: sac_strong, total numsteps: 3465324, episode steps: 48, reward: 1017.25
+Episode: 35700, opp: sac_strong, total numsteps: 3469255, episode steps: 41, reward: 1066.38
+Episode: 35750, opp: sac_strong, total numsteps: 3472830, episode steps: 84, reward: 1121.44
+Episode: 35800, opp: sac_strong, total numsteps: 3476469, episode steps: 41, reward: 1042.67
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 881.02
+----------------------------------------
+Episode: 35850, opp: sac_strong, total numsteps: 3479998, episode steps: 41, reward: 1040.46
+Episode: 35900, opp: sac_strong, total numsteps: 3483998, episode steps: 82, reward: 1079.83
+Episode: 35950, opp: sac_strong, total numsteps: 3487606, episode steps: 46, reward: 1021.67
+Episode: 36000, opp: sac_strong, total numsteps: 3491075, episode steps: 73, reward: 1144.96
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1076.11
+----------------------------------------
+Episode: 36050, opp: sac_strong, total numsteps: 3494827, episode steps: 47, reward: 1015.53
+Episode: 36100, opp: sac_strong, total numsteps: 3498169, episode steps: 21, reward: 1029.84
+Episode: 36150, opp: sac_strong, total numsteps: 3501990, episode steps: 46, reward: 1034.27
+Episode: 36200, opp: sac_strong, total numsteps: 3505030, episode steps: 28, reward: 1031.32
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 853.79
+----------------------------------------
+Episode: 36250, opp: sac_strong, total numsteps: 3508182, episode steps: 39, reward: 1045.92
+Episode: 36300, opp: sac_strong, total numsteps: 3512014, episode steps: 44, reward: 1007.83
+Episode: 36350, opp: sac_strong, total numsteps: 3515381, episode steps: 40, reward: 1056.05
+Episode: 36400, opp: sac_strong, total numsteps: 3518775, episode steps: 43, reward: 1061.55
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 861.66
+----------------------------------------
+Episode: 36450, opp: sac_strong, total numsteps: 3521931, episode steps: 45, reward: 1011.95
+Episode: 36500, opp: sac_strong, total numsteps: 3525810, episode steps: 44, reward: 1046.81
+Episode: 36550, opp: sac_strong, total numsteps: 3529308, episode steps: 78, reward: 1134.74
+Episode: 36600, opp: sac_strong, total numsteps: 3532734, episode steps: 40, reward: 1068.49
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1004.96
+----------------------------------------
+Episode: 36650, opp: sac_strong, total numsteps: 3535944, episode steps: 43, reward: 1021.0
+Episode: 36700, opp: sac_strong, total numsteps: 3539654, episode steps: 40, reward: 1042.94
+Episode: 36750, opp: sac_strong, total numsteps: 3543003, episode steps: 194, reward: -967.83
+Episode: 36800, opp: sac_strong, total numsteps: 3546302, episode steps: 86, reward: 1111.08
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1094.86
+----------------------------------------
+Episode: 36850, opp: sac_strong, total numsteps: 3549697, episode steps: 39, reward: 1055.84
+Episode: 36900, opp: sac_strong, total numsteps: 3553340, episode steps: 127, reward: 1114.45
+Episode: 36950, opp: sac_strong, total numsteps: 3556933, episode steps: 96, reward: 1143.68
+Episode: 37000, opp: sac_strong, total numsteps: 3560013, episode steps: 44, reward: 1001.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1067.06
+----------------------------------------
+Episode: 37050, opp: sac_strong, total numsteps: 3563431, episode steps: 128, reward: 1023.27
+Episode: 37100, opp: sac_strong, total numsteps: 3566846, episode steps: 48, reward: 1004.03
+Episode: 37150, opp: sac_strong, total numsteps: 3570703, episode steps: 40, reward: 1071.85
+Episode: 37200, opp: sac_strong, total numsteps: 3574201, episode steps: 39, reward: 1076.63
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1091.96
+----------------------------------------
+Episode: 37250, opp: sac_strong, total numsteps: 3577654, episode steps: 94, reward: 1095.98
+Episode: 37300, opp: sac_strong, total numsteps: 3581193, episode steps: 49, reward: 992.51
+Episode: 37350, opp: sac_strong, total numsteps: 3584606, episode steps: 144, reward: 1011.7
+Episode: 37400, opp: sac_strong, total numsteps: 3587678, episode steps: 46, reward: 1040.21
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1082.77
+----------------------------------------
+Episode: 37450, opp: sac_strong, total numsteps: 3590581, episode steps: 49, reward: 1011.15
+Episode: 37500, opp: sac_strong, total numsteps: 3593933, episode steps: 124, reward: 950.89
+Episode: 37550, opp: sac_strong, total numsteps: 3597371, episode steps: 50, reward: 1018.23
+Episode: 37600, opp: sac_strong, total numsteps: 3600727, episode steps: 40, reward: 1065.28
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1078.18
+----------------------------------------
+Episode: 37650, opp: sac_strong, total numsteps: 3604081, episode steps: 39, reward: 1057.91
+Episode: 37700, opp: sac_strong, total numsteps: 3607850, episode steps: 44, reward: 1019.89
+Episode: 37750, opp: sac_strong, total numsteps: 3611393, episode steps: 51, reward: 1061.72
+Episode: 37800, opp: sac_strong, total numsteps: 3614603, episode steps: 44, reward: 1033.77
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1058.99
+----------------------------------------
+Episode: 37850, opp: sac_strong, total numsteps: 3617995, episode steps: 43, reward: 1048.84
+Episode: 37900, opp: sac_strong, total numsteps: 3621548, episode steps: 79, reward: 1105.35
+Episode: 37950, opp: sac_strong, total numsteps: 3624728, episode steps: 48, reward: 993.56
+Episode: 38000, opp: sac_strong, total numsteps: 3628635, episode steps: 43, reward: 1042.46
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1065.68
+----------------------------------------
+Episode: 38050, opp: sac_strong, total numsteps: 3632111, episode steps: 40, reward: 1042.0
+Episode: 38100, opp: sac_strong, total numsteps: 3636063, episode steps: 157, reward: 1123.04
+Episode: 38150, opp: sac_strong, total numsteps: 3639430, episode steps: 39, reward: 1054.64
+Episode: 38200, opp: sac_strong, total numsteps: 3642752, episode steps: 45, reward: 1033.37
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 987.24
+----------------------------------------
+Episode: 38250, opp: sac_strong, total numsteps: 3646739, episode steps: 46, reward: 1019.65
+Episode: 38300, opp: sac_strong, total numsteps: 3649995, episode steps: 44, reward: 1052.12
+Episode: 38350, opp: sac_strong, total numsteps: 3653312, episode steps: 87, reward: 1131.4
+Episode: 38400, opp: sac_strong, total numsteps: 3656909, episode steps: 42, reward: 1062.68
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1071.8
+----------------------------------------
+Episode: 38450, opp: sac_strong, total numsteps: 3660302, episode steps: 40, reward: 1069.93
+Episode: 38500, opp: sac_strong, total numsteps: 3663990, episode steps: 45, reward: 1017.29
+Episode: 38550, opp: sac_strong, total numsteps: 3667550, episode steps: 37, reward: 1075.35
+Episode: 38600, opp: sac_strong, total numsteps: 3670687, episode steps: 182, reward: 1291.76
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 959.45
+----------------------------------------
+Episode: 38650, opp: sac_strong, total numsteps: 3674208, episode steps: 45, reward: 1012.72
+Episode: 38700, opp: sac_strong, total numsteps: 3677794, episode steps: 90, reward: 1084.62
+Episode: 38750, opp: sac_strong, total numsteps: 3681387, episode steps: 66, reward: 1157.78
+Episode: 38800, opp: sac_strong, total numsteps: 3684813, episode steps: 50, reward: 994.87
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1080.62
+----------------------------------------
+Episode: 38850, opp: sac_strong, total numsteps: 3688088, episode steps: 47, reward: 1033.19
+Episode: 38900, opp: sac_strong, total numsteps: 3691576, episode steps: 47, reward: 1017.7
+Episode: 38950, opp: sac_strong, total numsteps: 3695574, episode steps: 40, reward: 1041.34
+Episode: 39000, opp: sac_strong, total numsteps: 3698861, episode steps: 42, reward: 1056.21
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1056.2
+----------------------------------------
+Episode: 39050, opp: sac_strong, total numsteps: 3702253, episode steps: 46, reward: 1039.8
+Episode: 39100, opp: sac_strong, total numsteps: 3706115, episode steps: 134, reward: 1198.28
+Episode: 39150, opp: sac_strong, total numsteps: 3709555, episode steps: 43, reward: 1051.7
+Episode: 39200, opp: sac_strong, total numsteps: 3713257, episode steps: 108, reward: 1093.02
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1074.77
+----------------------------------------
+Episode: 39250, opp: sac_strong, total numsteps: 3716371, episode steps: 44, reward: 1032.23
+Episode: 39300, opp: sac_strong, total numsteps: 3719472, episode steps: 40, reward: 1057.16
+Episode: 39350, opp: sac_strong, total numsteps: 3722437, episode steps: 42, reward: 1036.13
+Episode: 39400, opp: sac_strong, total numsteps: 3725457, episode steps: 43, reward: 1063.14
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1067.48
+----------------------------------------
+Episode: 39450, opp: sac_strong, total numsteps: 3729206, episode steps: 40, reward: 1044.73
+Episode: 39500, opp: sac_strong, total numsteps: 3732212, episode steps: 45, reward: 1014.8
+Episode: 39550, opp: sac_strong, total numsteps: 3735513, episode steps: 41, reward: 1043.34
+Episode: 39600, opp: sac_strong, total numsteps: 3738486, episode steps: 52, reward: 999.59
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 935.62
+----------------------------------------
+Episode: 39650, opp: sac_strong, total numsteps: 3742301, episode steps: 42, reward: 1052.58
+Episode: 39700, opp: sac_strong, total numsteps: 3745551, episode steps: 46, reward: 1040.1
+Episode: 39750, opp: sac_strong, total numsteps: 3748336, episode steps: 44, reward: 1037.26
+Episode: 39800, opp: sac_strong, total numsteps: 3751491, episode steps: 41, reward: 1058.16
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1079.69
+----------------------------------------
+Episode: 39850, opp: sac_strong, total numsteps: 3755422, episode steps: 69, reward: 1112.52
+Episode: 39900, opp: sac_strong, total numsteps: 3758962, episode steps: 43, reward: 1039.42
+Episode: 39950, opp: sac_strong, total numsteps: 3762305, episode steps: 37, reward: 1058.94
+Episode: 40000, opp: sac_strong, total numsteps: 3765597, episode steps: 43, reward: 1037.42
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 869.11
+----------------------------------------
+Saving models to checkpoints/checkpoint_hockey_vs_self_and_sac_strong_all_rew_ep_40000_qr_sac_run6
+Episode: 40050, opp: sac_strong, total numsteps: 3769067, episode steps: 44, reward: 1042.76
+Episode: 40100, opp: sac_strong, total numsteps: 3772444, episode steps: 24, reward: 1041.39
+Episode: 40150, opp: sac_strong, total numsteps: 3775833, episode steps: 75, reward: 1137.98
+Episode: 40200, opp: sac_strong, total numsteps: 3779238, episode steps: 45, reward: 1019.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1070.4
+----------------------------------------
+Episode: 40250, opp: sac_strong, total numsteps: 3782647, episode steps: 46, reward: 1021.26
+Episode: 40300, opp: sac_strong, total numsteps: 3786547, episode steps: 44, reward: 1009.66
+Episode: 40350, opp: sac_strong, total numsteps: 3789922, episode steps: 171, reward: 1115.73
+Episode: 40400, opp: sac_strong, total numsteps: 3793206, episode steps: 68, reward: 1018.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1074.94
+----------------------------------------
+Episode: 40450, opp: sac_strong, total numsteps: 3796494, episode steps: 77, reward: 1158.43
+Episode: 40500, opp: sac_strong, total numsteps: 3799503, episode steps: 44, reward: 1039.09
+Episode: 40550, opp: sac_strong, total numsteps: 3802458, episode steps: 44, reward: 1013.3
+Episode: 40600, opp: sac_strong, total numsteps: 3806351, episode steps: 76, reward: 1116.91
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 995.27
+----------------------------------------
+Episode: 40650, opp: sac_strong, total numsteps: 3809282, episode steps: 51, reward: 1028.23
+Episode: 40700, opp: sac_strong, total numsteps: 3813279, episode steps: 94, reward: 1065.32
+Episode: 40750, opp: sac_strong, total numsteps: 3816560, episode steps: 72, reward: 1153.96
+Episode: 40800, opp: sac_strong, total numsteps: 3819483, episode steps: 43, reward: 1037.64
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1066.88
+----------------------------------------
+Episode: 40850, opp: sac_strong, total numsteps: 3822906, episode steps: 103, reward: 1088.99
+Episode: 40900, opp: sac_strong, total numsteps: 3826106, episode steps: 111, reward: 967.26
+Episode: 40950, opp: sac_strong, total numsteps: 3829291, episode steps: 95, reward: 1149.63
+Episode: 41000, opp: sac_strong, total numsteps: 3832739, episode steps: 95, reward: 1069.91
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 984.86
+----------------------------------------
+Episode: 41050, opp: sac_strong, total numsteps: 3836041, episode steps: 136, reward: 1192.09
+Episode: 41100, opp: sac_strong, total numsteps: 3839029, episode steps: 42, reward: 1036.91
+Episode: 41150, opp: sac_strong, total numsteps: 3842218, episode steps: 46, reward: 1013.44
+Episode: 41200, opp: sac_strong, total numsteps: 3845975, episode steps: 46, reward: 1077.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1074.29
+----------------------------------------
+Episode: 41250, opp: sac_strong, total numsteps: 3849261, episode steps: 47, reward: 1001.82
+Episode: 41300, opp: sac_strong, total numsteps: 3852664, episode steps: 123, reward: 1114.22
+Episode: 41350, opp: sac_strong, total numsteps: 3855751, episode steps: 41, reward: 1020.77
+Episode: 41400, opp: sac_strong, total numsteps: 3858969, episode steps: 40, reward: 1073.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1054.14
+----------------------------------------
+Episode: 41450, opp: sac_strong, total numsteps: 3862346, episode steps: 43, reward: 1047.03
+Episode: 41500, opp: sac_strong, total numsteps: 3865624, episode steps: 46, reward: 1025.54
+Episode: 41550, opp: sac_strong, total numsteps: 3869156, episode steps: 41, reward: 1065.52
+Episode: 41600, opp: sac_strong, total numsteps: 3872022, episode steps: 46, reward: 1015.22
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1067.69
+----------------------------------------
+Episode: 41650, opp: sac_strong, total numsteps: 3875324, episode steps: 185, reward: 1164.88
+Episode: 41700, opp: sac_strong, total numsteps: 3878996, episode steps: 42, reward: 1042.73
+Episode: 41750, opp: sac_strong, total numsteps: 3882288, episode steps: 162, reward: 1168.22
+Episode: 41800, opp: sac_strong, total numsteps: 3885437, episode steps: 115, reward: 1092.88
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1066.86
+----------------------------------------
+Episode: 41850, opp: sac_strong, total numsteps: 3888427, episode steps: 96, reward: 1089.71
+Episode: 41900, opp: sac_strong, total numsteps: 3891981, episode steps: 42, reward: 1057.73
+Episode: 41950, opp: sac_strong, total numsteps: 3895285, episode steps: 42, reward: 1034.96
+Episode: 42000, opp: sac_strong, total numsteps: 3898176, episode steps: 43, reward: 1043.85
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1080.32
+----------------------------------------
+Episode: 42050, opp: sac_strong, total numsteps: 3901353, episode steps: 38, reward: 1055.79
+Episode: 42100, opp: sac_strong, total numsteps: 3904690, episode steps: 44, reward: 1039.85
+Episode: 42150, opp: sac_strong, total numsteps: 3907989, episode steps: 43, reward: 1036.99
+Episode: 42200, opp: sac_strong, total numsteps: 3910958, episode steps: 167, reward: 1103.46
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1080.3
+----------------------------------------
+Episode: 42250, opp: sac_strong, total numsteps: 3913861, episode steps: 66, reward: 1138.41
+Episode: 42300, opp: sac_strong, total numsteps: 3917294, episode steps: 41, reward: 1070.93
+Episode: 42350, opp: sac_strong, total numsteps: 3920625, episode steps: 40, reward: 1057.66
+Episode: 42400, opp: sac_strong, total numsteps: 3923690, episode steps: 43, reward: 1046.54
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1081.38
+----------------------------------------
+Episode: 42450, opp: sac_strong, total numsteps: 3927638, episode steps: 41, reward: 1059.9
+Episode: 42500, opp: sac_strong, total numsteps: 3930686, episode steps: 47, reward: 999.24
+Episode: 42550, opp: sac_strong, total numsteps: 3933677, episode steps: 33, reward: 1020.57
+Episode: 42600, opp: sac_strong, total numsteps: 3936828, episode steps: 104, reward: 1157.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1068.89
+----------------------------------------
+Episode: 42650, opp: sac_strong, total numsteps: 3939771, episode steps: 45, reward: 1029.19
+Episode: 42700, opp: sac_strong, total numsteps: 3942516, episode steps: 41, reward: 1063.49
+Episode: 42750, opp: sac_strong, total numsteps: 3945915, episode steps: 42, reward: 1047.21
+Episode: 42800, opp: sac_strong, total numsteps: 3949191, episode steps: 109, reward: 1090.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 839.75
+----------------------------------------
+Episode: 42850, opp: sac_strong, total numsteps: 3952450, episode steps: 30, reward: 1027.41
+Episode: 42900, opp: sac_strong, total numsteps: 3955708, episode steps: 45, reward: 1018.63
+Episode: 42950, opp: sac_strong, total numsteps: 3958631, episode steps: 110, reward: 1040.02
+Episode: 43000, opp: sac_strong, total numsteps: 3961601, episode steps: 21, reward: 1030.34
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1069.04
+----------------------------------------
+Episode: 43050, opp: sac_strong, total numsteps: 3964807, episode steps: 124, reward: 1111.91
+Episode: 43100, opp: sac_strong, total numsteps: 3968013, episode steps: 45, reward: 1014.16
+Episode: 43150, opp: sac_strong, total numsteps: 3971640, episode steps: 144, reward: 1154.48
+Episode: 43200, opp: sac_strong, total numsteps: 3974991, episode steps: 28, reward: 1018.27
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1075.57
+----------------------------------------
+Episode: 43250, opp: sac_strong, total numsteps: 3978210, episode steps: 81, reward: 1131.73
+Episode: 43300, opp: sac_strong, total numsteps: 3981293, episode steps: 93, reward: 1209.82
+Episode: 43350, opp: sac_strong, total numsteps: 3984712, episode steps: 38, reward: 1069.06
+Episode: 43400, opp: sac_strong, total numsteps: 3988022, episode steps: 162, reward: 1217.22
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1097.35
+----------------------------------------
+Episode: 43450, opp: sac_strong, total numsteps: 3990803, episode steps: 40, reward: 1063.18
+Episode: 43500, opp: sac_strong, total numsteps: 3993934, episode steps: 47, reward: 1006.57
+Episode: 43550, opp: sac_strong, total numsteps: 3997308, episode steps: 36, reward: 1068.74
+Episode: 43600, opp: sac_strong, total numsteps: 4000808, episode steps: 140, reward: -1141.69
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1075.23
+----------------------------------------
+Episode: 43650, opp: sac_strong, total numsteps: 4004158, episode steps: 228, reward: 1403.3
+Episode: 43700, opp: sac_strong, total numsteps: 4007453, episode steps: 37, reward: 1056.81
+Episode: 43750, opp: sac_strong, total numsteps: 4010182, episode steps: 42, reward: 1049.1
+Episode: 43800, opp: sac_strong, total numsteps: 4013035, episode steps: 45, reward: 1015.35
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1076.56
+----------------------------------------
+Episode: 43850, opp: sac_strong, total numsteps: 4016127, episode steps: 45, reward: 1021.07
+Episode: 43900, opp: sac_strong, total numsteps: 4019380, episode steps: 43, reward: 1032.88
+Episode: 43950, opp: sac_strong, total numsteps: 4022684, episode steps: 45, reward: 1003.34
+Episode: 44000, opp: sac_strong, total numsteps: 4026272, episode steps: 134, reward: 1077.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 848.13
+----------------------------------------
+Episode: 44050, opp: sac_strong, total numsteps: 4029211, episode steps: 39, reward: 1062.8
+Episode: 44100, opp: sac_strong, total numsteps: 4031926, episode steps: 44, reward: 1016.46
+Episode: 44150, opp: sac_strong, total numsteps: 4035187, episode steps: 38, reward: 1063.8
+Episode: 44200, opp: sac_strong, total numsteps: 4038404, episode steps: 41, reward: 1068.06
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1061.42
+----------------------------------------
+Episode: 44250, opp: sac_strong, total numsteps: 4041571, episode steps: 40, reward: 1069.71
+Episode: 44300, opp: sac_strong, total numsteps: 4044827, episode steps: 36, reward: 1073.13
+Episode: 44350, opp: sac_strong, total numsteps: 4048152, episode steps: 49, reward: 993.36
+Episode: 44400, opp: sac_strong, total numsteps: 4051725, episode steps: 21, reward: 1040.64
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1059.57
+----------------------------------------
+Episode: 44450, opp: sac_strong, total numsteps: 4054788, episode steps: 40, reward: 1034.7
+Episode: 44500, opp: sac_strong, total numsteps: 4057953, episode steps: 45, reward: 1027.17
+Episode: 44550, opp: sac_strong, total numsteps: 4060756, episode steps: 45, reward: 1013.79
+Episode: 44600, opp: sac_strong, total numsteps: 4063750, episode steps: 42, reward: 1069.44
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1056.69
+----------------------------------------
+Episode: 44650, opp: sac_strong, total numsteps: 4067143, episode steps: 42, reward: 1047.96
+Episode: 44700, opp: sac_strong, total numsteps: 4070451, episode steps: 47, reward: 1029.47
+Episode: 44750, opp: sac_strong, total numsteps: 4073820, episode steps: 127, reward: 1172.74
+Episode: 44800, opp: sac_strong, total numsteps: 4076687, episode steps: 43, reward: 1055.93
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1101.84
+----------------------------------------
+Episode: 44850, opp: sac_strong, total numsteps: 4080004, episode steps: 98, reward: 1085.24
+Episode: 44900, opp: sac_strong, total numsteps: 4082753, episode steps: 43, reward: 1010.04
+Episode: 44950, opp: sac_strong, total numsteps: 4086074, episode steps: 47, reward: 1017.7
+Episode: 45000, opp: sac_strong, total numsteps: 4089606, episode steps: 44, reward: 1055.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1076.09
+----------------------------------------
+Episode: 45050, opp: sac_strong, total numsteps: 4092729, episode steps: 44, reward: 1056.03
+Episode: 45100, opp: sac_strong, total numsteps: 4095868, episode steps: 40, reward: 1055.46
+Episode: 45150, opp: sac_strong, total numsteps: 4098664, episode steps: 38, reward: 1073.34
+Episode: 45200, opp: sac_strong, total numsteps: 4101714, episode steps: 48, reward: 1034.05
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1077.32
+----------------------------------------
+Episode: 45250, opp: sac_strong, total numsteps: 4105273, episode steps: 41, reward: 1064.7
+Episode: 45300, opp: sac_strong, total numsteps: 4108789, episode steps: 48, reward: 1021.14
+Episode: 45350, opp: sac_strong, total numsteps: 4112466, episode steps: 209, reward: 1333.48
+Episode: 45400, opp: sac_strong, total numsteps: 4115702, episode steps: 148, reward: 1153.7
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1089.97
+----------------------------------------
+Episode: 45450, opp: sac_strong, total numsteps: 4118642, episode steps: 43, reward: 1043.53
+Episode: 45500, opp: sac_strong, total numsteps: 4121704, episode steps: 108, reward: 1047.14
+Episode: 45550, opp: sac_strong, total numsteps: 4125112, episode steps: 45, reward: 1018.71
+Episode: 45600, opp: sac_strong, total numsteps: 4128119, episode steps: 42, reward: 1046.82
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 1067.38
+----------------------------------------
+Episode: 45650, opp: sac_strong, total numsteps: 4131250, episode steps: 42, reward: 1048.3
+Episode: 45700, opp: sac_strong, total numsteps: 4134282, episode steps: 44, reward: 1004.52

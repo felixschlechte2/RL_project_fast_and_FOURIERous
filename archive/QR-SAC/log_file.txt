@@ -1,0 +1,3105 @@
+cuda:0
+cuda
+Episode: 50, opp: random, total numsteps: 10631, episode steps: 250, reward: -1179.42
+Episode: 100, opp: random, total numsteps: 21175, episode steps: 250, reward: -3682.66
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1947.59
+----------------------------------------
+Episode: 150, opp: random, total numsteps: 32062, episode steps: 226, reward: -3278.11
+Episode: 200, opp: random, total numsteps: 42621, episode steps: 250, reward: -2896.21
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -933.73
+----------------------------------------
+Episode: 250, opp: random, total numsteps: 51890, episode steps: 250, reward: -3251.12
+Episode: 300, opp: random, total numsteps: 62204, episode steps: 250, reward: -4169.94
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2227.93
+----------------------------------------
+Episode: 350, opp: random, total numsteps: 72592, episode steps: 250, reward: -5053.26
+Episode: 400, opp: random, total numsteps: 82920, episode steps: 250, reward: -3989.46
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1471.5
+----------------------------------------
+Episode: 450, opp: random, total numsteps: 92607, episode steps: 158, reward: 57.15
+Episode: 500, opp: random, total numsteps: 102684, episode steps: 250, reward: -2579.05
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1632.21
+----------------------------------------
+Episode: 550, opp: random, total numsteps: 113241, episode steps: 250, reward: -4669.89
+Episode: 600, opp: random, total numsteps: 124905, episode steps: 40, reward: 947.28
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1619.48
+----------------------------------------
+Episode: 650, opp: random, total numsteps: 135720, episode steps: 189, reward: 529.56
+Episode: 700, opp: random, total numsteps: 146403, episode steps: 190, reward: -1509.26
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1431.38
+----------------------------------------
+Episode: 750, opp: random, total numsteps: 156020, episode steps: 86, reward: 1013.15
+Episode: 800, opp: random, total numsteps: 166684, episode steps: 250, reward: -3322.89
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1128.92
+----------------------------------------
+Episode: 850, opp: random, total numsteps: 178128, episode steps: 250, reward: -4810.34
+Episode: 900, opp: random, total numsteps: 190159, episode steps: 250, reward: -4081.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2505.94
+----------------------------------------
+Episode: 950, opp: random, total numsteps: 200636, episode steps: 250, reward: -3579.81
+Episode: 1000, opp: random, total numsteps: 211416, episode steps: 54, reward: 804.14
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -662.45
+----------------------------------------
+Episode: 1050, opp: random, total numsteps: 222364, episode steps: 250, reward: -3241.29
+Episode: 1100, opp: random, total numsteps: 232930, episode steps: 250, reward: -1125.46
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2032.47
+----------------------------------------
+Episode: 1150, opp: random, total numsteps: 243378, episode steps: 250, reward: -2978.79
+Episode: 1200, opp: random, total numsteps: 253764, episode steps: 250, reward: -3900.76
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2193.11
+----------------------------------------
+Episode: 1250, opp: random, total numsteps: 264593, episode steps: 244, reward: -1511.47
+Episode: 1300, opp: random, total numsteps: 275316, episode steps: 106, reward: 663.41
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2387.1
+----------------------------------------
+Episode: 1350, opp: random, total numsteps: 285785, episode steps: 250, reward: -2744.0
+Episode: 1400, opp: random, total numsteps: 295948, episode steps: 60, reward: 871.64
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1715.43
+----------------------------------------
+Episode: 1450, opp: random, total numsteps: 306735, episode steps: 250, reward: -5267.54
+Episode: 1500, opp: random, total numsteps: 317748, episode steps: 250, reward: -2806.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2224.55
+----------------------------------------
+Episode: 1550, opp: random, total numsteps: 328928, episode steps: 250, reward: -3281.18
+Episode: 1600, opp: random, total numsteps: 340152, episode steps: 250, reward: -3397.39
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1966.18
+----------------------------------------
+Episode: 1650, opp: random, total numsteps: 351336, episode steps: 250, reward: -2580.31
+Episode: 1700, opp: random, total numsteps: 361975, episode steps: 250, reward: -2899.01
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2084.71
+----------------------------------------
+Episode: 1750, opp: random, total numsteps: 373039, episode steps: 250, reward: -3265.3
+Episode: 1800, opp: random, total numsteps: 384241, episode steps: 250, reward: -3559.87
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1617.05
+----------------------------------------
+Episode: 1850, opp: random, total numsteps: 395784, episode steps: 250, reward: -3532.87
+Episode: 1900, opp: random, total numsteps: 406050, episode steps: 250, reward: -2698.93
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1268.64
+----------------------------------------
+Episode: 1950, opp: random, total numsteps: 417605, episode steps: 250, reward: -3206.11
+Episode: 2000, opp: random, total numsteps: 428130, episode steps: 250, reward: -2849.3
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1594.44
+----------------------------------------
+Episode: 2050, opp: random, total numsteps: 438838, episode steps: 250, reward: -3512.87
+Episode: 2100, opp: random, total numsteps: 449672, episode steps: 250, reward: -4074.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2230.27
+----------------------------------------
+Episode: 2150, opp: random, total numsteps: 459894, episode steps: 250, reward: -2743.58
+Episode: 2200, opp: random, total numsteps: 471078, episode steps: 39, reward: -1158.99
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1585.3
+----------------------------------------
+Episode: 2250, opp: random, total numsteps: 481585, episode steps: 250, reward: -2965.69
+Episode: 2300, opp: random, total numsteps: 491928, episode steps: 250, reward: -2386.25
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -981.01
+----------------------------------------
+Episode: 2350, opp: random, total numsteps: 502503, episode steps: 192, reward: -223.77
+Episode: 2400, opp: random, total numsteps: 513684, episode steps: 250, reward: -3995.07
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2259.29
+----------------------------------------
+Episode: 2450, opp: random, total numsteps: 524805, episode steps: 250, reward: -3423.31
+Episode: 2500, opp: random, total numsteps: 535895, episode steps: 250, reward: -2807.95
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2182.92
+----------------------------------------
+Episode: 2550, opp: random, total numsteps: 546791, episode steps: 250, reward: -3472.59
+Episode: 2600, opp: random, total numsteps: 556825, episode steps: 235, reward: -1591.69
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1975.33
+----------------------------------------
+Episode: 2650, opp: random, total numsteps: 568013, episode steps: 250, reward: -3400.68
+Episode: 2700, opp: random, total numsteps: 578450, episode steps: 250, reward: -3459.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2102.07
+----------------------------------------
+Episode: 2750, opp: random, total numsteps: 590086, episode steps: 250, reward: -2731.39
+Episode: 2800, opp: random, total numsteps: 600851, episode steps: 132, reward: -2122.6
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1645.85
+----------------------------------------
+Episode: 2850, opp: random, total numsteps: 611804, episode steps: 250, reward: -3206.83
+Episode: 2900, opp: random, total numsteps: 623172, episode steps: 250, reward: -2803.3
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1590.56
+----------------------------------------
+Episode: 2950, opp: random, total numsteps: 634629, episode steps: 250, reward: -2090.19
+Episode: 3000, opp: random, total numsteps: 645734, episode steps: 250, reward: -2720.06
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1507.37
+----------------------------------------
+Episode: 3050, opp: random, total numsteps: 656606, episode steps: 250, reward: -3257.3
+Episode: 3100, opp: random, total numsteps: 668066, episode steps: 250, reward: -3782.06
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2081.48
+----------------------------------------
+Episode: 3150, opp: random, total numsteps: 678413, episode steps: 250, reward: -2833.44
+Episode: 3200, opp: random, total numsteps: 688817, episode steps: 250, reward: -3035.16
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1900.59
+----------------------------------------
+Episode: 3250, opp: random, total numsteps: 699626, episode steps: 250, reward: -2686.96
+Episode: 3300, opp: random, total numsteps: 710354, episode steps: 122, reward: -1446.62
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1004.24
+----------------------------------------
+Episode: 3350, opp: random, total numsteps: 721676, episode steps: 250, reward: -2345.42
+Episode: 3400, opp: random, total numsteps: 732024, episode steps: 250, reward: -3364.32
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1743.59
+----------------------------------------
+Episode: 3450, opp: random, total numsteps: 742469, episode steps: 237, reward: -669.57
+Episode: 3500, opp: random, total numsteps: 753448, episode steps: 91, reward: -1450.17
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2150.18
+----------------------------------------
+Episode: 3550, opp: random, total numsteps: 763893, episode steps: 250, reward: -4001.57
+Episode: 3600, opp: random, total numsteps: 774898, episode steps: 250, reward: -3267.46
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1916.93
+----------------------------------------
+Episode: 3650, opp: random, total numsteps: 785996, episode steps: 250, reward: -4357.54
+Episode: 3700, opp: random, total numsteps: 795799, episode steps: 120, reward: 494.1
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1465.97
+----------------------------------------
+Episode: 3750, opp: random, total numsteps: 806337, episode steps: 250, reward: -3814.81
+Episode: 3800, opp: random, total numsteps: 817414, episode steps: 245, reward: -2301.5
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1807.25
+----------------------------------------
+Episode: 3850, opp: random, total numsteps: 828716, episode steps: 250, reward: -2332.57
+Episode: 3900, opp: random, total numsteps: 839581, episode steps: 250, reward: -1865.31
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -227.43
+----------------------------------------
+Episode: 3950, opp: random, total numsteps: 849744, episode steps: 250, reward: -1109.43
+Episode: 4000, opp: random, total numsteps: 860451, episode steps: 250, reward: -3169.5
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1313.78
+----------------------------------------
+Episode: 4050, opp: random, total numsteps: 871212, episode steps: 196, reward: -646.05
+Episode: 4100, opp: random, total numsteps: 882179, episode steps: 250, reward: -2990.7
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1722.44
+----------------------------------------
+Episode: 4150, opp: random, total numsteps: 892555, episode steps: 55, reward: 887.95
+Episode: 4200, opp: random, total numsteps: 903165, episode steps: 250, reward: -4514.97
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1882.65
+----------------------------------------
+Episode: 4250, opp: random, total numsteps: 914102, episode steps: 250, reward: -2567.28
+Episode: 4300, opp: random, total numsteps: 924748, episode steps: 250, reward: -2431.84
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1343.79
+----------------------------------------
+Episode: 4350, opp: random, total numsteps: 935142, episode steps: 250, reward: -3404.37
+Episode: 4400, opp: random, total numsteps: 945255, episode steps: 89, reward: -1167.07
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1548.98
+----------------------------------------
+Episode: 4450, opp: random, total numsteps: 956313, episode steps: 250, reward: -4642.98
+Episode: 4500, opp: random, total numsteps: 967067, episode steps: 250, reward: -3034.44
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1754.5
+----------------------------------------
+Episode: 4550, opp: random, total numsteps: 977897, episode steps: 179, reward: -2891.85
+Episode: 4600, opp: random, total numsteps: 988854, episode steps: 103, reward: 300.03
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1905.51
+----------------------------------------
+Episode: 4650, opp: random, total numsteps: 1000290, episode steps: 250, reward: -3362.34
+Episode: 4700, opp: random, total numsteps: 1010417, episode steps: 225, reward: -398.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1949.62
+----------------------------------------
+Episode: 4750, opp: random, total numsteps: 1020921, episode steps: 202, reward: -2046.15
+Episode: 4800, opp: random, total numsteps: 1031624, episode steps: 250, reward: -3175.54
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1436.07
+----------------------------------------
+Episode: 4850, opp: random, total numsteps: 1042178, episode steps: 250, reward: -3546.6
+Episode: 4900, opp: random, total numsteps: 1053793, episode steps: 250, reward: -3121.57
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2073.91
+----------------------------------------
+Episode: 4950, opp: random, total numsteps: 1065442, episode steps: 250, reward: -3623.07
+Episode: 5000, opp: random, total numsteps: 1076952, episode steps: 250, reward: -3825.37
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1967.81
+----------------------------------------
+Episode: 5050, opp: random, total numsteps: 1087612, episode steps: 250, reward: -2734.87
+Episode: 5100, opp: random, total numsteps: 1098522, episode steps: 250, reward: -2791.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1811.17
+----------------------------------------
+Episode: 5150, opp: random, total numsteps: 1110316, episode steps: 250, reward: -2408.36
+Episode: 5200, opp: random, total numsteps: 1122408, episode steps: 250, reward: -3907.84
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1569.44
+----------------------------------------
+Episode: 5250, opp: random, total numsteps: 1133449, episode steps: 250, reward: -3835.89
+Episode: 5300, opp: random, total numsteps: 1144768, episode steps: 250, reward: -3374.43
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1769.93
+----------------------------------------
+Episode: 5350, opp: random, total numsteps: 1155916, episode steps: 250, reward: -4023.43
+Episode: 5400, opp: random, total numsteps: 1167099, episode steps: 250, reward: -4495.75
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2313.64
+----------------------------------------
+Episode: 5450, opp: random, total numsteps: 1177480, episode steps: 250, reward: -4647.18
+Episode: 5500, opp: random, total numsteps: 1189441, episode steps: 250, reward: -3151.39
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2227.8
+----------------------------------------
+Episode: 5550, opp: random, total numsteps: 1200757, episode steps: 250, reward: -3299.01
+Episode: 5600, opp: random, total numsteps: 1210924, episode steps: 250, reward: -3429.59
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2179.21
+----------------------------------------
+Episode: 5650, opp: random, total numsteps: 1222020, episode steps: 250, reward: -2960.67
+Episode: 5700, opp: random, total numsteps: 1233146, episode steps: 250, reward: -3400.94
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2476.47
+----------------------------------------
+Episode: 5750, opp: random, total numsteps: 1244380, episode steps: 250, reward: -4801.17
+Episode: 5800, opp: random, total numsteps: 1256216, episode steps: 250, reward: -4903.24
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2302.84
+----------------------------------------
+Episode: 5850, opp: random, total numsteps: 1268136, episode steps: 250, reward: -4665.11
+Episode: 5900, opp: random, total numsteps: 1279346, episode steps: 250, reward: -3203.41
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2166.54
+----------------------------------------
+Episode: 5950, opp: random, total numsteps: 1290636, episode steps: 250, reward: -3532.67
+Episode: 6000, opp: random, total numsteps: 1302152, episode steps: 250, reward: -2726.18
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2566.5
+----------------------------------------
+Episode: 6050, opp: random, total numsteps: 1312904, episode steps: 250, reward: -4880.04
+Episode: 6100, opp: random, total numsteps: 1323843, episode steps: 250, reward: -5693.27
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2354.43
+----------------------------------------
+Episode: 6150, opp: random, total numsteps: 1335398, episode steps: 250, reward: -5253.1
+Episode: 6200, opp: random, total numsteps: 1346464, episode steps: 250, reward: -3395.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2423.46
+----------------------------------------
+Episode: 6250, opp: random, total numsteps: 1357294, episode steps: 250, reward: -2868.97
+Episode: 6300, opp: random, total numsteps: 1368694, episode steps: 250, reward: -4739.68
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2443.36
+----------------------------------------
+Episode: 6350, opp: random, total numsteps: 1379906, episode steps: 250, reward: -3124.78
+Episode: 6400, opp: random, total numsteps: 1391325, episode steps: 250, reward: -4292.75
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1886.45
+----------------------------------------
+Episode: 6450, opp: random, total numsteps: 1401910, episode steps: 250, reward: -3212.81
+Episode: 6500, opp: random, total numsteps: 1413435, episode steps: 250, reward: -4336.42
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2508.59
+----------------------------------------
+Episode: 6550, opp: random, total numsteps: 1425165, episode steps: 250, reward: -2812.43
+Episode: 6600, opp: random, total numsteps: 1436291, episode steps: 250, reward: -2980.9
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2737.91
+----------------------------------------
+Episode: 6650, opp: random, total numsteps: 1447133, episode steps: 250, reward: -4047.66
+Episode: 6700, opp: random, total numsteps: 1457390, episode steps: 250, reward: -3879.07
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1920.04
+----------------------------------------
+Episode: 6750, opp: random, total numsteps: 1468174, episode steps: 250, reward: -4469.3
+Episode: 6800, opp: random, total numsteps: 1479295, episode steps: 57, reward: -1403.78
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1190.55
+----------------------------------------
+Episode: 6850, opp: random, total numsteps: 1488630, episode steps: 250, reward: -3170.67
+Episode: 6900, opp: random, total numsteps: 1498116, episode steps: 250, reward: -2299.09
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -951.07
+----------------------------------------
+Episode: 6950, opp: random, total numsteps: 1507165, episode steps: 131, reward: -1142.28
+Episode: 7000, opp: random, total numsteps: 1517037, episode steps: 250, reward: -4577.73
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1349.46
+----------------------------------------
+Episode: 7050, opp: random, total numsteps: 1527757, episode steps: 79, reward: 1042.31
+Episode: 7100, opp: random, total numsteps: 1537389, episode steps: 62, reward: 770.38
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1582.19
+----------------------------------------
+Episode: 7150, opp: random, total numsteps: 1547214, episode steps: 250, reward: -2820.27
+Episode: 7200, opp: random, total numsteps: 1556564, episode steps: 250, reward: -3636.44
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1626.28
+----------------------------------------
+Episode: 7250, opp: random, total numsteps: 1567014, episode steps: 146, reward: -2426.67
+Episode: 7300, opp: random, total numsteps: 1576376, episode steps: 21, reward: 1021.37
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1199.18
+----------------------------------------
+Episode: 7350, opp: random, total numsteps: 1586593, episode steps: 250, reward: -2692.98
+Episode: 7400, opp: random, total numsteps: 1596376, episode steps: 250, reward: -2575.86
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1317.59
+----------------------------------------
+Episode: 7450, opp: random, total numsteps: 1606513, episode steps: 250, reward: -4402.49
+Episode: 7500, opp: random, total numsteps: 1616536, episode steps: 250, reward: -4139.92
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2824.15
+----------------------------------------
+Episode: 7550, opp: random, total numsteps: 1627558, episode steps: 250, reward: -4712.56
+Episode: 7600, opp: random, total numsteps: 1639449, episode steps: 250, reward: -3770.31
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2151.04
+----------------------------------------
+Episode: 7650, opp: random, total numsteps: 1650813, episode steps: 250, reward: -4575.4
+Episode: 7700, opp: random, total numsteps: 1662168, episode steps: 250, reward: -5234.33
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2121.44
+----------------------------------------
+Episode: 7750, opp: random, total numsteps: 1673082, episode steps: 250, reward: -4684.5
+Episode: 7800, opp: random, total numsteps: 1683878, episode steps: 250, reward: -3909.38
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -719.24
+----------------------------------------
+Episode: 7850, opp: random, total numsteps: 1694545, episode steps: 250, reward: -4780.23
+Episode: 7900, opp: random, total numsteps: 1705679, episode steps: 250, reward: -3736.05
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1209.26
+----------------------------------------
+Episode: 7950, opp: random, total numsteps: 1715899, episode steps: 28, reward: 1044.6
+Episode: 8000, opp: random, total numsteps: 1725202, episode steps: 18, reward: 1074.47
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -599.61
+----------------------------------------
+Episode: 8050, opp: random, total numsteps: 1734440, episode steps: 17, reward: 1077.57
+Episode: 8100, opp: random, total numsteps: 1742737, episode steps: 250, reward: -1561.11
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -712.18
+----------------------------------------
+Episode: 8150, opp: random, total numsteps: 1752018, episode steps: 160, reward: 753.0
+Episode: 8200, opp: random, total numsteps: 1761691, episode steps: 250, reward: -3204.96
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1550.19
+----------------------------------------
+Episode: 8250, opp: random, total numsteps: 1773110, episode steps: 250, reward: -4775.42
+Episode: 8300, opp: random, total numsteps: 1783998, episode steps: 250, reward: -4865.26
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1682.97
+----------------------------------------
+Episode: 8350, opp: random, total numsteps: 1794850, episode steps: 250, reward: -3268.73
+Episode: 8400, opp: random, total numsteps: 1805272, episode steps: 99, reward: 519.22
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -886.13
+----------------------------------------
+Episode: 8450, opp: random, total numsteps: 1816197, episode steps: 104, reward: 648.29
+Episode: 8500, opp: random, total numsteps: 1827375, episode steps: 250, reward: -2040.63
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -1050.94
+----------------------------------------
+Episode: 8550, opp: random, total numsteps: 1837635, episode steps: 57, reward: 805.1
+Episode: 8600, opp: random, total numsteps: 1847692, episode steps: 38, reward: 1139.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -485.14
+----------------------------------------
+Episode: 8650, opp: random, total numsteps: 1857006, episode steps: 79, reward: -1432.46
+Episode: 8700, opp: random, total numsteps: 1864110, episode steps: 27, reward: 1078.62
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -927.99
+----------------------------------------
+Episode: 8750, opp: random, total numsteps: 1872646, episode steps: 69, reward: 1060.47
+Episode: 8800, opp: random, total numsteps: 1880232, episode steps: 250, reward: -1645.55
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 28.53
+----------------------------------------
+Episode: 8850, opp: random, total numsteps: 1888997, episode steps: 119, reward: 532.97
+Episode: 8900, opp: random, total numsteps: 1897491, episode steps: 26, reward: 1057.64
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -368.09
+----------------------------------------
+Episode: 8950, opp: random, total numsteps: 1906180, episode steps: 78, reward: 923.81
+Episode: 9000, opp: random, total numsteps: 1915042, episode steps: 51, reward: 1127.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -598.77
+----------------------------------------
+Episode: 9050, opp: random, total numsteps: 1922656, episode steps: 92, reward: -1177.12
+Episode: 9100, opp: random, total numsteps: 1930162, episode steps: 84, reward: 880.4
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -304.65
+----------------------------------------
+Episode: 9150, opp: random, total numsteps: 1938815, episode steps: 83, reward: -1171.42
+Episode: 9200, opp: random, total numsteps: 1948239, episode steps: 119, reward: 751.56
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -536.67
+----------------------------------------
+Episode: 9250, opp: random, total numsteps: 1956310, episode steps: 250, reward: -1166.8
+Episode: 9300, opp: random, total numsteps: 1964725, episode steps: 144, reward: -1410.44
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -423.81
+----------------------------------------
+Episode: 9350, opp: random, total numsteps: 1972908, episode steps: 53, reward: 1021.2
+Episode: 9400, opp: random, total numsteps: 1980228, episode steps: 71, reward: -1407.54
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 3.83
+----------------------------------------
+Episode: 9450, opp: random, total numsteps: 1988958, episode steps: 250, reward: -1558.34
+Episode: 9500, opp: random, total numsteps: 1997157, episode steps: 152, reward: 369.9
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -192.57
+----------------------------------------
+Episode: 9550, opp: random, total numsteps: 2005509, episode steps: 23, reward: 1057.75
+Episode: 9600, opp: random, total numsteps: 2013232, episode steps: 40, reward: -1088.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -184.2
+----------------------------------------
+Episode: 9650, opp: random, total numsteps: 2021555, episode steps: 70, reward: -1397.7
+Episode: 9700, opp: random, total numsteps: 2029122, episode steps: 24, reward: 1037.87
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -435.87
+----------------------------------------
+Episode: 9750, opp: random, total numsteps: 2037216, episode steps: 25, reward: 1015.73
+Episode: 9800, opp: random, total numsteps: 2044095, episode steps: 23, reward: 1052.64
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 9.0
+----------------------------------------
+Episode: 9850, opp: random, total numsteps: 2052604, episode steps: 54, reward: -1267.67
+Episode: 9900, opp: random, total numsteps: 2060264, episode steps: 23, reward: 1057.84
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -203.03
+----------------------------------------
+Episode: 9950, opp: random, total numsteps: 2067516, episode steps: 250, reward: -1844.02
+Episode: 10000, opp: random, total numsteps: 2075342, episode steps: 24, reward: 1065.93
+Saving models to checkpoints/sac_checkpoint_hockey_vs_random_all_rew_ep_10000
+Saving buffer to checkpoints/sac_buffer_hockey_vs_random_all_rew_10000
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 112.07
+----------------------------------------
+Episode: 10050, opp: random, total numsteps: 2082997, episode steps: 48, reward: -1284.45
+Episode: 10100, opp: random, total numsteps: 2090714, episode steps: 163, reward: 787.54
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 132.68
+----------------------------------------
+Episode: 10150, opp: random, total numsteps: 2097924, episode steps: 47, reward: 1115.63
+Episode: 10200, opp: random, total numsteps: 2105603, episode steps: 55, reward: -1244.86
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 109.81
+----------------------------------------
+Episode: 10250, opp: random, total numsteps: 2113185, episode steps: 43, reward: 1054.01
+Episode: 10300, opp: random, total numsteps: 2120849, episode steps: 68, reward: 918.38
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 373.68
+----------------------------------------
+Episode: 10350, opp: random, total numsteps: 2128480, episode steps: 162, reward: 933.58
+Episode: 10400, opp: random, total numsteps: 2136578, episode steps: 250, reward: -239.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -168.02
+----------------------------------------
+Episode: 10450, opp: random, total numsteps: 2144308, episode steps: 25, reward: 1057.86
+Episode: 10500, opp: random, total numsteps: 2152646, episode steps: 250, reward: -0.79
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 30.16
+----------------------------------------
+Episode: 10550, opp: random, total numsteps: 2160384, episode steps: 48, reward: 1026.67
+Episode: 10600, opp: random, total numsteps: 2168113, episode steps: 150, reward: 593.59
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 336.29
+----------------------------------------
+Episode: 10650, opp: random, total numsteps: 2175136, episode steps: 128, reward: 1127.32
+Episode: 10700, opp: random, total numsteps: 2182684, episode steps: 139, reward: -1312.4
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 600.15
+----------------------------------------
+Episode: 10750, opp: random, total numsteps: 2191322, episode steps: 181, reward: 1002.21
+Episode: 10800, opp: random, total numsteps: 2198859, episode steps: 105, reward: 762.89
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -336.68
+----------------------------------------
+Episode: 10850, opp: random, total numsteps: 2207952, episode steps: 250, reward: -1193.75
+Episode: 10900, opp: random, total numsteps: 2215584, episode steps: 26, reward: 1038.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -235.25
+----------------------------------------
+Episode: 10950, opp: random, total numsteps: 2223328, episode steps: 53, reward: -1159.2
+Episode: 11000, opp: random, total numsteps: 2230193, episode steps: 26, reward: 1036.88
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -386.17
+----------------------------------------
+Episode: 11050, opp: random, total numsteps: 2238585, episode steps: 250, reward: -758.04
+Episode: 11100, opp: random, total numsteps: 2246033, episode steps: 68, reward: 873.46
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -621.15
+----------------------------------------
+Episode: 11150, opp: random, total numsteps: 2254107, episode steps: 170, reward: -1472.28
+Episode: 11200, opp: random, total numsteps: 2261251, episode steps: 143, reward: 713.47
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 88.92
+----------------------------------------
+Episode: 11250, opp: random, total numsteps: 2269653, episode steps: 28, reward: 1050.52
+Episode: 11300, opp: random, total numsteps: 2277306, episode steps: 24, reward: 1058.58
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 73.82
+----------------------------------------
+Episode: 11350, opp: random, total numsteps: 2285277, episode steps: 131, reward: -1323.43
+Episode: 11400, opp: random, total numsteps: 2293769, episode steps: 118, reward: 757.94
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 28.07
+----------------------------------------
+Episode: 11450, opp: random, total numsteps: 2302027, episode steps: 24, reward: 1056.02
+Episode: 11500, opp: random, total numsteps: 2309858, episode steps: 23, reward: 1071.84
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 4.71
+----------------------------------------
+Episode: 11550, opp: random, total numsteps: 2317665, episode steps: 112, reward: 736.36
+Episode: 11600, opp: random, total numsteps: 2326288, episode steps: 94, reward: -1378.58
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -140.3
+----------------------------------------
+Episode: 11650, opp: random, total numsteps: 2333491, episode steps: 25, reward: 1059.79
+Episode: 11700, opp: random, total numsteps: 2341029, episode steps: 250, reward: -618.48
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -305.81
+----------------------------------------
+Episode: 11750, opp: random, total numsteps: 2348018, episode steps: 82, reward: -1181.39
+Episode: 11800, opp: random, total numsteps: 2355804, episode steps: 250, reward: -243.05
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -11.6
+----------------------------------------
+Episode: 11850, opp: random, total numsteps: 2364589, episode steps: 15, reward: -1101.8
+Episode: 11900, opp: random, total numsteps: 2372233, episode steps: 24, reward: 1057.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -531.19
+----------------------------------------
+Episode: 11950, opp: random, total numsteps: 2381007, episode steps: 156, reward: -1497.18
+Episode: 12000, opp: random, total numsteps: 2389284, episode steps: 250, reward: -246.5
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -194.45
+----------------------------------------
+Episode: 12050, opp: random, total numsteps: 2397871, episode steps: 62, reward: 905.92
+Episode: 12100, opp: random, total numsteps: 2405002, episode steps: 185, reward: -1486.3
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -335.4
+----------------------------------------
+Episode: 12150, opp: random, total numsteps: 2413461, episode steps: 24, reward: 1066.16
+Episode: 12200, opp: random, total numsteps: 2420878, episode steps: 129, reward: 836.02
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 154.37
+----------------------------------------
+Episode: 12250, opp: random, total numsteps: 2429074, episode steps: 250, reward: -717.17
+Episode: 12300, opp: random, total numsteps: 2436970, episode steps: 23, reward: 1047.19
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -421.22
+----------------------------------------
+Episode: 12350, opp: random, total numsteps: 2445011, episode steps: 28, reward: 1076.41
+Episode: 12400, opp: random, total numsteps: 2453469, episode steps: 191, reward: 355.77
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -158.53
+----------------------------------------
+Episode: 12450, opp: random, total numsteps: 2460912, episode steps: 250, reward: 17.32
+Episode: 12500, opp: random, total numsteps: 2468716, episode steps: 105, reward: 1052.05
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -107.38
+----------------------------------------
+Episode: 12550, opp: random, total numsteps: 2476633, episode steps: 188, reward: -1573.14
+Episode: 12600, opp: random, total numsteps: 2485271, episode steps: 59, reward: 1029.11
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -7.42
+----------------------------------------
+Episode: 12650, opp: random, total numsteps: 2492324, episode steps: 186, reward: 960.53
+Episode: 12700, opp: random, total numsteps: 2500305, episode steps: 24, reward: 1030.52
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 345.12
+----------------------------------------
+Episode: 12750, opp: random, total numsteps: 2508158, episode steps: 143, reward: 702.16
+Episode: 12800, opp: random, total numsteps: 2515997, episode steps: 22, reward: 1063.42
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 361.87
+----------------------------------------
+Episode: 12850, opp: random, total numsteps: 2524154, episode steps: 122, reward: -1149.94
+Episode: 12900, opp: random, total numsteps: 2531981, episode steps: 119, reward: -1499.82
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -372.79
+----------------------------------------
+Episode: 12950, opp: random, total numsteps: 2539305, episode steps: 250, reward: -2209.9
+Episode: 13000, opp: random, total numsteps: 2547876, episode steps: 101, reward: 947.07
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -121.44
+----------------------------------------
+Episode: 13050, opp: random, total numsteps: 2555937, episode steps: 140, reward: -1473.01
+Episode: 13100, opp: random, total numsteps: 2562849, episode steps: 68, reward: 973.37
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -259.17
+----------------------------------------
+Episode: 13150, opp: random, total numsteps: 2570995, episode steps: 48, reward: -1094.0
+Episode: 13200, opp: random, total numsteps: 2579178, episode steps: 66, reward: 1053.55
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -16.23
+----------------------------------------
+Episode: 13250, opp: random, total numsteps: 2587591, episode steps: 67, reward: -1103.39
+Episode: 13300, opp: random, total numsteps: 2595865, episode steps: 71, reward: 965.74
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 167.84
+----------------------------------------
+Episode: 13350, opp: random, total numsteps: 2604501, episode steps: 115, reward: 729.58
+Episode: 13400, opp: random, total numsteps: 2612101, episode steps: 141, reward: -1216.06
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 36.71
+----------------------------------------
+Episode: 13450, opp: random, total numsteps: 2619784, episode steps: 67, reward: 928.89
+Episode: 13500, opp: random, total numsteps: 2627009, episode steps: 250, reward: -488.17
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 17.42
+----------------------------------------
+Episode: 13550, opp: random, total numsteps: 2635945, episode steps: 250, reward: -290.99
+Episode: 13600, opp: random, total numsteps: 2644946, episode steps: 250, reward: -562.28
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -196.85
+----------------------------------------
+Episode: 13650, opp: random, total numsteps: 2653054, episode steps: 26, reward: 1039.4
+Episode: 13700, opp: random, total numsteps: 2661379, episode steps: 33, reward: 1020.09
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -562.58
+----------------------------------------
+Episode: 13750, opp: random, total numsteps: 2669467, episode steps: 36, reward: 1035.25
+Episode: 13800, opp: random, total numsteps: 2678440, episode steps: 147, reward: -1307.76
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -587.27
+----------------------------------------
+Episode: 13850, opp: random, total numsteps: 2686696, episode steps: 77, reward: -1191.61
+Episode: 13900, opp: random, total numsteps: 2694199, episode steps: 29, reward: 1024.11
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -354.96
+----------------------------------------
+Episode: 13950, opp: random, total numsteps: 2702484, episode steps: 234, reward: 399.88
+Episode: 14000, opp: random, total numsteps: 2711132, episode steps: 95, reward: 863.78
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -66.65
+----------------------------------------
+Episode: 14050, opp: random, total numsteps: 2719507, episode steps: 250, reward: -586.18
+Episode: 14100, opp: random, total numsteps: 2727368, episode steps: 68, reward: 1043.43
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -89.38
+----------------------------------------
+Episode: 14150, opp: random, total numsteps: 2736405, episode steps: 83, reward: 906.88
+Episode: 14200, opp: random, total numsteps: 2744854, episode steps: 250, reward: -666.49
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -31.51
+----------------------------------------
+Episode: 14250, opp: random, total numsteps: 2753679, episode steps: 59, reward: 902.89
+Episode: 14300, opp: random, total numsteps: 2762274, episode steps: 27, reward: 1066.69
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 93.78
+----------------------------------------
+Episode: 14350, opp: random, total numsteps: 2769718, episode steps: 96, reward: 997.51
+Episode: 14400, opp: random, total numsteps: 2778432, episode steps: 24, reward: 1073.7
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 333.68
+----------------------------------------
+Episode: 14450, opp: random, total numsteps: 2786433, episode steps: 250, reward: -805.42
+Episode: 14500, opp: random, total numsteps: 2794298, episode steps: 41, reward: -1066.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -368.97
+----------------------------------------
+Episode: 14550, opp: random, total numsteps: 2802061, episode steps: 33, reward: 1074.67
+Episode: 14600, opp: random, total numsteps: 2810001, episode steps: 27, reward: 1020.31
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -205.7
+----------------------------------------
+Episode: 14650, opp: random, total numsteps: 2818328, episode steps: 25, reward: 1037.76
+Episode: 14700, opp: random, total numsteps: 2826469, episode steps: 48, reward: 1023.89
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -122.66
+----------------------------------------
+Episode: 14750, opp: random, total numsteps: 2834902, episode steps: 27, reward: 1074.8
+Episode: 14800, opp: random, total numsteps: 2843137, episode steps: 135, reward: -1441.59
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -384.13
+----------------------------------------
+Episode: 14850, opp: random, total numsteps: 2850757, episode steps: 120, reward: -1271.83
+Episode: 14900, opp: random, total numsteps: 2858593, episode steps: 250, reward: 75.19
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -361.37
+----------------------------------------
+Episode: 14950, opp: random, total numsteps: 2866400, episode steps: 27, reward: 1023.45
+Episode: 15000, opp: random, total numsteps: 2874552, episode steps: 40, reward: 1044.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 113.83
+----------------------------------------
+Episode: 15050, opp: random, total numsteps: 2883644, episode steps: 154, reward: -1462.42
+Episode: 15100, opp: random, total numsteps: 2891108, episode steps: 85, reward: -1142.99
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 277.9
+----------------------------------------
+Episode: 15150, opp: random, total numsteps: 2900227, episode steps: 84, reward: 866.66
+Episode: 15200, opp: random, total numsteps: 2908352, episode steps: 92, reward: 740.02
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 52.58
+----------------------------------------
+Episode: 15250, opp: random, total numsteps: 2917031, episode steps: 102, reward: -1298.64
+Episode: 15300, opp: random, total numsteps: 2923906, episode steps: 83, reward: -1204.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -47.42
+----------------------------------------
+Episode: 15350, opp: random, total numsteps: 2932654, episode steps: 220, reward: 447.33
+Episode: 15400, opp: random, total numsteps: 2940642, episode steps: 250, reward: 20.83
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -532.78
+----------------------------------------
+Episode: 15450, opp: random, total numsteps: 2949268, episode steps: 113, reward: -1050.02
+Episode: 15500, opp: random, total numsteps: 2958315, episode steps: 24, reward: 1045.31
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 284.14
+----------------------------------------
+Episode: 15550, opp: random, total numsteps: 2966471, episode steps: 26, reward: 1052.54
+Episode: 15600, opp: random, total numsteps: 2975003, episode steps: 52, reward: -1082.56
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 560.97
+----------------------------------------
+Episode: 15650, opp: random, total numsteps: 2983187, episode steps: 84, reward: 824.11
+Episode: 15700, opp: random, total numsteps: 2991072, episode steps: 99, reward: 1073.35
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -533.85
+----------------------------------------
+Episode: 15750, opp: random, total numsteps: 3000173, episode steps: 153, reward: 258.42
+Episode: 15800, opp: random, total numsteps: 3007855, episode steps: 40, reward: -1051.22
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 10.54
+----------------------------------------
+Episode: 15850, opp: random, total numsteps: 3016064, episode steps: 136, reward: 637.88
+Episode: 15900, opp: random, total numsteps: 3024570, episode steps: 73, reward: 874.77
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -486.74
+----------------------------------------
+Episode: 15950, opp: random, total numsteps: 3032719, episode steps: 28, reward: 1069.68
+Episode: 16000, opp: random, total numsteps: 3041991, episode steps: 87, reward: 927.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 102.26
+----------------------------------------
+Episode: 16050, opp: random, total numsteps: 3049499, episode steps: 128, reward: -1344.52
+Episode: 16100, opp: random, total numsteps: 3057108, episode steps: 90, reward: 960.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -281.69
+----------------------------------------
+Episode: 16150, opp: random, total numsteps: 3065235, episode steps: 24, reward: 1068.65
+Episode: 16200, opp: random, total numsteps: 3073425, episode steps: 127, reward: 562.93
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -295.38
+----------------------------------------
+Episode: 16250, opp: random, total numsteps: 3081417, episode steps: 250, reward: -437.83
+Episode: 16300, opp: random, total numsteps: 3089593, episode steps: 85, reward: -1334.79
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -394.78
+----------------------------------------
+Episode: 16350, opp: random, total numsteps: 3097448, episode steps: 92, reward: -1127.89
+Episode: 16400, opp: random, total numsteps: 3106208, episode steps: 104, reward: 862.98
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 162.06
+----------------------------------------
+Episode: 16450, opp: random, total numsteps: 3114013, episode steps: 69, reward: 1119.05
+Episode: 16500, opp: random, total numsteps: 3121776, episode steps: 47, reward: -1141.61
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -507.6
+----------------------------------------
+Episode: 16550, opp: random, total numsteps: 3129040, episode steps: 35, reward: 1020.88
+Episode: 16600, opp: random, total numsteps: 3137510, episode steps: 45, reward: 922.05
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 181.07
+----------------------------------------
+Episode: 16650, opp: random, total numsteps: 3144863, episode steps: 26, reward: 1042.85
+Episode: 16700, opp: random, total numsteps: 3152345, episode steps: 250, reward: -639.84
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 95.37
+----------------------------------------
+Episode: 16750, opp: random, total numsteps: 3159557, episode steps: 24, reward: 1035.1
+Episode: 16800, opp: random, total numsteps: 3166803, episode steps: 250, reward: -694.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -247.45
+----------------------------------------
+Episode: 16850, opp: random, total numsteps: 3174272, episode steps: 162, reward: -1218.16
+Episode: 16900, opp: random, total numsteps: 3182923, episode steps: 93, reward: -1353.6
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -145.5
+----------------------------------------
+Episode: 16950, opp: random, total numsteps: 3190112, episode steps: 67, reward: 1053.55
+Episode: 17000, opp: random, total numsteps: 3197899, episode steps: 77, reward: -1403.61
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -245.77
+----------------------------------------
+Episode: 17050, opp: random, total numsteps: 3205595, episode steps: 250, reward: -1416.18
+Episode: 17100, opp: random, total numsteps: 3213385, episode steps: 50, reward: -1165.23
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -644.38
+----------------------------------------
+Episode: 17150, opp: random, total numsteps: 3221204, episode steps: 250, reward: -830.26
+Episode: 17200, opp: random, total numsteps: 3228515, episode steps: 34, reward: 1014.16
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -220.1
+----------------------------------------
+Episode: 17250, opp: random, total numsteps: 3236725, episode steps: 42, reward: -1026.86
+Episode: 17300, opp: random, total numsteps: 3244824, episode steps: 78, reward: 985.45
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 123.95
+----------------------------------------
+Episode: 17350, opp: random, total numsteps: 3252946, episode steps: 86, reward: 941.18
+Episode: 17400, opp: random, total numsteps: 3260866, episode steps: 178, reward: 713.5
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -488.78
+----------------------------------------
+Episode: 17450, opp: random, total numsteps: 3268785, episode steps: 197, reward: -1934.23
+Episode: 17500, opp: random, total numsteps: 3276646, episode steps: 143, reward: -1071.19
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -500.3
+----------------------------------------
+Episode: 17550, opp: random, total numsteps: 3284392, episode steps: 98, reward: 792.95
+Episode: 17600, opp: random, total numsteps: 3292799, episode steps: 179, reward: 637.27
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -152.64
+----------------------------------------
+Episode: 17650, opp: random, total numsteps: 3300367, episode steps: 37, reward: 1078.42
+Episode: 17700, opp: random, total numsteps: 3308505, episode steps: 100, reward: 737.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -17.1
+----------------------------------------
+Episode: 17750, opp: random, total numsteps: 3316562, episode steps: 24, reward: 1063.86
+Episode: 17800, opp: random, total numsteps: 3324147, episode steps: 125, reward: -1397.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -186.1
+----------------------------------------
+Episode: 17850, opp: random, total numsteps: 3332056, episode steps: 42, reward: 1036.01
+Episode: 17900, opp: random, total numsteps: 3339157, episode steps: 36, reward: 958.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -147.25
+----------------------------------------
+Episode: 17950, opp: random, total numsteps: 3346379, episode steps: 83, reward: -1306.28
+Episode: 18000, opp: random, total numsteps: 3353304, episode steps: 82, reward: 848.41
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -112.35
+----------------------------------------
+Episode: 18050, opp: random, total numsteps: 3360317, episode steps: 113, reward: -1462.77
+Episode: 18100, opp: random, total numsteps: 3367737, episode steps: 78, reward: 994.47
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -594.36
+----------------------------------------
+Episode: 18150, opp: random, total numsteps: 3375448, episode steps: 96, reward: 870.91
+Episode: 18200, opp: random, total numsteps: 3383982, episode steps: 100, reward: -1482.23
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 15.49
+----------------------------------------
+Episode: 18250, opp: random, total numsteps: 3391107, episode steps: 250, reward: -24.96
+Episode: 18300, opp: random, total numsteps: 3399562, episode steps: 25, reward: 1058.16
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -188.4
+----------------------------------------
+Episode: 18350, opp: random, total numsteps: 3407455, episode steps: 52, reward: -1172.69
+Episode: 18400, opp: random, total numsteps: 3414849, episode steps: 76, reward: -992.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 29.95
+----------------------------------------
+Episode: 18450, opp: random, total numsteps: 3422695, episode steps: 29, reward: 1038.28
+Episode: 18500, opp: random, total numsteps: 3430292, episode steps: 23, reward: 1058.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 135.93
+----------------------------------------
+Episode: 18550, opp: random, total numsteps: 3438607, episode steps: 33, reward: 1050.72
+Episode: 18600, opp: random, total numsteps: 3446285, episode steps: 53, reward: -1125.14
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -18.43
+----------------------------------------
+Episode: 18650, opp: random, total numsteps: 3453016, episode steps: 250, reward: -502.59
+Episode: 18700, opp: random, total numsteps: 3461170, episode steps: 227, reward: -1604.59
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -627.04
+----------------------------------------
+Episode: 18750, opp: random, total numsteps: 3469289, episode steps: 40, reward: -1077.14
+Episode: 18800, opp: random, total numsteps: 3477856, episode steps: 58, reward: -1294.6
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -586.15
+----------------------------------------
+Episode: 18850, opp: random, total numsteps: 3485199, episode steps: 23, reward: 1057.08
+Episode: 18900, opp: random, total numsteps: 3494070, episode steps: 75, reward: -1243.36
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -226.5
+----------------------------------------
+Episode: 18950, opp: random, total numsteps: 3502710, episode steps: 48, reward: -1152.46
+Episode: 19000, opp: random, total numsteps: 3510662, episode steps: 24, reward: 1068.15
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -94.91
+----------------------------------------
+Episode: 19050, opp: random, total numsteps: 3518422, episode steps: 26, reward: 1040.97
+Episode: 19100, opp: random, total numsteps: 3525863, episode steps: 25, reward: 1044.58
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 70.09
+----------------------------------------
+Episode: 19150, opp: random, total numsteps: 3534571, episode steps: 23, reward: 1072.48
+Episode: 19200, opp: random, total numsteps: 3543547, episode steps: 114, reward: -1284.78
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -127.23
+----------------------------------------
+Episode: 19250, opp: random, total numsteps: 3552100, episode steps: 250, reward: -401.28
+Episode: 19300, opp: random, total numsteps: 3559840, episode steps: 183, reward: 705.69
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 126.22
+----------------------------------------
+Episode: 19350, opp: random, total numsteps: 3566769, episode steps: 26, reward: 1032.86
+Episode: 19400, opp: random, total numsteps: 3574178, episode steps: 25, reward: 1057.16
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -237.18
+----------------------------------------
+Episode: 19450, opp: random, total numsteps: 3581834, episode steps: 47, reward: -1079.68
+Episode: 19500, opp: random, total numsteps: 3588948, episode steps: 165, reward: 560.92
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 136.61
+----------------------------------------
+Episode: 19550, opp: random, total numsteps: 3596680, episode steps: 104, reward: -1420.7
+Episode: 19600, opp: random, total numsteps: 3605048, episode steps: 139, reward: -1532.69
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -115.3
+----------------------------------------
+Episode: 19650, opp: random, total numsteps: 3612964, episode steps: 65, reward: 879.7
+Episode: 19700, opp: random, total numsteps: 3620943, episode steps: 81, reward: 986.15
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 79.03
+----------------------------------------
+Episode: 19750, opp: random, total numsteps: 3628166, episode steps: 59, reward: -1139.97
+Episode: 19800, opp: random, total numsteps: 3636282, episode steps: 184, reward: 871.01
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -204.74
+----------------------------------------
+Episode: 19850, opp: random, total numsteps: 3644558, episode steps: 33, reward: 1046.58
+Episode: 19900, opp: random, total numsteps: 3652912, episode steps: 97, reward: -1338.76
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -162.39
+----------------------------------------
+Episode: 19950, opp: random, total numsteps: 3661005, episode steps: 250, reward: -127.14
+Episode: 20000, opp: random, total numsteps: 3668260, episode steps: 130, reward: 633.83
+Saving models to checkpoints/sac_checkpoint_hockey_vs_random_all_rew_ep_20000
+Saving buffer to checkpoints/sac_buffer_hockey_vs_random_all_rew_20000
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -308.35
+----------------------------------------
+Episode: 20050, opp: random, total numsteps: 3675994, episode steps: 221, reward: -1200.83
+Episode: 20100, opp: random, total numsteps: 3683624, episode steps: 44, reward: -1105.98
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -510.12
+----------------------------------------
+Episode: 20150, opp: random, total numsteps: 3691458, episode steps: 250, reward: -656.02
+Episode: 20200, opp: random, total numsteps: 3699833, episode steps: 88, reward: 926.07
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 51.68
+----------------------------------------
+Episode: 20250, opp: random, total numsteps: 3708474, episode steps: 29, reward: 1024.51
+Episode: 20300, opp: random, total numsteps: 3715473, episode steps: 92, reward: 697.72
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -18.16
+----------------------------------------
+Episode: 20350, opp: random, total numsteps: 3722859, episode steps: 141, reward: 1060.0
+Episode: 20400, opp: random, total numsteps: 3730263, episode steps: 27, reward: 1058.56
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -513.97
+----------------------------------------
+Episode: 20450, opp: random, total numsteps: 3737963, episode steps: 25, reward: 1070.96
+Episode: 20500, opp: random, total numsteps: 3745414, episode steps: 25, reward: 1066.97
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 488.04
+----------------------------------------
+Episode: 20550, opp: random, total numsteps: 3752729, episode steps: 46, reward: -1134.66
+Episode: 20600, opp: random, total numsteps: 3760550, episode steps: 49, reward: -1206.65
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 12.31
+----------------------------------------
+Episode: 20650, opp: random, total numsteps: 3767712, episode steps: 28, reward: 1049.1
+Episode: 20700, opp: random, total numsteps: 3775549, episode steps: 41, reward: -1082.05
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 290.94
+----------------------------------------
+Episode: 20750, opp: random, total numsteps: 3783491, episode steps: 128, reward: -1192.47
+Episode: 20800, opp: random, total numsteps: 3791450, episode steps: 64, reward: 888.33
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -181.91
+----------------------------------------
+Episode: 20850, opp: random, total numsteps: 3798705, episode steps: 24, reward: 1076.22
+Episode: 20900, opp: random, total numsteps: 3806204, episode steps: 42, reward: -1064.02
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -287.94
+----------------------------------------
+Episode: 20950, opp: random, total numsteps: 3813450, episode steps: 62, reward: -1330.97
+Episode: 21000, opp: random, total numsteps: 3821310, episode steps: 32, reward: 1026.91
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -285.83
+----------------------------------------
+Episode: 21050, opp: random, total numsteps: 3828841, episode steps: 23, reward: 1076.35
+Episode: 21100, opp: random, total numsteps: 3837425, episode steps: 178, reward: 349.57
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -546.81
+----------------------------------------
+Episode: 21150, opp: random, total numsteps: 3846112, episode steps: 250, reward: -651.71
+Episode: 21200, opp: random, total numsteps: 3853541, episode steps: 123, reward: 645.15
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -18.6
+----------------------------------------
+Episode: 21250, opp: random, total numsteps: 3861668, episode steps: 51, reward: -1203.09
+Episode: 21300, opp: random, total numsteps: 3869794, episode steps: 125, reward: 803.48
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 180.53
+----------------------------------------
+Episode: 21350, opp: random, total numsteps: 3876715, episode steps: 63, reward: -1336.8
+Episode: 21400, opp: random, total numsteps: 3884165, episode steps: 42, reward: -1125.45
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -617.55
+----------------------------------------
+Episode: 21450, opp: random, total numsteps: 3892359, episode steps: 63, reward: 924.85
+Episode: 21500, opp: random, total numsteps: 3899564, episode steps: 69, reward: 905.07
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 87.66
+----------------------------------------
+Episode: 21550, opp: random, total numsteps: 3907861, episode steps: 25, reward: 1063.65
+Episode: 21600, opp: random, total numsteps: 3915906, episode steps: 241, reward: -1740.3
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 142.99
+----------------------------------------
+Episode: 21650, opp: random, total numsteps: 3924056, episode steps: 64, reward: -1126.48
+Episode: 21700, opp: random, total numsteps: 3933065, episode steps: 116, reward: 683.04
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -509.87
+----------------------------------------
+Episode: 21750, opp: random, total numsteps: 3941153, episode steps: 55, reward: -1135.05
+Episode: 21800, opp: random, total numsteps: 3948603, episode steps: 85, reward: -1236.59
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -112.37
+----------------------------------------
+Episode: 21850, opp: random, total numsteps: 3955705, episode steps: 35, reward: 944.58
+Episode: 21900, opp: random, total numsteps: 3963465, episode steps: 250, reward: -382.14
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -532.95
+----------------------------------------
+Episode: 21950, opp: random, total numsteps: 3971727, episode steps: 92, reward: 1074.81
+Episode: 22000, opp: random, total numsteps: 3979575, episode steps: 128, reward: 731.42
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -629.2
+----------------------------------------
+Episode: 22050, opp: random, total numsteps: 3986981, episode steps: 40, reward: -1090.57
+Episode: 22100, opp: random, total numsteps: 3994484, episode steps: 44, reward: -1115.51
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -96.31
+----------------------------------------
+Episode: 22150, opp: random, total numsteps: 4001635, episode steps: 23, reward: 1057.96
+Episode: 22200, opp: random, total numsteps: 4008593, episode steps: 85, reward: 912.78
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -129.08
+----------------------------------------
+Episode: 22250, opp: random, total numsteps: 4016712, episode steps: 78, reward: 838.89
+Episode: 22300, opp: random, total numsteps: 4024584, episode steps: 90, reward: 777.79
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 411.03
+----------------------------------------
+Episode: 22350, opp: random, total numsteps: 4031641, episode steps: 121, reward: -1307.76
+Episode: 22400, opp: random, total numsteps: 4038624, episode steps: 231, reward: 913.95
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -148.42
+----------------------------------------
+Episode: 22450, opp: random, total numsteps: 4046310, episode steps: 60, reward: 1075.41
+Episode: 22500, opp: random, total numsteps: 4055028, episode steps: 80, reward: 939.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -296.68
+----------------------------------------
+Episode: 22550, opp: random, total numsteps: 4063472, episode steps: 250, reward: 50.75
+Episode: 22600, opp: random, total numsteps: 4071072, episode steps: 62, reward: 1087.61
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -135.1
+----------------------------------------
+Episode: 22650, opp: random, total numsteps: 4078937, episode steps: 171, reward: -1137.33
+Episode: 22700, opp: random, total numsteps: 4087876, episode steps: 45, reward: 1064.35
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -59.65
+----------------------------------------
+Episode: 22750, opp: random, total numsteps: 4095926, episode steps: 221, reward: -1384.55
+Episode: 22800, opp: random, total numsteps: 4103511, episode steps: 55, reward: -1090.65
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 363.03
+----------------------------------------
+Episode: 22850, opp: random, total numsteps: 4111341, episode steps: 125, reward: -1070.56
+Episode: 22900, opp: random, total numsteps: 4119157, episode steps: 152, reward: 700.33
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -272.34
+----------------------------------------
+Episode: 22950, opp: random, total numsteps: 4127114, episode steps: 124, reward: -1506.77
+Episode: 23000, opp: random, total numsteps: 4134664, episode steps: 68, reward: -1063.5
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -386.32
+----------------------------------------
+Episode: 23050, opp: random, total numsteps: 4142732, episode steps: 127, reward: 1024.23
+Episode: 23100, opp: random, total numsteps: 4149785, episode steps: 62, reward: -1262.32
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -156.99
+----------------------------------------
+Episode: 23150, opp: random, total numsteps: 4157287, episode steps: 63, reward: 815.82
+Episode: 23200, opp: random, total numsteps: 4165275, episode steps: 77, reward: 860.67
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 305.43
+----------------------------------------
+Episode: 23250, opp: random, total numsteps: 4172367, episode steps: 250, reward: 38.48
+Episode: 23300, opp: random, total numsteps: 4180635, episode steps: 57, reward: -1279.24
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -200.82
+----------------------------------------
+Episode: 23350, opp: random, total numsteps: 4187975, episode steps: 27, reward: 1004.49
+Episode: 23400, opp: random, total numsteps: 4195507, episode steps: 52, reward: -1175.92
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -220.9
+----------------------------------------
+Episode: 23450, opp: random, total numsteps: 4203375, episode steps: 120, reward: 983.57
+Episode: 23500, opp: random, total numsteps: 4212037, episode steps: 250, reward: -818.46
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 40.26
+----------------------------------------
+Episode: 23550, opp: random, total numsteps: 4219213, episode steps: 120, reward: 502.69
+Episode: 23600, opp: random, total numsteps: 4226980, episode steps: 250, reward: -816.91
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -429.99
+----------------------------------------
+Episode: 23650, opp: random, total numsteps: 4234704, episode steps: 118, reward: 796.69
+Episode: 23700, opp: random, total numsteps: 4242955, episode steps: 65, reward: 821.15
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 73.29
+----------------------------------------
+Episode: 23750, opp: random, total numsteps: 4250560, episode steps: 241, reward: -1552.92
+Episode: 23800, opp: random, total numsteps: 4257838, episode steps: 184, reward: -1090.1
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -114.78
+----------------------------------------
+Episode: 23850, opp: random, total numsteps: 4266099, episode steps: 58, reward: -1294.59
+Episode: 23900, opp: random, total numsteps: 4273673, episode steps: 100, reward: -1371.85
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -79.01
+----------------------------------------
+Episode: 23950, opp: random, total numsteps: 4281519, episode steps: 250, reward: 19.12
+Episode: 24000, opp: random, total numsteps: 4288857, episode steps: 184, reward: 573.97
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -98.06
+----------------------------------------
+Episode: 24050, opp: random, total numsteps: 4296509, episode steps: 25, reward: 1046.18
+Episode: 24100, opp: random, total numsteps: 4303608, episode steps: 26, reward: 1049.11
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 35.31
+----------------------------------------
+Episode: 24150, opp: random, total numsteps: 4310879, episode steps: 53, reward: 1155.13
+Episode: 24200, opp: random, total numsteps: 4318789, episode steps: 26, reward: 1014.83
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 363.28
+----------------------------------------
+Episode: 24250, opp: random, total numsteps: 4326111, episode steps: 43, reward: 1074.47
+Episode: 24300, opp: random, total numsteps: 4333787, episode steps: 24, reward: 1067.5
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 368.3
+----------------------------------------
+Episode: 24350, opp: random, total numsteps: 4342270, episode steps: 78, reward: 866.89
+Episode: 24400, opp: random, total numsteps: 4350127, episode steps: 250, reward: -36.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -376.2
+----------------------------------------
+Episode: 24450, opp: random, total numsteps: 4358009, episode steps: 250, reward: -438.78
+Episode: 24500, opp: random, total numsteps: 4365855, episode steps: 173, reward: -1379.05
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 30.98
+----------------------------------------
+Episode: 24550, opp: random, total numsteps: 4373445, episode steps: 35, reward: 961.54
+Episode: 24600, opp: random, total numsteps: 4381083, episode steps: 25, reward: 1065.98
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -78.53
+----------------------------------------
+Episode: 24650, opp: random, total numsteps: 4389455, episode steps: 52, reward: 1134.36
+Episode: 24700, opp: random, total numsteps: 4397253, episode steps: 212, reward: -1283.31
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 211.43
+----------------------------------------
+Episode: 24750, opp: random, total numsteps: 4404294, episode steps: 25, reward: 1049.44
+Episode: 24800, opp: random, total numsteps: 4410643, episode steps: 53, reward: 1150.24
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 355.0
+----------------------------------------
+Episode: 24850, opp: random, total numsteps: 4418316, episode steps: 97, reward: 881.14
+Episode: 24900, opp: random, total numsteps: 4425372, episode steps: 57, reward: -1172.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -323.47
+----------------------------------------
+Episode: 24950, opp: random, total numsteps: 4432706, episode steps: 25, reward: 1020.9
+Episode: 25000, opp: random, total numsteps: 4439202, episode steps: 25, reward: 1060.27
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -323.82
+----------------------------------------
+Episode: 25050, opp: random, total numsteps: 4447142, episode steps: 24, reward: 1076.44
+Episode: 25100, opp: random, total numsteps: 4455064, episode steps: 26, reward: 1026.31
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 165.63
+----------------------------------------
+Episode: 25150, opp: random, total numsteps: 4462608, episode steps: 82, reward: -1064.58
+Episode: 25200, opp: random, total numsteps: 4469140, episode steps: 250, reward: -389.27
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -272.75
+----------------------------------------
+Episode: 25250, opp: random, total numsteps: 4476304, episode steps: 65, reward: 1006.43
+Episode: 25300, opp: random, total numsteps: 4483595, episode steps: 250, reward: 20.67
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -233.9
+----------------------------------------
+Episode: 25350, opp: random, total numsteps: 4490435, episode steps: 64, reward: 920.8
+Episode: 25400, opp: random, total numsteps: 4497377, episode steps: 250, reward: -427.36
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -118.08
+----------------------------------------
+Episode: 25450, opp: random, total numsteps: 4504953, episode steps: 24, reward: 1039.0
+Episode: 25500, opp: random, total numsteps: 4512098, episode steps: 23, reward: 1057.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 367.18
+----------------------------------------
+Episode: 25550, opp: random, total numsteps: 4520009, episode steps: 69, reward: 833.13
+Episode: 25600, opp: random, total numsteps: 4527402, episode steps: 87, reward: -1075.24
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -69.29
+----------------------------------------
+Episode: 25650, opp: random, total numsteps: 4534571, episode steps: 26, reward: 1069.64
+Episode: 25700, opp: random, total numsteps: 4542128, episode steps: 61, reward: 1054.09
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -665.21
+----------------------------------------
+Episode: 25750, opp: random, total numsteps: 4549287, episode steps: 30, reward: 1025.95
+Episode: 25800, opp: random, total numsteps: 4557318, episode steps: 55, reward: 1113.59
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 117.98
+----------------------------------------
+Episode: 25850, opp: random, total numsteps: 4565557, episode steps: 117, reward: -929.1
+Episode: 25900, opp: random, total numsteps: 4573427, episode steps: 237, reward: 965.52
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 41.19
+----------------------------------------
+Episode: 25950, opp: random, total numsteps: 4580851, episode steps: 31, reward: 1024.46
+Episode: 26000, opp: random, total numsteps: 4587741, episode steps: 43, reward: -1116.67
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 14.34
+----------------------------------------
+Episode: 26050, opp: random, total numsteps: 4595079, episode steps: 97, reward: 826.89
+Episode: 26100, opp: random, total numsteps: 4602638, episode steps: 30, reward: 1047.92
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 53.47
+----------------------------------------
+Episode: 26150, opp: random, total numsteps: 4611115, episode steps: 80, reward: 891.16
+Episode: 26200, opp: random, total numsteps: 4619035, episode steps: 25, reward: 1070.5
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 168.16
+----------------------------------------
+Episode: 26250, opp: random, total numsteps: 4626630, episode steps: 57, reward: 946.06
+Episode: 26300, opp: random, total numsteps: 4634152, episode steps: 50, reward: -1154.83
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 135.65
+----------------------------------------
+Episode: 26350, opp: random, total numsteps: 4642261, episode steps: 250, reward: -111.35
+Episode: 26400, opp: random, total numsteps: 4650422, episode steps: 23, reward: 1028.19
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -329.07
+----------------------------------------
+Episode: 26450, opp: random, total numsteps: 4657282, episode steps: 65, reward: 933.67
+Episode: 26500, opp: random, total numsteps: 4664415, episode steps: 136, reward: -1411.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 221.6
+----------------------------------------
+Episode: 26550, opp: random, total numsteps: 4671968, episode steps: 25, reward: 1035.48
+Episode: 26600, opp: random, total numsteps: 4679617, episode steps: 64, reward: 887.34
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -239.35
+----------------------------------------
+Episode: 26650, opp: random, total numsteps: 4686694, episode steps: 24, reward: 1071.63
+Episode: 26700, opp: random, total numsteps: 4693495, episode steps: 119, reward: -1367.57
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -85.78
+----------------------------------------
+Episode: 26750, opp: random, total numsteps: 4700766, episode steps: 58, reward: -1147.49
+Episode: 26800, opp: random, total numsteps: 4707489, episode steps: 26, reward: 1029.06
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -61.92
+----------------------------------------
+Episode: 26850, opp: random, total numsteps: 4714197, episode steps: 54, reward: -1161.21
+Episode: 26900, opp: random, total numsteps: 4721422, episode steps: 250, reward: -129.6
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 122.6
+----------------------------------------
+Episode: 26950, opp: random, total numsteps: 4728923, episode steps: 24, reward: 1040.93
+Episode: 27000, opp: random, total numsteps: 4735597, episode steps: 115, reward: -1356.82
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -315.74
+----------------------------------------
+Episode: 27050, opp: random, total numsteps: 4743629, episode steps: 83, reward: 912.97
+Episode: 27100, opp: random, total numsteps: 4750988, episode steps: 55, reward: -1252.59
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 119.82
+----------------------------------------
+Episode: 27150, opp: random, total numsteps: 4758830, episode steps: 90, reward: 875.02
+Episode: 27200, opp: random, total numsteps: 4765459, episode steps: 25, reward: 1057.14
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -92.98
+----------------------------------------
+Episode: 27250, opp: random, total numsteps: 4772275, episode steps: 23, reward: 1050.35
+Episode: 27300, opp: random, total numsteps: 4779486, episode steps: 247, reward: 439.78
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 322.09
+----------------------------------------
+Episode: 27350, opp: random, total numsteps: 4785175, episode steps: 92, reward: 1119.18
+Episode: 27400, opp: random, total numsteps: 4791914, episode steps: 23, reward: 1060.62
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 41.5
+----------------------------------------
+Episode: 27450, opp: random, total numsteps: 4799085, episode steps: 246, reward: 1365.96
+Episode: 27500, opp: random, total numsteps: 4806643, episode steps: 24, reward: 1062.08
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -264.85
+----------------------------------------
+Episode: 27550, opp: random, total numsteps: 4813696, episode steps: 90, reward: 907.03
+Episode: 27600, opp: random, total numsteps: 4821518, episode steps: 116, reward: -1212.37
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 186.42
+----------------------------------------
+Episode: 27650, opp: random, total numsteps: 4829200, episode steps: 139, reward: 1004.37
+Episode: 27700, opp: random, total numsteps: 4836972, episode steps: 26, reward: 1057.42
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -333.56
+----------------------------------------
+Episode: 27750, opp: random, total numsteps: 4843697, episode steps: 35, reward: 1025.84
+Episode: 27800, opp: random, total numsteps: 4851374, episode steps: 85, reward: 852.39
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 379.88
+----------------------------------------
+Episode: 27850, opp: random, total numsteps: 4859540, episode steps: 79, reward: 920.17
+Episode: 27900, opp: random, total numsteps: 4866132, episode steps: 218, reward: -1637.66
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -144.46
+----------------------------------------
+Episode: 27950, opp: random, total numsteps: 4873218, episode steps: 250, reward: 188.75
+Episode: 28000, opp: random, total numsteps: 4881067, episode steps: 135, reward: -1462.23
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 26.73
+----------------------------------------
+Episode: 28050, opp: random, total numsteps: 4888858, episode steps: 96, reward: 926.23
+Episode: 28100, opp: random, total numsteps: 4896081, episode steps: 24, reward: 1054.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 211.92
+----------------------------------------
+Episode: 28150, opp: random, total numsteps: 4903468, episode steps: 57, reward: -1228.04
+Episode: 28200, opp: random, total numsteps: 4911166, episode steps: 26, reward: 1057.67
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 413.43
+----------------------------------------
+Episode: 28250, opp: random, total numsteps: 4917833, episode steps: 47, reward: -1165.48
+Episode: 28300, opp: random, total numsteps: 4926131, episode steps: 91, reward: -1219.37
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -235.85
+----------------------------------------
+Episode: 28350, opp: random, total numsteps: 4933177, episode steps: 212, reward: -1504.13
+Episode: 28400, opp: random, total numsteps: 4940020, episode steps: 170, reward: -1506.94
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 19.44
+----------------------------------------
+Episode: 28450, opp: random, total numsteps: 4946249, episode steps: 44, reward: -1138.21
+Episode: 28500, opp: random, total numsteps: 4954382, episode steps: 146, reward: 732.95
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 73.71
+----------------------------------------
+Episode: 28550, opp: random, total numsteps: 4960906, episode steps: 92, reward: 1131.36
+Episode: 28600, opp: random, total numsteps: 4968118, episode steps: 27, reward: 1041.41
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 194.23
+----------------------------------------
+Episode: 28650, opp: random, total numsteps: 4976765, episode steps: 200, reward: 822.51
+Episode: 28700, opp: random, total numsteps: 4985090, episode steps: 171, reward: 659.02
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 250.68
+----------------------------------------
+Episode: 28750, opp: random, total numsteps: 4992735, episode steps: 80, reward: -1082.39
+Episode: 28800, opp: random, total numsteps: 5000309, episode steps: 24, reward: 1026.18
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -208.42
+----------------------------------------
+Episode: 28850, opp: random, total numsteps: 5008174, episode steps: 159, reward: 739.67
+Episode: 28900, opp: random, total numsteps: 5015823, episode steps: 195, reward: 588.31
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 175.08
+----------------------------------------
+Episode: 28950, opp: random, total numsteps: 5023025, episode steps: 237, reward: 395.98
+Episode: 29000, opp: random, total numsteps: 5030083, episode steps: 73, reward: -1262.2
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -387.69
+----------------------------------------
+Episode: 29050, opp: random, total numsteps: 5037410, episode steps: 42, reward: -1173.51
+Episode: 29100, opp: random, total numsteps: 5045003, episode steps: 189, reward: -1577.22
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 466.54
+----------------------------------------
+Episode: 29150, opp: random, total numsteps: 5051797, episode steps: 62, reward: -995.56
+Episode: 29200, opp: random, total numsteps: 5059168, episode steps: 126, reward: -1355.61
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 633.43
+----------------------------------------
+Episode: 29250, opp: random, total numsteps: 5066509, episode steps: 23, reward: 1057.06
+Episode: 29300, opp: random, total numsteps: 5073261, episode steps: 24, reward: 1051.76
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -191.13
+----------------------------------------
+Episode: 29350, opp: random, total numsteps: 5080506, episode steps: 24, reward: 1064.53
+Episode: 29400, opp: random, total numsteps: 5086905, episode steps: 115, reward: 847.38
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -396.98
+----------------------------------------
+Episode: 29450, opp: random, total numsteps: 5094630, episode steps: 250, reward: -242.26
+Episode: 29500, opp: random, total numsteps: 5101501, episode steps: 79, reward: 1117.42
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 75.9
+----------------------------------------
+Episode: 29550, opp: random, total numsteps: 5108816, episode steps: 26, reward: 1065.19
+Episode: 29600, opp: random, total numsteps: 5115739, episode steps: 250, reward: -11.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 237.91
+----------------------------------------
+Episode: 29650, opp: random, total numsteps: 5123519, episode steps: 60, reward: -1271.91
+Episode: 29700, opp: random, total numsteps: 5131101, episode steps: 97, reward: -973.62
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 175.89
+----------------------------------------
+Episode: 29750, opp: random, total numsteps: 5138920, episode steps: 86, reward: -1070.24
+Episode: 29800, opp: random, total numsteps: 5146414, episode steps: 25, reward: 1028.15
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -164.9
+----------------------------------------
+Episode: 29850, opp: random, total numsteps: 5153855, episode steps: 67, reward: -1220.72
+Episode: 29900, opp: random, total numsteps: 5161916, episode steps: 121, reward: -1318.67
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -65.09
+----------------------------------------
+Episode: 29950, opp: random, total numsteps: 5170254, episode steps: 208, reward: 1111.08
+Episode: 30000, opp: random, total numsteps: 5177755, episode steps: 73, reward: -1227.01
+Saving models to checkpoints/sac_checkpoint_hockey_vs_random_all_rew_ep_30000
+Saving buffer to checkpoints/sac_buffer_hockey_vs_random_all_rew_30000
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 42.48
+----------------------------------------
+Episode: 30050, opp: random, total numsteps: 5185509, episode steps: 24, reward: 1058.9
+Episode: 30100, opp: random, total numsteps: 5193224, episode steps: 250, reward: 73.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 72.59
+----------------------------------------
+Episode: 30150, opp: random, total numsteps: 5200937, episode steps: 24, reward: 1040.37
+Episode: 30200, opp: random, total numsteps: 5208486, episode steps: 51, reward: -1175.71
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -58.43
+----------------------------------------
+Episode: 30250, opp: random, total numsteps: 5215944, episode steps: 116, reward: 1146.04
+Episode: 30300, opp: random, total numsteps: 5224170, episode steps: 133, reward: 1407.45
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -622.31
+----------------------------------------
+Episode: 30350, opp: random, total numsteps: 5231844, episode steps: 210, reward: 1164.93
+Episode: 30400, opp: random, total numsteps: 5239754, episode steps: 23, reward: 1053.01
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -116.84
+----------------------------------------
+Episode: 30450, opp: random, total numsteps: 5246855, episode steps: 51, reward: 1108.07
+Episode: 30500, opp: random, total numsteps: 5254190, episode steps: 130, reward: 1102.71
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -241.72
+----------------------------------------
+Episode: 30550, opp: random, total numsteps: 5261485, episode steps: 170, reward: -1405.67
+Episode: 30600, opp: random, total numsteps: 5268616, episode steps: 250, reward: -167.21
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -147.13
+----------------------------------------
+Episode: 30650, opp: random, total numsteps: 5275790, episode steps: 51, reward: 1076.51
+Episode: 30700, opp: random, total numsteps: 5283000, episode steps: 130, reward: -1465.01
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 58.28
+----------------------------------------
+Episode: 30750, opp: random, total numsteps: 5290548, episode steps: 250, reward: -336.65
+Episode: 30800, opp: random, total numsteps: 5297518, episode steps: 250, reward: 69.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 363.8
+----------------------------------------
+Episode: 30850, opp: random, total numsteps: 5304505, episode steps: 45, reward: -1146.57
+Episode: 30900, opp: random, total numsteps: 5312398, episode steps: 143, reward: 884.75
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -397.82
+----------------------------------------
+Episode: 30950, opp: random, total numsteps: 5320166, episode steps: 51, reward: 1136.83
+Episode: 31000, opp: random, total numsteps: 5326785, episode steps: 67, reward: 1164.64
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 535.56
+----------------------------------------
+Episode: 31050, opp: random, total numsteps: 5334435, episode steps: 82, reward: 927.82
+Episode: 31100, opp: random, total numsteps: 5342372, episode steps: 64, reward: 1145.19
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -203.87
+----------------------------------------
+Episode: 31150, opp: random, total numsteps: 5349806, episode steps: 24, reward: 1054.1
+Episode: 31200, opp: random, total numsteps: 5357475, episode steps: 70, reward: 883.32
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 323.27
+----------------------------------------
+Episode: 31250, opp: random, total numsteps: 5365069, episode steps: 99, reward: -1414.55
+Episode: 31300, opp: random, total numsteps: 5372118, episode steps: 55, reward: -1192.93
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 696.39
+----------------------------------------
+Episode: 31350, opp: random, total numsteps: 5379962, episode steps: 37, reward: -1073.15
+Episode: 31400, opp: random, total numsteps: 5388146, episode steps: 25, reward: 1047.34
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 419.39
+----------------------------------------
+Episode: 31450, opp: random, total numsteps: 5395855, episode steps: 23, reward: 1071.41
+Episode: 31500, opp: random, total numsteps: 5403537, episode steps: 124, reward: -1502.45
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 245.28
+----------------------------------------
+Episode: 31550, opp: random, total numsteps: 5411027, episode steps: 237, reward: 715.6
+Episode: 31600, opp: random, total numsteps: 5418343, episode steps: 111, reward: 840.21
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -410.26
+----------------------------------------
+Episode: 31650, opp: random, total numsteps: 5425045, episode steps: 26, reward: 1060.1
+Episode: 31700, opp: random, total numsteps: 5432543, episode steps: 24, reward: 1035.39
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -5.21
+----------------------------------------
+Episode: 31750, opp: random, total numsteps: 5439888, episode steps: 71, reward: 849.39
+Episode: 31800, opp: random, total numsteps: 5447767, episode steps: 25, reward: 1058.59
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -18.37
+----------------------------------------
+Episode: 31850, opp: random, total numsteps: 5455271, episode steps: 24, reward: 1064.71
+Episode: 31900, opp: random, total numsteps: 5462776, episode steps: 70, reward: 842.55
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 96.93
+----------------------------------------
+Episode: 31950, opp: random, total numsteps: 5469836, episode steps: 62, reward: -1021.87
+Episode: 32000, opp: random, total numsteps: 5477778, episode steps: 24, reward: 1043.7
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 393.83
+----------------------------------------
+Episode: 32050, opp: random, total numsteps: 5485229, episode steps: 24, reward: 1043.86
+Episode: 32100, opp: random, total numsteps: 5492442, episode steps: 25, reward: 1021.57
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -276.25
+----------------------------------------
+Episode: 32150, opp: random, total numsteps: 5499324, episode steps: 241, reward: 670.82
+Episode: 32200, opp: random, total numsteps: 5506687, episode steps: 42, reward: -1181.44
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 492.78
+----------------------------------------
+Episode: 32250, opp: random, total numsteps: 5513724, episode steps: 23, reward: 1058.82
+Episode: 32300, opp: random, total numsteps: 5521052, episode steps: 160, reward: -1438.32
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 625.09
+----------------------------------------
+Episode: 32350, opp: random, total numsteps: 5528465, episode steps: 250, reward: -616.59
+Episode: 32400, opp: random, total numsteps: 5535312, episode steps: 59, reward: -1293.36
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 74.16
+----------------------------------------
+Episode: 32450, opp: random, total numsteps: 5542534, episode steps: 23, reward: 1062.84
+Episode: 32500, opp: random, total numsteps: 5549624, episode steps: 25, reward: 1061.99
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -715.46
+----------------------------------------
+Episode: 32550, opp: random, total numsteps: 5556700, episode steps: 43, reward: -1107.23
+Episode: 32600, opp: random, total numsteps: 5564802, episode steps: 23, reward: 1047.32
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 467.19
+----------------------------------------
+Episode: 32650, opp: random, total numsteps: 5571615, episode steps: 70, reward: -966.73
+Episode: 32700, opp: random, total numsteps: 5579781, episode steps: 58, reward: -1196.06
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -110.98
+----------------------------------------
+Episode: 32750, opp: random, total numsteps: 5587052, episode steps: 130, reward: -1183.49
+Episode: 32800, opp: random, total numsteps: 5594102, episode steps: 250, reward: -865.13
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -185.99
+----------------------------------------
+Episode: 32850, opp: random, total numsteps: 5601798, episode steps: 250, reward: -256.38
+Episode: 32900, opp: random, total numsteps: 5609006, episode steps: 24, reward: 1060.49
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -195.87
+----------------------------------------
+Episode: 32950, opp: random, total numsteps: 5616262, episode steps: 27, reward: 1035.54
+Episode: 33000, opp: random, total numsteps: 5623870, episode steps: 43, reward: -1110.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -428.58
+----------------------------------------
+Episode: 33050, opp: random, total numsteps: 5631429, episode steps: 196, reward: 669.6
+Episode: 33100, opp: random, total numsteps: 5638423, episode steps: 250, reward: -475.83
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -32.81
+----------------------------------------
+Episode: 33150, opp: random, total numsteps: 5645770, episode steps: 73, reward: 822.15
+Episode: 33200, opp: random, total numsteps: 5653465, episode steps: 134, reward: 925.24
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -186.1
+----------------------------------------
+Episode: 33250, opp: random, total numsteps: 5661596, episode steps: 54, reward: 1124.46
+Episode: 33300, opp: random, total numsteps: 5668847, episode steps: 50, reward: -1042.45
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -81.09
+----------------------------------------
+Episode: 33350, opp: random, total numsteps: 5676896, episode steps: 94, reward: 1007.94
+Episode: 33400, opp: random, total numsteps: 5684375, episode steps: 43, reward: -1212.72
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 186.16
+----------------------------------------
+Episode: 33450, opp: random, total numsteps: 5691020, episode steps: 56, reward: -1272.81
+Episode: 33500, opp: random, total numsteps: 5697725, episode steps: 62, reward: -1265.14
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -185.02
+----------------------------------------
+Episode: 33550, opp: random, total numsteps: 5705837, episode steps: 49, reward: 1077.73
+Episode: 33600, opp: random, total numsteps: 5713158, episode steps: 58, reward: -1233.38
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 195.91
+----------------------------------------
+Episode: 33650, opp: random, total numsteps: 5719718, episode steps: 26, reward: 1066.79
+Episode: 33700, opp: random, total numsteps: 5726243, episode steps: 28, reward: 1035.66
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 222.8
+----------------------------------------
+Episode: 33750, opp: random, total numsteps: 5733481, episode steps: 250, reward: -1326.36
+Episode: 33800, opp: random, total numsteps: 5741814, episode steps: 45, reward: 1153.17
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -196.74
+----------------------------------------
+Episode: 33850, opp: random, total numsteps: 5750510, episode steps: 80, reward: -1105.09
+Episode: 33900, opp: random, total numsteps: 5756765, episode steps: 29, reward: 1061.75
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -23.82
+----------------------------------------
+Episode: 33950, opp: random, total numsteps: 5764571, episode steps: 94, reward: 1042.07
+Episode: 34000, opp: random, total numsteps: 5771803, episode steps: 155, reward: 664.88
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 66.7
+----------------------------------------
+Episode: 34050, opp: random, total numsteps: 5780026, episode steps: 58, reward: -1261.99
+Episode: 34100, opp: random, total numsteps: 5786926, episode steps: 48, reward: -1204.03
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -165.66
+----------------------------------------
+Episode: 34150, opp: random, total numsteps: 5794041, episode steps: 24, reward: 1063.81
+Episode: 34200, opp: random, total numsteps: 5801038, episode steps: 26, reward: 1053.96
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -32.11
+----------------------------------------
+Episode: 34250, opp: random, total numsteps: 5808436, episode steps: 55, reward: -1028.75
+Episode: 34300, opp: random, total numsteps: 5816153, episode steps: 62, reward: -1274.65
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 128.99
+----------------------------------------
+Episode: 34350, opp: random, total numsteps: 5823240, episode steps: 88, reward: 1289.78
+Episode: 34400, opp: random, total numsteps: 5831170, episode steps: 24, reward: 1055.52
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 605.0
+----------------------------------------
+Episode: 34450, opp: random, total numsteps: 5838575, episode steps: 63, reward: -1226.54
+Episode: 34500, opp: random, total numsteps: 5845676, episode steps: 22, reward: 1060.65
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -238.55
+----------------------------------------
+Episode: 34550, opp: random, total numsteps: 5853645, episode steps: 23, reward: 1057.35
+Episode: 34600, opp: random, total numsteps: 5861325, episode steps: 244, reward: 895.07
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 169.33
+----------------------------------------
+Episode: 34650, opp: random, total numsteps: 5868792, episode steps: 41, reward: 1035.04
+Episode: 34700, opp: random, total numsteps: 5875796, episode steps: 250, reward: 402.79
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -388.03
+----------------------------------------
+Episode: 34750, opp: random, total numsteps: 5883320, episode steps: 24, reward: 1070.06
+Episode: 34800, opp: random, total numsteps: 5890908, episode steps: 116, reward: -1414.85
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 204.66
+----------------------------------------
+Episode: 34850, opp: random, total numsteps: 5897706, episode steps: 40, reward: -1112.06
+Episode: 34900, opp: random, total numsteps: 5904033, episode steps: 24, reward: 1071.17
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -650.62
+----------------------------------------
+Episode: 34950, opp: random, total numsteps: 5912013, episode steps: 32, reward: 1030.81
+Episode: 35000, opp: random, total numsteps: 5919918, episode steps: 116, reward: -1374.85
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 355.66
+----------------------------------------
+Episode: 35050, opp: random, total numsteps: 5927271, episode steps: 164, reward: 953.79
+Episode: 35100, opp: random, total numsteps: 5934536, episode steps: 24, reward: 1028.23
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -814.56
+----------------------------------------
+Episode: 35150, opp: random, total numsteps: 5941547, episode steps: 25, reward: 1065.03
+Episode: 35200, opp: random, total numsteps: 5948856, episode steps: 26, reward: 1056.48
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -143.33
+----------------------------------------
+Episode: 35250, opp: random, total numsteps: 5955991, episode steps: 50, reward: -1167.52
+Episode: 35300, opp: random, total numsteps: 5963284, episode steps: 74, reward: 886.73
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -33.78
+----------------------------------------
+Episode: 35350, opp: random, total numsteps: 5970074, episode steps: 172, reward: 864.54
+Episode: 35400, opp: random, total numsteps: 5977540, episode steps: 229, reward: 650.26
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -322.03
+----------------------------------------
+Episode: 35450, opp: random, total numsteps: 5984994, episode steps: 250, reward: -33.58
+Episode: 35500, opp: random, total numsteps: 5992500, episode steps: 250, reward: -169.61
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -51.2
+----------------------------------------
+Episode: 35550, opp: random, total numsteps: 6000013, episode steps: 58, reward: -1289.3
+Episode: 35600, opp: random, total numsteps: 6007422, episode steps: 23, reward: 1051.82
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -300.87
+----------------------------------------
+Episode: 35650, opp: random, total numsteps: 6015000, episode steps: 23, reward: 1076.02
+Episode: 35700, opp: random, total numsteps: 6022161, episode steps: 28, reward: 1019.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -349.64
+----------------------------------------
+Episode: 35750, opp: random, total numsteps: 6029578, episode steps: 51, reward: -1217.03
+Episode: 35800, opp: random, total numsteps: 6036984, episode steps: 25, reward: 1030.86
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -32.55
+----------------------------------------
+Episode: 35850, opp: random, total numsteps: 6043266, episode steps: 250, reward: -492.38
+Episode: 35900, opp: random, total numsteps: 6050807, episode steps: 86, reward: 895.71
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 523.24
+----------------------------------------
+Episode: 35950, opp: random, total numsteps: 6058543, episode steps: 25, reward: 1044.8
+Episode: 36000, opp: random, total numsteps: 6065700, episode steps: 157, reward: 1042.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 434.28
+----------------------------------------
+Episode: 36050, opp: random, total numsteps: 6072504, episode steps: 91, reward: -1082.28
+Episode: 36100, opp: random, total numsteps: 6079366, episode steps: 84, reward: -1307.87
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -33.21
+----------------------------------------
+Episode: 36150, opp: random, total numsteps: 6086861, episode steps: 25, reward: 1021.19
+Episode: 36200, opp: random, total numsteps: 6093454, episode steps: 25, reward: 1025.83
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -38.38
+----------------------------------------
+Episode: 36250, opp: random, total numsteps: 6100719, episode steps: 250, reward: 89.12
+Episode: 36300, opp: random, total numsteps: 6107941, episode steps: 62, reward: -1213.76
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 195.75
+----------------------------------------
+Episode: 36350, opp: random, total numsteps: 6114701, episode steps: 26, reward: 1060.07
+Episode: 36400, opp: random, total numsteps: 6121850, episode steps: 100, reward: 926.26
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 25.09
+----------------------------------------
+Episode: 36450, opp: random, total numsteps: 6128872, episode steps: 136, reward: 1082.19
+Episode: 36500, opp: random, total numsteps: 6136238, episode steps: 100, reward: 822.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 181.95
+----------------------------------------
+Episode: 36550, opp: random, total numsteps: 6143369, episode steps: 83, reward: 834.68
+Episode: 36600, opp: random, total numsteps: 6150923, episode steps: 180, reward: 1138.2
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -41.12
+----------------------------------------
+Episode: 36650, opp: random, total numsteps: 6158942, episode steps: 23, reward: 1070.39
+Episode: 36700, opp: random, total numsteps: 6166209, episode steps: 52, reward: 1132.18
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 257.38
+----------------------------------------
+Episode: 36750, opp: random, total numsteps: 6173697, episode steps: 25, reward: 1021.45
+Episode: 36800, opp: random, total numsteps: 6181145, episode steps: 60, reward: -1283.07
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -80.87
+----------------------------------------
+Episode: 36850, opp: random, total numsteps: 6188737, episode steps: 112, reward: 891.12
+Episode: 36900, opp: random, total numsteps: 6196683, episode steps: 196, reward: 528.35
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 134.44
+----------------------------------------
+Episode: 36950, opp: random, total numsteps: 6203072, episode steps: 26, reward: 1055.09
+Episode: 37000, opp: random, total numsteps: 6210960, episode steps: 250, reward: -415.75
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 287.16
+----------------------------------------
+Episode: 37050, opp: random, total numsteps: 6218313, episode steps: 30, reward: 1007.82
+Episode: 37100, opp: random, total numsteps: 6226331, episode steps: 23, reward: 1063.47
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 57.65
+----------------------------------------
+Episode: 37150, opp: random, total numsteps: 6233534, episode steps: 57, reward: -1224.76
+Episode: 37200, opp: random, total numsteps: 6241243, episode steps: 71, reward: 887.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 707.17
+----------------------------------------
+Episode: 37250, opp: random, total numsteps: 6248241, episode steps: 83, reward: -1216.05
+Episode: 37300, opp: random, total numsteps: 6255668, episode steps: 126, reward: -1340.54
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 9.62
+----------------------------------------
+Episode: 37350, opp: random, total numsteps: 6262573, episode steps: 26, reward: 1056.18
+Episode: 37400, opp: random, total numsteps: 6268937, episode steps: 90, reward: 1210.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -350.46
+----------------------------------------
+Episode: 37450, opp: random, total numsteps: 6276295, episode steps: 24, reward: 1057.73
+Episode: 37500, opp: random, total numsteps: 6283220, episode steps: 24, reward: 1064.93
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -308.42
+----------------------------------------
+Episode: 37550, opp: random, total numsteps: 6290365, episode steps: 152, reward: 727.82
+Episode: 37600, opp: random, total numsteps: 6298361, episode steps: 24, reward: 1035.56
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 83.82
+----------------------------------------
+Episode: 37650, opp: random, total numsteps: 6305712, episode steps: 28, reward: 1069.32
+Episode: 37700, opp: random, total numsteps: 6313494, episode steps: 250, reward: -190.34
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 253.17
+----------------------------------------
+Episode: 37750, opp: random, total numsteps: 6321061, episode steps: 32, reward: 1028.14
+Episode: 37800, opp: random, total numsteps: 6327509, episode steps: 27, reward: 1041.4
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -448.32
+----------------------------------------
+Episode: 37850, opp: random, total numsteps: 6335131, episode steps: 80, reward: -1298.43
+Episode: 37900, opp: random, total numsteps: 6342191, episode steps: 250, reward: -427.45
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -183.06
+----------------------------------------
+Episode: 37950, opp: random, total numsteps: 6348995, episode steps: 71, reward: 822.76
+Episode: 38000, opp: random, total numsteps: 6356739, episode steps: 65, reward: -1275.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 141.73
+----------------------------------------
+Episode: 38050, opp: random, total numsteps: 6363739, episode steps: 250, reward: 161.18
+Episode: 38100, opp: random, total numsteps: 6370712, episode steps: 24, reward: 1032.11
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 196.05
+----------------------------------------
+Episode: 38150, opp: random, total numsteps: 6377588, episode steps: 94, reward: 806.93
+Episode: 38200, opp: random, total numsteps: 6385289, episode steps: 160, reward: 992.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 195.56
+----------------------------------------
+Episode: 38250, opp: random, total numsteps: 6392753, episode steps: 51, reward: -1222.88
+Episode: 38300, opp: random, total numsteps: 6399982, episode steps: 88, reward: 780.3
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -459.03
+----------------------------------------
+Episode: 38350, opp: random, total numsteps: 6408075, episode steps: 48, reward: -1170.51
+Episode: 38400, opp: random, total numsteps: 6415474, episode steps: 142, reward: -1237.7
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 219.64
+----------------------------------------
+Episode: 38450, opp: random, total numsteps: 6423175, episode steps: 154, reward: -1175.11
+Episode: 38500, opp: random, total numsteps: 6429933, episode steps: 178, reward: 743.9
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 240.09
+----------------------------------------
+Episode: 38550, opp: random, total numsteps: 6436939, episode steps: 24, reward: 1031.8
+Episode: 38600, opp: random, total numsteps: 6445474, episode steps: 217, reward: -1297.6
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -336.38
+----------------------------------------
+Episode: 38650, opp: random, total numsteps: 6453384, episode steps: 14, reward: -1096.23
+Episode: 38700, opp: random, total numsteps: 6460160, episode steps: 123, reward: -988.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 4.96
+----------------------------------------
+Episode: 38750, opp: random, total numsteps: 6467650, episode steps: 59, reward: 1163.44
+Episode: 38800, opp: random, total numsteps: 6474582, episode steps: 23, reward: 1064.25
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -178.59
+----------------------------------------
+Episode: 38850, opp: random, total numsteps: 6481340, episode steps: 23, reward: 1054.9
+Episode: 38900, opp: random, total numsteps: 6488563, episode steps: 210, reward: 851.68
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 505.01
+----------------------------------------
+Episode: 38950, opp: random, total numsteps: 6496232, episode steps: 148, reward: 1164.17
+Episode: 39000, opp: random, total numsteps: 6503544, episode steps: 64, reward: 1166.37
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 364.13
+----------------------------------------
+Episode: 39050, opp: random, total numsteps: 6510411, episode steps: 24, reward: 1052.26
+Episode: 39100, opp: random, total numsteps: 6517601, episode steps: 24, reward: 1043.46
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -413.12
+----------------------------------------
+Episode: 39150, opp: random, total numsteps: 6525571, episode steps: 65, reward: -1248.28
+Episode: 39200, opp: random, total numsteps: 6533383, episode steps: 100, reward: -1546.91
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 46.57
+----------------------------------------
+Episode: 39250, opp: random, total numsteps: 6540659, episode steps: 46, reward: -1280.7
+Episode: 39300, opp: random, total numsteps: 6547738, episode steps: 26, reward: 1076.04
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -110.93
+----------------------------------------
+Episode: 39350, opp: random, total numsteps: 6555469, episode steps: 46, reward: 1115.02
+Episode: 39400, opp: random, total numsteps: 6562762, episode steps: 180, reward: 653.97
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 117.4
+----------------------------------------
+Episode: 39450, opp: random, total numsteps: 6570088, episode steps: 23, reward: 1049.23
+Episode: 39500, opp: random, total numsteps: 6577069, episode steps: 23, reward: 1043.78
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 35.1
+----------------------------------------
+Episode: 39550, opp: random, total numsteps: 6584665, episode steps: 23, reward: 1055.11
+Episode: 39600, opp: random, total numsteps: 6591935, episode steps: 47, reward: -1174.09
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -116.81
+----------------------------------------
+Episode: 39650, opp: random, total numsteps: 6600442, episode steps: 76, reward: 975.66
+Episode: 39700, opp: random, total numsteps: 6608669, episode steps: 137, reward: 954.68
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 425.83
+----------------------------------------
+Episode: 39750, opp: random, total numsteps: 6615369, episode steps: 25, reward: 1060.3
+Episode: 39800, opp: random, total numsteps: 6622230, episode steps: 53, reward: -1235.47
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -129.46
+----------------------------------------
+Episode: 39850, opp: random, total numsteps: 6629623, episode steps: 126, reward: -1048.18
+Episode: 39900, opp: random, total numsteps: 6637036, episode steps: 250, reward: 223.47
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -379.73
+----------------------------------------
+Episode: 39950, opp: random, total numsteps: 6644440, episode steps: 105, reward: 941.3
+Episode: 40000, opp: random, total numsteps: 6651696, episode steps: 164, reward: -1417.01
+Saving models to checkpoints/sac_checkpoint_hockey_vs_random_all_rew_ep_40000
+Saving buffer to checkpoints/sac_buffer_hockey_vs_random_all_rew_40000
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -59.8
+----------------------------------------
+Episode: 40050, opp: random, total numsteps: 6658483, episode steps: 250, reward: -321.13
+Episode: 40100, opp: random, total numsteps: 6665848, episode steps: 114, reward: -1180.09
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 114.81
+----------------------------------------
+Episode: 40150, opp: random, total numsteps: 6672864, episode steps: 84, reward: 1078.24
+Episode: 40200, opp: random, total numsteps: 6680503, episode steps: 234, reward: -2991.82
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -57.56
+----------------------------------------
+Episode: 40250, opp: random, total numsteps: 6687918, episode steps: 151, reward: -1653.05
+Episode: 40300, opp: random, total numsteps: 6695901, episode steps: 250, reward: -795.44
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -315.69
+----------------------------------------
+Episode: 40350, opp: random, total numsteps: 6703703, episode steps: 25, reward: 1019.41
+Episode: 40400, opp: random, total numsteps: 6711580, episode steps: 100, reward: 891.95
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 357.3
+----------------------------------------
+Episode: 40450, opp: random, total numsteps: 6718464, episode steps: 91, reward: -1000.28
+Episode: 40500, opp: random, total numsteps: 6725899, episode steps: 209, reward: 1106.32
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -33.38
+----------------------------------------
+Episode: 40550, opp: random, total numsteps: 6733499, episode steps: 75, reward: -1183.17
+Episode: 40600, opp: random, total numsteps: 6740788, episode steps: 186, reward: 908.58
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 260.76
+----------------------------------------
+Episode: 40650, opp: random, total numsteps: 6748151, episode steps: 250, reward: -303.46
+Episode: 40700, opp: random, total numsteps: 6754634, episode steps: 64, reward: -1380.58
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -355.77
+----------------------------------------
+Episode: 40750, opp: random, total numsteps: 6762702, episode steps: 24, reward: 1065.24
+Episode: 40800, opp: random, total numsteps: 6769707, episode steps: 24, reward: 1056.27
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -69.09
+----------------------------------------
+Episode: 40850, opp: random, total numsteps: 6776767, episode steps: 25, reward: 1068.97
+Episode: 40900, opp: random, total numsteps: 6783883, episode steps: 184, reward: -1513.88
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -20.6
+----------------------------------------
+Episode: 40950, opp: random, total numsteps: 6791546, episode steps: 211, reward: 538.3
+Episode: 41000, opp: random, total numsteps: 6798967, episode steps: 45, reward: 1161.02
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 436.63
+----------------------------------------
+Episode: 41050, opp: random, total numsteps: 6805630, episode steps: 59, reward: -1262.42
+Episode: 41100, opp: random, total numsteps: 6813150, episode steps: 24, reward: 1056.39
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 705.99
+----------------------------------------
+Episode: 41150, opp: random, total numsteps: 6819528, episode steps: 24, reward: 1070.67
+Episode: 41200, opp: random, total numsteps: 6825551, episode steps: 58, reward: -1274.78
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -172.48
+----------------------------------------
+Episode: 41250, opp: random, total numsteps: 6832877, episode steps: 25, reward: 1018.16
+Episode: 41300, opp: random, total numsteps: 6839884, episode steps: 60, reward: -1186.44
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 167.28
+----------------------------------------
+Episode: 41350, opp: random, total numsteps: 6847651, episode steps: 158, reward: -913.02
+Episode: 41400, opp: random, total numsteps: 6855271, episode steps: 94, reward: 991.41
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -86.57
+----------------------------------------
+Episode: 41450, opp: random, total numsteps: 6863104, episode steps: 71, reward: 785.99
+Episode: 41500, opp: random, total numsteps: 6870006, episode steps: 40, reward: -1115.68
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -446.24
+----------------------------------------
+Episode: 41550, opp: random, total numsteps: 6877589, episode steps: 28, reward: 1020.45
+Episode: 41600, opp: random, total numsteps: 6885230, episode steps: 26, reward: 1066.69
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 11.14
+----------------------------------------
+Episode: 41650, opp: random, total numsteps: 6893127, episode steps: 58, reward: -1262.94
+Episode: 41700, opp: random, total numsteps: 6900233, episode steps: 23, reward: 1060.35
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 369.76
+----------------------------------------
+Episode: 41750, opp: random, total numsteps: 6907013, episode steps: 23, reward: 1056.37
+Episode: 41800, opp: random, total numsteps: 6914811, episode steps: 59, reward: -1361.31
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -521.67
+----------------------------------------
+Episode: 41850, opp: random, total numsteps: 6922286, episode steps: 233, reward: 809.8
+Episode: 41900, opp: random, total numsteps: 6929384, episode steps: 82, reward: 905.65
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 154.93
+----------------------------------------
+Episode: 41950, opp: random, total numsteps: 6937198, episode steps: 24, reward: 1043.54
+Episode: 42000, opp: random, total numsteps: 6945167, episode steps: 61, reward: 1124.97
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -194.84
+----------------------------------------
+Episode: 42050, opp: random, total numsteps: 6952276, episode steps: 51, reward: 1033.94
+Episode: 42100, opp: random, total numsteps: 6958978, episode steps: 26, reward: 1059.41
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 287.62
+----------------------------------------
+Episode: 42150, opp: random, total numsteps: 6966719, episode steps: 23, reward: 1040.74
+Episode: 42200, opp: random, total numsteps: 6973331, episode steps: 194, reward: -1668.48
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -72.04
+----------------------------------------
+Episode: 42250, opp: random, total numsteps: 6980131, episode steps: 250, reward: -706.8
+Episode: 42300, opp: random, total numsteps: 6988206, episode steps: 79, reward: -1186.5
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -347.01
+----------------------------------------
+Episode: 42350, opp: random, total numsteps: 6995488, episode steps: 61, reward: -1183.23
+Episode: 42400, opp: random, total numsteps: 7002483, episode steps: 66, reward: 1014.33
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -68.61
+----------------------------------------
+Episode: 42450, opp: random, total numsteps: 7011060, episode steps: 24, reward: 1057.61
+Episode: 42500, opp: random, total numsteps: 7018628, episode steps: 23, reward: 1047.4
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 46.02
+----------------------------------------
+Episode: 42550, opp: random, total numsteps: 7026788, episode steps: 247, reward: 496.04
+Episode: 42600, opp: random, total numsteps: 7035271, episode steps: 103, reward: 824.01
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 253.12
+----------------------------------------
+Episode: 42650, opp: random, total numsteps: 7043041, episode steps: 23, reward: 1068.07
+Episode: 42700, opp: random, total numsteps: 7050415, episode steps: 23, reward: 1059.11
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 253.12
+----------------------------------------
+Episode: 42750, opp: random, total numsteps: 7057121, episode steps: 24, reward: 1039.76
+Episode: 42800, opp: random, total numsteps: 7064835, episode steps: 104, reward: -1262.7
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -164.19
+----------------------------------------
+Episode: 42850, opp: random, total numsteps: 7072188, episode steps: 26, reward: 1051.38
+Episode: 42900, opp: random, total numsteps: 7079266, episode steps: 250, reward: -190.39
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 189.52
+----------------------------------------
+Episode: 42950, opp: random, total numsteps: 7088097, episode steps: 24, reward: 1039.26
+Episode: 43000, opp: random, total numsteps: 7094521, episode steps: 23, reward: 1050.39
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 146.92
+----------------------------------------
+Episode: 43050, opp: random, total numsteps: 7102648, episode steps: 55, reward: 1144.0
+Episode: 43100, opp: random, total numsteps: 7109190, episode steps: 104, reward: -1390.19
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -227.67
+----------------------------------------
+Episode: 43150, opp: random, total numsteps: 7116374, episode steps: 24, reward: 1058.12
+Episode: 43200, opp: random, total numsteps: 7124289, episode steps: 250, reward: 22.73
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 322.61
+----------------------------------------
+Episode: 43250, opp: random, total numsteps: 7132071, episode steps: 28, reward: 1038.52
+Episode: 43300, opp: random, total numsteps: 7139856, episode steps: 250, reward: -258.19
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -183.61
+----------------------------------------
+Episode: 43350, opp: random, total numsteps: 7148732, episode steps: 26, reward: 1055.58
+Episode: 43400, opp: random, total numsteps: 7156455, episode steps: 104, reward: 761.71
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -277.45
+----------------------------------------
+Episode: 43450, opp: random, total numsteps: 7163461, episode steps: 89, reward: 863.04
+Episode: 43500, opp: random, total numsteps: 7171527, episode steps: 250, reward: -651.52
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 312.24
+----------------------------------------
+Episode: 43550, opp: random, total numsteps: 7177796, episode steps: 58, reward: -1178.21
+Episode: 43600, opp: random, total numsteps: 7184880, episode steps: 25, reward: 1021.12
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 58.49
+----------------------------------------
+Episode: 43650, opp: random, total numsteps: 7191614, episode steps: 90, reward: -1661.85
+Episode: 43700, opp: random, total numsteps: 7198606, episode steps: 250, reward: 21.17
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -112.58
+----------------------------------------
+Episode: 43750, opp: random, total numsteps: 7205745, episode steps: 101, reward: 1176.91
+Episode: 43800, opp: random, total numsteps: 7213277, episode steps: 105, reward: -1262.14
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 306.32
+----------------------------------------
+Episode: 43850, opp: random, total numsteps: 7221303, episode steps: 26, reward: 1050.89
+Episode: 43900, opp: random, total numsteps: 7228766, episode steps: 24, reward: 1042.22
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -276.97
+----------------------------------------
+Episode: 43950, opp: random, total numsteps: 7235874, episode steps: 135, reward: -1188.0
+Episode: 44000, opp: random, total numsteps: 7242961, episode steps: 25, reward: 1059.07
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -73.37
+----------------------------------------
+Episode: 44050, opp: random, total numsteps: 7251327, episode steps: 28, reward: 1038.73
+Episode: 44100, opp: random, total numsteps: 7258116, episode steps: 26, reward: 1057.41
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -170.69
+----------------------------------------
+Episode: 44150, opp: random, total numsteps: 7265361, episode steps: 23, reward: 1038.15
+Episode: 44200, opp: random, total numsteps: 7273107, episode steps: 60, reward: 983.64
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 255.51
+----------------------------------------
+Episode: 44250, opp: random, total numsteps: 7280675, episode steps: 69, reward: -1256.51
+Episode: 44300, opp: random, total numsteps: 7288025, episode steps: 24, reward: 1053.09
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 409.19
+----------------------------------------
+Episode: 44350, opp: random, total numsteps: 7295857, episode steps: 44, reward: 1021.34
+Episode: 44400, opp: random, total numsteps: 7302673, episode steps: 25, reward: 1068.2
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -210.18
+----------------------------------------
+Episode: 44450, opp: random, total numsteps: 7310410, episode steps: 23, reward: 1045.35
+Episode: 44500, opp: random, total numsteps: 7317634, episode steps: 81, reward: 903.31
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -129.34
+----------------------------------------
+Episode: 44550, opp: random, total numsteps: 7325567, episode steps: 85, reward: 905.92
+Episode: 44600, opp: random, total numsteps: 7332763, episode steps: 24, reward: 1065.47
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -476.92
+----------------------------------------
+Episode: 44650, opp: random, total numsteps: 7340069, episode steps: 61, reward: 979.66
+Episode: 44700, opp: random, total numsteps: 7347440, episode steps: 82, reward: -1061.15
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -162.3
+----------------------------------------
+Episode: 44750, opp: random, total numsteps: 7355417, episode steps: 24, reward: 1066.41
+Episode: 44800, opp: random, total numsteps: 7363700, episode steps: 250, reward: -236.16
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 18.36
+----------------------------------------
+Episode: 44850, opp: random, total numsteps: 7370454, episode steps: 49, reward: -1130.89
+Episode: 44900, opp: random, total numsteps: 7377603, episode steps: 46, reward: -1005.07
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -318.97
+----------------------------------------
+Episode: 44950, opp: random, total numsteps: 7385231, episode steps: 42, reward: -1058.83
+Episode: 45000, opp: random, total numsteps: 7393035, episode steps: 109, reward: 1247.27
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 137.52
+----------------------------------------
+Episode: 45050, opp: random, total numsteps: 7401734, episode steps: 89, reward: 936.8
+Episode: 45100, opp: random, total numsteps: 7409225, episode steps: 48, reward: 1165.38
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 270.55
+----------------------------------------
+Episode: 45150, opp: random, total numsteps: 7416840, episode steps: 27, reward: 1066.57
+Episode: 45200, opp: random, total numsteps: 7425282, episode steps: 23, reward: 1049.91
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 83.01
+----------------------------------------
+Episode: 45250, opp: random, total numsteps: 7434069, episode steps: 102, reward: 874.52
+Episode: 45300, opp: random, total numsteps: 7441531, episode steps: 132, reward: 988.38
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 276.62
+----------------------------------------
+Episode: 45350, opp: random, total numsteps: 7449303, episode steps: 65, reward: -1069.36
+Episode: 45400, opp: random, total numsteps: 7457118, episode steps: 224, reward: 805.36
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 45.1
+----------------------------------------
+Episode: 45450, opp: random, total numsteps: 7464977, episode steps: 23, reward: 1061.5
+Episode: 45500, opp: random, total numsteps: 7472062, episode steps: 64, reward: -1213.24
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -221.36
+----------------------------------------
+Episode: 45550, opp: random, total numsteps: 7479737, episode steps: 250, reward: 63.93
+Episode: 45600, opp: random, total numsteps: 7488252, episode steps: 26, reward: 1031.19
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 31.5
+----------------------------------------
+Episode: 45650, opp: random, total numsteps: 7495829, episode steps: 250, reward: -263.16
+Episode: 45700, opp: random, total numsteps: 7504214, episode steps: 180, reward: 1106.63
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 477.09
+----------------------------------------
+Episode: 45750, opp: random, total numsteps: 7512174, episode steps: 26, reward: 1051.56
+Episode: 45800, opp: random, total numsteps: 7520022, episode steps: 26, reward: 1051.56
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -175.21
+----------------------------------------
+Episode: 45850, opp: random, total numsteps: 7527940, episode steps: 177, reward: 938.02
+Episode: 45900, opp: random, total numsteps: 7535259, episode steps: 58, reward: -1184.87
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -321.1
+----------------------------------------
+Episode: 45950, opp: random, total numsteps: 7543219, episode steps: 250, reward: -369.06
+Episode: 46000, opp: random, total numsteps: 7551320, episode steps: 59, reward: -1135.72
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 64.1
+----------------------------------------
+Episode: 46050, opp: random, total numsteps: 7559457, episode steps: 23, reward: 1068.56
+Episode: 46100, opp: random, total numsteps: 7567038, episode steps: 60, reward: -1191.3
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 291.69
+----------------------------------------
+Episode: 46150, opp: random, total numsteps: 7575995, episode steps: 24, reward: 1067.94
+Episode: 46200, opp: random, total numsteps: 7583633, episode steps: 26, reward: 1052.84
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 599.57
+----------------------------------------
+Episode: 46250, opp: random, total numsteps: 7591395, episode steps: 250, reward: 58.84
+Episode: 46300, opp: random, total numsteps: 7599345, episode steps: 87, reward: -935.18
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 629.41
+----------------------------------------
+Episode: 46350, opp: random, total numsteps: 7606240, episode steps: 62, reward: 930.91
+Episode: 46400, opp: random, total numsteps: 7613685, episode steps: 250, reward: 482.23
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -100.28
+----------------------------------------
+Episode: 46450, opp: random, total numsteps: 7620808, episode steps: 67, reward: -1026.83
+Episode: 46500, opp: random, total numsteps: 7628772, episode steps: 16, reward: -1118.1
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 108.76
+----------------------------------------
+Episode: 46550, opp: random, total numsteps: 7635149, episode steps: 26, reward: 1054.12
+Episode: 46600, opp: random, total numsteps: 7642764, episode steps: 211, reward: 999.14
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 179.92
+----------------------------------------
+Episode: 46650, opp: random, total numsteps: 7650006, episode steps: 45, reward: 1122.51
+Episode: 46700, opp: random, total numsteps: 7657538, episode steps: 23, reward: 1068.18
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -97.52
+----------------------------------------
+Episode: 46750, opp: random, total numsteps: 7664429, episode steps: 24, reward: 1058.45
+Episode: 46800, opp: random, total numsteps: 7671855, episode steps: 51, reward: 874.25
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 176.99
+----------------------------------------
+Episode: 46850, opp: random, total numsteps: 7679710, episode steps: 23, reward: 1048.39
+Episode: 46900, opp: random, total numsteps: 7686967, episode steps: 250, reward: -529.57
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -183.47
+----------------------------------------
+Episode: 46950, opp: random, total numsteps: 7694080, episode steps: 106, reward: -1411.4
+Episode: 47000, opp: random, total numsteps: 7701193, episode steps: 71, reward: 885.85
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 207.31
+----------------------------------------
+Episode: 47050, opp: random, total numsteps: 7708683, episode steps: 24, reward: 1029.65
+Episode: 47100, opp: random, total numsteps: 7717502, episode steps: 250, reward: 20.52
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 382.46
+----------------------------------------
+Episode: 47150, opp: random, total numsteps: 7724862, episode steps: 80, reward: -1196.75
+Episode: 47200, opp: random, total numsteps: 7732330, episode steps: 32, reward: 1033.64
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 120.7
+----------------------------------------
+Episode: 47250, opp: random, total numsteps: 7740465, episode steps: 250, reward: -131.39
+Episode: 47300, opp: random, total numsteps: 7747704, episode steps: 28, reward: 1053.31
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 352.61
+----------------------------------------
+Episode: 47350, opp: random, total numsteps: 7754713, episode steps: 130, reward: 902.51
+Episode: 47400, opp: random, total numsteps: 7763448, episode steps: 93, reward: -1054.65
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -291.74
+----------------------------------------
+Episode: 47450, opp: random, total numsteps: 7770905, episode steps: 70, reward: -1217.75
+Episode: 47500, opp: random, total numsteps: 7778769, episode steps: 23, reward: 1057.04
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -13.81
+----------------------------------------
+Episode: 47550, opp: random, total numsteps: 7786716, episode steps: 69, reward: -1175.39
+Episode: 47600, opp: random, total numsteps: 7794027, episode steps: 23, reward: 1049.35
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 141.39
+----------------------------------------
+Episode: 47650, opp: random, total numsteps: 7802135, episode steps: 23, reward: 1051.43
+Episode: 47700, opp: random, total numsteps: 7810261, episode steps: 82, reward: -1438.27
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 37.72
+----------------------------------------
+Episode: 47750, opp: random, total numsteps: 7817794, episode steps: 96, reward: 1197.73
+Episode: 47800, opp: random, total numsteps: 7825080, episode steps: 172, reward: 133.19
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 75.04
+----------------------------------------
+Episode: 47850, opp: random, total numsteps: 7833309, episode steps: 115, reward: 793.67
+Episode: 47900, opp: random, total numsteps: 7840839, episode steps: 62, reward: -1238.06
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -48.73
+----------------------------------------
+Episode: 47950, opp: random, total numsteps: 7847690, episode steps: 96, reward: -1313.77
+Episode: 48000, opp: random, total numsteps: 7854882, episode steps: 76, reward: -1063.89
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -121.58
+----------------------------------------
+Episode: 48050, opp: random, total numsteps: 7863043, episode steps: 107, reward: -1115.99
+Episode: 48100, opp: random, total numsteps: 7871326, episode steps: 43, reward: -1182.3
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 65.09
+----------------------------------------
+Episode: 48150, opp: random, total numsteps: 7879156, episode steps: 25, reward: 1047.34
+Episode: 48200, opp: random, total numsteps: 7887073, episode steps: 26, reward: 1057.24
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 156.04
+----------------------------------------
+Episode: 48250, opp: random, total numsteps: 7895560, episode steps: 51, reward: 1140.36
+Episode: 48300, opp: random, total numsteps: 7903210, episode steps: 67, reward: -1130.35
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -358.67
+----------------------------------------
+Episode: 48350, opp: random, total numsteps: 7911182, episode steps: 23, reward: 1049.51
+Episode: 48400, opp: random, total numsteps: 7918230, episode steps: 240, reward: 960.85
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 162.14
+----------------------------------------
+Episode: 48450, opp: random, total numsteps: 7925809, episode steps: 250, reward: 170.38
+Episode: 48500, opp: random, total numsteps: 7934205, episode steps: 24, reward: 1039.05
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -258.07
+----------------------------------------
+Episode: 48550, opp: random, total numsteps: 7940670, episode steps: 24, reward: 1061.26
+Episode: 48600, opp: random, total numsteps: 7948468, episode steps: 99, reward: -981.6
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -32.11
+----------------------------------------
+Episode: 48650, opp: random, total numsteps: 7955977, episode steps: 71, reward: 1123.98
+Episode: 48700, opp: random, total numsteps: 7963522, episode steps: 250, reward: 243.87
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 603.82
+----------------------------------------
+Episode: 48750, opp: random, total numsteps: 7970693, episode steps: 100, reward: 822.98
+Episode: 48800, opp: random, total numsteps: 7978442, episode steps: 43, reward: -1123.14
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -419.37
+----------------------------------------
+Episode: 48850, opp: random, total numsteps: 7986934, episode steps: 70, reward: 866.4
+Episode: 48900, opp: random, total numsteps: 7993769, episode steps: 23, reward: 1053.32
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 127.29
+----------------------------------------
+Episode: 48950, opp: random, total numsteps: 8001028, episode steps: 23, reward: 1053.11
+Episode: 49000, opp: random, total numsteps: 8009581, episode steps: 250, reward: -142.26
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 362.46
+----------------------------------------
+Episode: 49050, opp: random, total numsteps: 8016196, episode steps: 24, reward: 1055.19
+Episode: 49100, opp: random, total numsteps: 8023907, episode steps: 23, reward: 1050.12
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 193.63
+----------------------------------------
+Episode: 49150, opp: random, total numsteps: 8031997, episode steps: 43, reward: 1145.17
+Episode: 49200, opp: random, total numsteps: 8040314, episode steps: 250, reward: -225.15
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 360.4
+----------------------------------------
+Episode: 49250, opp: random, total numsteps: 8048519, episode steps: 99, reward: -1101.61
+Episode: 49300, opp: random, total numsteps: 8055935, episode steps: 26, reward: 1045.68
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 353.83
+----------------------------------------
+Episode: 49350, opp: random, total numsteps: 8063557, episode steps: 133, reward: 548.44
+Episode: 49400, opp: random, total numsteps: 8071396, episode steps: 162, reward: -1565.49
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 10.68
+----------------------------------------
+Episode: 49450, opp: random, total numsteps: 8078751, episode steps: 41, reward: -1083.14
+Episode: 49500, opp: random, total numsteps: 8085918, episode steps: 25, reward: 1074.83
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 231.14
+----------------------------------------
+Episode: 49550, opp: random, total numsteps: 8094406, episode steps: 62, reward: -1146.68
+Episode: 49600, opp: random, total numsteps: 8101260, episode steps: 67, reward: 944.33
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 122.98
+----------------------------------------
+Episode: 49650, opp: random, total numsteps: 8108153, episode steps: 25, reward: 1055.93
+Episode: 49700, opp: random, total numsteps: 8115348, episode steps: 78, reward: -1292.6
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -70.24
+----------------------------------------
+Episode: 49750, opp: random, total numsteps: 8124734, episode steps: 250, reward: 750.74
+Episode: 49800, opp: random, total numsteps: 8133451, episode steps: 152, reward: 968.31
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 387.43
+----------------------------------------
+Episode: 49850, opp: random, total numsteps: 8141669, episode steps: 60, reward: 935.84
+Episode: 49900, opp: random, total numsteps: 8149236, episode steps: 154, reward: 1503.97
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -270.68
+----------------------------------------
+Episode: 49950, opp: random, total numsteps: 8156591, episode steps: 115, reward: 1058.09
+Episode: 50000, opp: random, total numsteps: 8164651, episode steps: 26, reward: 1040.47
+Saving models to checkpoints/sac_checkpoint_hockey_vs_random_all_rew_ep_50000
+Saving buffer to checkpoints/sac_buffer_hockey_vs_random_all_rew_50000
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -303.24
+----------------------------------------
+Episode: 50050, opp: random, total numsteps: 8172113, episode steps: 26, reward: 1051.47
+Episode: 50100, opp: random, total numsteps: 8179575, episode steps: 68, reward: -1050.59
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -116.39
+----------------------------------------
+Episode: 50150, opp: random, total numsteps: 8187390, episode steps: 25, reward: 1025.59
+Episode: 50200, opp: random, total numsteps: 8195441, episode steps: 163, reward: -974.79
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -20.17
+----------------------------------------
+Episode: 50250, opp: random, total numsteps: 8203279, episode steps: 25, reward: 1022.02
+Episode: 50300, opp: random, total numsteps: 8210980, episode steps: 80, reward: -1278.33
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -291.19
+----------------------------------------
+Episode: 50350, opp: random, total numsteps: 8219258, episode steps: 54, reward: -1166.27
+Episode: 50400, opp: random, total numsteps: 8227402, episode steps: 80, reward: -1026.84
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 342.7
+----------------------------------------
+Episode: 50450, opp: random, total numsteps: 8234957, episode steps: 117, reward: 774.98
+Episode: 50500, opp: random, total numsteps: 8242471, episode steps: 250, reward: -110.39
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 52.74
+----------------------------------------
+Episode: 50550, opp: random, total numsteps: 8250269, episode steps: 156, reward: 1175.62
+Episode: 50600, opp: random, total numsteps: 8258143, episode steps: 69, reward: -1022.81
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 396.87
+----------------------------------------
+Episode: 50650, opp: random, total numsteps: 8265305, episode steps: 55, reward: -1131.55
+Episode: 50700, opp: random, total numsteps: 8273849, episode steps: 138, reward: -1392.85
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -83.46
+----------------------------------------
+Episode: 50750, opp: random, total numsteps: 8281152, episode steps: 250, reward: -158.41
+Episode: 50800, opp: random, total numsteps: 8288140, episode steps: 48, reward: -1201.11
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 107.68
+----------------------------------------
+Episode: 50850, opp: random, total numsteps: 8296450, episode steps: 250, reward: -72.92
+Episode: 50900, opp: random, total numsteps: 8303637, episode steps: 148, reward: -1165.67
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -15.04
+----------------------------------------
+Episode: 50950, opp: random, total numsteps: 8311960, episode steps: 250, reward: 41.63
+Episode: 51000, opp: random, total numsteps: 8319731, episode steps: 26, reward: 1068.16
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 412.68
+----------------------------------------
+Episode: 51050, opp: random, total numsteps: 8327930, episode steps: 95, reward: 800.79
+Episode: 51100, opp: random, total numsteps: 8335924, episode steps: 221, reward: -1496.91
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 136.46
+----------------------------------------
+Episode: 51150, opp: random, total numsteps: 8342815, episode steps: 24, reward: 1069.25
+Episode: 51200, opp: random, total numsteps: 8350759, episode steps: 194, reward: 577.64
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 252.67
+----------------------------------------
+Episode: 51250, opp: random, total numsteps: 8358267, episode steps: 24, reward: 1036.72
+Episode: 51300, opp: random, total numsteps: 8365024, episode steps: 47, reward: -1153.56
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -34.57
+----------------------------------------
+Episode: 51350, opp: random, total numsteps: 8372727, episode steps: 99, reward: -932.01
+Episode: 51400, opp: random, total numsteps: 8379828, episode steps: 24, reward: 1050.1
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -190.76
+----------------------------------------
+Episode: 51450, opp: random, total numsteps: 8387607, episode steps: 23, reward: 1048.82
+Episode: 51500, opp: random, total numsteps: 8396533, episode steps: 250, reward: -37.98
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -328.59
+----------------------------------------
+Episode: 51550, opp: random, total numsteps: 8404667, episode steps: 250, reward: -786.79
+Episode: 51600, opp: random, total numsteps: 8412375, episode steps: 220, reward: 1070.64
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 137.69
+----------------------------------------
+Episode: 51650, opp: random, total numsteps: 8420369, episode steps: 26, reward: 1069.21
+Episode: 51700, opp: random, total numsteps: 8428650, episode steps: 93, reward: 866.83
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 501.58
+----------------------------------------
+Episode: 51750, opp: random, total numsteps: 8436571, episode steps: 250, reward: -138.64
+Episode: 51800, opp: random, total numsteps: 8444210, episode steps: 86, reward: -1062.93
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 63.87
+----------------------------------------
+Episode: 51850, opp: random, total numsteps: 8451077, episode steps: 26, reward: 1067.19
+Episode: 51900, opp: random, total numsteps: 8458671, episode steps: 57, reward: 1104.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 125.62
+----------------------------------------
+Episode: 51950, opp: random, total numsteps: 8465559, episode steps: 250, reward: 103.56
+Episode: 52000, opp: random, total numsteps: 8473939, episode steps: 198, reward: -2432.63
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -480.55
+----------------------------------------
+Episode: 52050, opp: random, total numsteps: 8481839, episode steps: 121, reward: 1233.21
+Episode: 52100, opp: random, total numsteps: 8489686, episode steps: 44, reward: -1108.19
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 279.45
+----------------------------------------
+Episode: 52150, opp: random, total numsteps: 8496964, episode steps: 26, reward: 1063.92
+Episode: 52200, opp: random, total numsteps: 8504993, episode steps: 64, reward: 1135.4
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 63.21
+----------------------------------------
+Episode: 52250, opp: random, total numsteps: 8512908, episode steps: 244, reward: 397.05
+Episode: 52300, opp: random, total numsteps: 8521765, episode steps: 58, reward: -981.48
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 268.55
+----------------------------------------
+Episode: 52350, opp: random, total numsteps: 8529601, episode steps: 88, reward: 945.6
+Episode: 52400, opp: random, total numsteps: 8537084, episode steps: 23, reward: 1032.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 339.14
+----------------------------------------
+Episode: 52450, opp: random, total numsteps: 8545508, episode steps: 236, reward: -1396.35
+Episode: 52500, opp: random, total numsteps: 8553484, episode steps: 55, reward: 1155.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 366.74
+----------------------------------------
+Episode: 52550, opp: random, total numsteps: 8561654, episode steps: 95, reward: 1164.91
+Episode: 52600, opp: random, total numsteps: 8568459, episode steps: 250, reward: -166.06
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 49.29
+----------------------------------------
+Episode: 52650, opp: random, total numsteps: 8576423, episode steps: 191, reward: 859.65
+Episode: 52700, opp: random, total numsteps: 8584228, episode steps: 24, reward: 1043.62
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 409.25
+----------------------------------------
+Episode: 52750, opp: random, total numsteps: 8591845, episode steps: 123, reward: 1004.31
+Episode: 52800, opp: random, total numsteps: 8599530, episode steps: 25, reward: 1054.31
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 159.62
+----------------------------------------
+Episode: 52850, opp: random, total numsteps: 8607791, episode steps: 80, reward: 1009.15
+Episode: 52900, opp: random, total numsteps: 8616536, episode steps: 43, reward: 1143.63
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 74.93
+----------------------------------------
+Episode: 52950, opp: random, total numsteps: 8624403, episode steps: 223, reward: -1341.06
+Episode: 53000, opp: random, total numsteps: 8632112, episode steps: 250, reward: 437.14
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 317.82
+----------------------------------------
+Episode: 53050, opp: random, total numsteps: 8640121, episode steps: 23, reward: 1056.56
+Episode: 53100, opp: random, total numsteps: 8647644, episode steps: 24, reward: 1060.18
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 79.08
+----------------------------------------
+Episode: 53150, opp: random, total numsteps: 8656156, episode steps: 208, reward: 1072.83
+Episode: 53200, opp: random, total numsteps: 8664296, episode steps: 64, reward: -1037.54
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -349.2
+----------------------------------------
+Episode: 53250, opp: random, total numsteps: 8672600, episode steps: 58, reward: 999.19
+Episode: 53300, opp: random, total numsteps: 8680300, episode steps: 24, reward: 1027.82
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -279.67
+----------------------------------------
+Episode: 53350, opp: random, total numsteps: 8688030, episode steps: 25, reward: 1027.82
+Episode: 53400, opp: random, total numsteps: 8695110, episode steps: 47, reward: -1111.21
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 291.09
+----------------------------------------
+Episode: 53450, opp: random, total numsteps: 8702633, episode steps: 49, reward: -1053.93
+Episode: 53500, opp: random, total numsteps: 8711014, episode steps: 25, reward: 1029.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -68.72
+----------------------------------------
+Episode: 53550, opp: random, total numsteps: 8719348, episode steps: 23, reward: 1047.56
+Episode: 53600, opp: random, total numsteps: 8727207, episode steps: 90, reward: -1153.87
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 180.4
+----------------------------------------
+Episode: 53650, opp: random, total numsteps: 8734575, episode steps: 24, reward: 1023.59
+Episode: 53700, opp: random, total numsteps: 8742821, episode steps: 23, reward: 1044.48
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 2.54
+----------------------------------------
+Episode: 53750, opp: random, total numsteps: 8749380, episode steps: 61, reward: -1130.45
+Episode: 53800, opp: random, total numsteps: 8757085, episode steps: 108, reward: 850.93
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 318.72
+----------------------------------------
+Episode: 53850, opp: random, total numsteps: 8764235, episode steps: 181, reward: 836.06
+Episode: 53900, opp: random, total numsteps: 8771622, episode steps: 79, reward: 1313.0
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 352.2
+----------------------------------------
+Episode: 53950, opp: random, total numsteps: 8777825, episode steps: 25, reward: 1062.53
+Episode: 54000, opp: random, total numsteps: 8785667, episode steps: 113, reward: -998.52
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -79.45
+----------------------------------------
+Episode: 54050, opp: random, total numsteps: 8793572, episode steps: 111, reward: -1024.33
+Episode: 54100, opp: random, total numsteps: 8801172, episode steps: 57, reward: 1140.93
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 235.21
+----------------------------------------
+Episode: 54150, opp: random, total numsteps: 8809369, episode steps: 50, reward: 1063.99
+Episode: 54200, opp: random, total numsteps: 8817391, episode steps: 25, reward: 1071.59
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 456.29
+----------------------------------------
+Episode: 54250, opp: random, total numsteps: 8825770, episode steps: 115, reward: -845.35
+Episode: 54300, opp: random, total numsteps: 8833398, episode steps: 153, reward: 811.22
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 381.74
+----------------------------------------
+Episode: 54350, opp: random, total numsteps: 8840980, episode steps: 82, reward: 923.44
+Episode: 54400, opp: random, total numsteps: 8847665, episode steps: 148, reward: -1429.12
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -178.93
+----------------------------------------
+Episode: 54450, opp: random, total numsteps: 8855854, episode steps: 250, reward: -161.16
+Episode: 54500, opp: random, total numsteps: 8862971, episode steps: 23, reward: 1053.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 281.68
+----------------------------------------
+Episode: 54550, opp: random, total numsteps: 8871926, episode steps: 250, reward: 91.63
+Episode: 54600, opp: random, total numsteps: 8879879, episode steps: 24, reward: 1064.98
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -40.28
+----------------------------------------
+Episode: 54650, opp: random, total numsteps: 8887374, episode steps: 54, reward: 1017.03
+Episode: 54700, opp: random, total numsteps: 8896002, episode steps: 250, reward: -475.23
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -453.87
+----------------------------------------
+Episode: 54750, opp: random, total numsteps: 8903995, episode steps: 41, reward: 1155.34
+Episode: 54800, opp: random, total numsteps: 8912606, episode steps: 76, reward: -1358.8
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -185.95
+----------------------------------------
+Episode: 54850, opp: random, total numsteps: 8920700, episode steps: 250, reward: -653.02
+Episode: 54900, opp: random, total numsteps: 8929235, episode steps: 28, reward: 1025.27
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -149.26
+----------------------------------------
+Episode: 54950, opp: random, total numsteps: 8937118, episode steps: 70, reward: 1213.67
+Episode: 55000, opp: random, total numsteps: 8945156, episode steps: 64, reward: 1212.5
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -33.76
+----------------------------------------
+Episode: 55050, opp: random, total numsteps: 8953277, episode steps: 250, reward: 53.89
+Episode: 55100, opp: random, total numsteps: 8961501, episode steps: 102, reward: -1222.79
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 106.65
+----------------------------------------
+Episode: 55150, opp: random, total numsteps: 8968862, episode steps: 24, reward: 1041.51
+Episode: 55200, opp: random, total numsteps: 8976985, episode steps: 113, reward: -1045.49
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 75.02
+----------------------------------------
+Episode: 55250, opp: random, total numsteps: 8984314, episode steps: 25, reward: 1054.43
+Episode: 55300, opp: random, total numsteps: 8992663, episode steps: 116, reward: -1337.38
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 478.44
+----------------------------------------
+Episode: 55350, opp: random, total numsteps: 9000421, episode steps: 65, reward: 914.43
+Episode: 55400, opp: random, total numsteps: 9008419, episode steps: 24, reward: 1057.76
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 283.09
+----------------------------------------
+Episode: 55450, opp: random, total numsteps: 9016339, episode steps: 64, reward: -1178.9
+Episode: 55500, opp: random, total numsteps: 9023443, episode steps: 25, reward: 1048.1
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 290.99
+----------------------------------------
+Episode: 55550, opp: random, total numsteps: 9031732, episode steps: 56, reward: -1166.91
+Episode: 55600, opp: random, total numsteps: 9039230, episode steps: 81, reward: 1131.99
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 265.68
+----------------------------------------
+Episode: 55650, opp: random, total numsteps: 9046917, episode steps: 23, reward: 1060.71
+Episode: 55700, opp: random, total numsteps: 9054018, episode steps: 54, reward: 1122.71
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 150.93
+----------------------------------------
+Episode: 55750, opp: random, total numsteps: 9061023, episode steps: 25, reward: 1068.11
+Episode: 55800, opp: random, total numsteps: 9067632, episode steps: 49, reward: -1131.92
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 276.68
+----------------------------------------
+Episode: 55850, opp: random, total numsteps: 9074661, episode steps: 23, reward: 1047.97
+Episode: 55900, opp: random, total numsteps: 9082223, episode steps: 63, reward: 1096.58
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 74.12
+----------------------------------------
+Episode: 55950, opp: random, total numsteps: 9090708, episode steps: 24, reward: 1059.99
+Episode: 56000, opp: random, total numsteps: 9097780, episode steps: 24, reward: 1043.19
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 73.99
+----------------------------------------
+Episode: 56050, opp: random, total numsteps: 9105626, episode steps: 24, reward: 1077.05
+Episode: 56100, opp: random, total numsteps: 9113612, episode steps: 24, reward: 1065.02
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 21.6
+----------------------------------------
+Episode: 56150, opp: random, total numsteps: 9120956, episode steps: 23, reward: 1049.75
+Episode: 56200, opp: random, total numsteps: 9128431, episode steps: 154, reward: 810.15
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 52.76
+----------------------------------------
+Episode: 56250, opp: random, total numsteps: 9136154, episode steps: 250, reward: -225.48
+Episode: 56300, opp: random, total numsteps: 9144408, episode steps: 45, reward: -1135.61
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 37.77
+----------------------------------------
+Episode: 56350, opp: random, total numsteps: 9151620, episode steps: 46, reward: -1141.91
+Episode: 56400, opp: random, total numsteps: 9159142, episode steps: 122, reward: -1213.92
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 68.72
+----------------------------------------
+Episode: 56450, opp: random, total numsteps: 9166404, episode steps: 23, reward: 1048.39
+Episode: 56500, opp: random, total numsteps: 9175050, episode steps: 250, reward: -404.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 372.2
+----------------------------------------
+Episode: 56550, opp: random, total numsteps: 9182959, episode steps: 25, reward: 1028.75
+Episode: 56600, opp: random, total numsteps: 9190644, episode steps: 24, reward: 1071.98
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -107.79
+----------------------------------------
+Episode: 56650, opp: random, total numsteps: 9197665, episode steps: 210, reward: -1076.56
+Episode: 56700, opp: random, total numsteps: 9205314, episode steps: 196, reward: 1056.28
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -90.01
+----------------------------------------
+Episode: 56750, opp: random, total numsteps: 9213334, episode steps: 184, reward: 689.37
+Episode: 56800, opp: random, total numsteps: 9221537, episode steps: 56, reward: 1015.76
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 71.54
+----------------------------------------
+Episode: 56850, opp: random, total numsteps: 9228699, episode steps: 25, reward: 1029.87
+Episode: 56900, opp: random, total numsteps: 9236667, episode steps: 62, reward: 1122.02
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 47.8
+----------------------------------------
+Episode: 56950, opp: random, total numsteps: 9245119, episode steps: 70, reward: 1006.51
+Episode: 57000, opp: random, total numsteps: 9252273, episode steps: 56, reward: -1107.82
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 482.87
+----------------------------------------
+Episode: 57050, opp: random, total numsteps: 9260194, episode steps: 102, reward: -1329.05
+Episode: 57100, opp: random, total numsteps: 9268961, episode steps: 23, reward: 1054.17
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 18.64
+----------------------------------------
+Episode: 57150, opp: random, total numsteps: 9276143, episode steps: 107, reward: 1167.9
+Episode: 57200, opp: random, total numsteps: 9284575, episode steps: 115, reward: 898.53
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 138.67
+----------------------------------------
+Episode: 57250, opp: random, total numsteps: 9291494, episode steps: 81, reward: -1123.79
+Episode: 57300, opp: random, total numsteps: 9298413, episode steps: 23, reward: 1035.12
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -271.53
+----------------------------------------
+Episode: 57350, opp: random, total numsteps: 9305680, episode steps: 23, reward: 1065.85
+Episode: 57400, opp: random, total numsteps: 9313953, episode steps: 100, reward: 911.06
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 237.62
+----------------------------------------
+Episode: 57450, opp: random, total numsteps: 9321643, episode steps: 24, reward: 1039.88
+Episode: 57500, opp: random, total numsteps: 9329475, episode steps: 70, reward: 897.01
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 266.6
+----------------------------------------
+Episode: 57550, opp: random, total numsteps: 9336484, episode steps: 58, reward: -1211.64
+Episode: 57600, opp: random, total numsteps: 9344195, episode steps: 24, reward: 1055.73
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -510.63
+----------------------------------------
+Episode: 57650, opp: random, total numsteps: 9352287, episode steps: 119, reward: 984.97
+Episode: 57700, opp: random, total numsteps: 9359668, episode steps: 250, reward: 85.65
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -24.11
+----------------------------------------
+Episode: 57750, opp: random, total numsteps: 9367004, episode steps: 185, reward: -1641.84
+Episode: 57800, opp: random, total numsteps: 9374268, episode steps: 46, reward: 1024.01
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 80.14
+----------------------------------------
+Episode: 57850, opp: random, total numsteps: 9382698, episode steps: 42, reward: -1178.95
+Episode: 57900, opp: random, total numsteps: 9390320, episode steps: 68, reward: -1139.66
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -10.0
+----------------------------------------
+Episode: 57950, opp: random, total numsteps: 9397482, episode steps: 24, reward: 1044.94
+Episode: 58000, opp: random, total numsteps: 9404707, episode steps: 190, reward: 527.67
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -153.98
+----------------------------------------
+Episode: 58050, opp: random, total numsteps: 9411209, episode steps: 53, reward: 954.2
+Episode: 58100, opp: random, total numsteps: 9419580, episode steps: 163, reward: 708.86
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 44.78
+----------------------------------------
+Episode: 58150, opp: random, total numsteps: 9427515, episode steps: 58, reward: 1082.61
+Episode: 58200, opp: random, total numsteps: 9435246, episode steps: 109, reward: -1357.17
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 279.81
+----------------------------------------
+Episode: 58250, opp: random, total numsteps: 9442688, episode steps: 23, reward: 1065.75
+Episode: 58300, opp: random, total numsteps: 9449634, episode steps: 25, reward: 1055.65
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 369.3
+----------------------------------------
+Episode: 58350, opp: random, total numsteps: 9456971, episode steps: 64, reward: -1212.58
+Episode: 58400, opp: random, total numsteps: 9464448, episode steps: 185, reward: 1071.45
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -191.97
+----------------------------------------
+Episode: 58450, opp: random, total numsteps: 9471824, episode steps: 25, reward: 1031.41
+Episode: 58500, opp: random, total numsteps: 9478670, episode steps: 25, reward: 1051.01
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 177.96
+----------------------------------------
+Episode: 58550, opp: random, total numsteps: 9486005, episode steps: 60, reward: -1219.98
+Episode: 58600, opp: random, total numsteps: 9493065, episode steps: 91, reward: 990.08
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 60.75
+----------------------------------------
+Episode: 58650, opp: random, total numsteps: 9500358, episode steps: 25, reward: 1055.6
+Episode: 58700, opp: random, total numsteps: 9508058, episode steps: 93, reward: 1074.03
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 73.44
+----------------------------------------
+Episode: 58750, opp: random, total numsteps: 9516368, episode steps: 148, reward: -1258.16
+Episode: 58800, opp: random, total numsteps: 9524002, episode steps: 64, reward: -1252.51
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 159.74
+----------------------------------------
+Episode: 58850, opp: random, total numsteps: 9531830, episode steps: 146, reward: 401.56
+Episode: 58900, opp: random, total numsteps: 9538428, episode steps: 24, reward: 1043.93
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -302.33
+----------------------------------------
+Episode: 58950, opp: random, total numsteps: 9546246, episode steps: 147, reward: -1293.44
+Episode: 59000, opp: random, total numsteps: 9553890, episode steps: 25, reward: 1026.14
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -355.85
+----------------------------------------
+Episode: 59050, opp: random, total numsteps: 9562329, episode steps: 98, reward: 831.33
+Episode: 59100, opp: random, total numsteps: 9569488, episode steps: 62, reward: -1207.37
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -117.03
+----------------------------------------
+Episode: 59150, opp: random, total numsteps: 9576771, episode steps: 25, reward: 1036.11
+Episode: 59200, opp: random, total numsteps: 9583647, episode steps: 63, reward: -1245.83
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 346.42
+----------------------------------------
+Episode: 59250, opp: random, total numsteps: 9591018, episode steps: 23, reward: 1059.84
+Episode: 59300, opp: random, total numsteps: 9597509, episode steps: 23, reward: 1074.28
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 305.7
+----------------------------------------
+Episode: 59350, opp: random, total numsteps: 9605680, episode steps: 238, reward: 1236.09
+Episode: 59400, opp: random, total numsteps: 9613823, episode steps: 31, reward: 1038.91
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 209.7
+----------------------------------------
+Episode: 59450, opp: random, total numsteps: 9622188, episode steps: 24, reward: 1059.12
+Episode: 59500, opp: random, total numsteps: 9630719, episode steps: 187, reward: 1002.44
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 2.6
+----------------------------------------
+Episode: 59550, opp: random, total numsteps: 9639281, episode steps: 79, reward: -1183.98
+Episode: 59600, opp: random, total numsteps: 9647287, episode steps: 250, reward: -2218.4
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -564.95
+----------------------------------------
+Episode: 59650, opp: random, total numsteps: 9655504, episode steps: 149, reward: 863.18
+Episode: 59700, opp: random, total numsteps: 9663738, episode steps: 166, reward: 1040.12
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 621.21
+----------------------------------------
+Episode: 59750, opp: random, total numsteps: 9672688, episode steps: 110, reward: 914.35
+Episode: 59800, opp: random, total numsteps: 9681227, episode steps: 250, reward: -2577.25
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -2.35
+----------------------------------------
+Episode: 59850, opp: random, total numsteps: 9689429, episode steps: 24, reward: 1044.53
+Episode: 59900, opp: random, total numsteps: 9697475, episode steps: 28, reward: 1030.92
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 47.13
+----------------------------------------
+Episode: 59950, opp: random, total numsteps: 9705029, episode steps: 38, reward: 910.76
+Episode: 60000, opp: random, total numsteps: 9712424, episode steps: 221, reward: -2825.57
+Saving models to checkpoints/sac_checkpoint_hockey_vs_random_all_rew_ep_60000
+Saving buffer to checkpoints/sac_buffer_hockey_vs_random_all_rew_60000
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 157.82
+----------------------------------------
+Episode: 60050, opp: random, total numsteps: 9719823, episode steps: 116, reward: 336.99
+Episode: 60100, opp: random, total numsteps: 9727555, episode steps: 24, reward: 1041.64
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 278.83
+----------------------------------------
+Episode: 60150, opp: random, total numsteps: 9735909, episode steps: 63, reward: 871.24
+Episode: 60200, opp: random, total numsteps: 9743863, episode steps: 25, reward: 1063.77
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 57.36
+----------------------------------------
+Episode: 60250, opp: random, total numsteps: 9751998, episode steps: 23, reward: 1059.09
+Episode: 60300, opp: random, total numsteps: 9760315, episode steps: 244, reward: 121.2
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -86.36
+----------------------------------------
+Episode: 60350, opp: random, total numsteps: 9767798, episode steps: 250, reward: -3070.02
+Episode: 60400, opp: random, total numsteps: 9775368, episode steps: 250, reward: -2567.22
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -495.21
+----------------------------------------
+Episode: 60450, opp: random, total numsteps: 9783109, episode steps: 103, reward: 937.82
+Episode: 60500, opp: random, total numsteps: 9790578, episode steps: 25, reward: 1057.78
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 338.81
+----------------------------------------
+Episode: 60550, opp: random, total numsteps: 9798152, episode steps: 160, reward: -1180.81
+Episode: 60600, opp: random, total numsteps: 9806009, episode steps: 27, reward: 1062.57
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 41.8
+----------------------------------------
+Episode: 60650, opp: random, total numsteps: 9813991, episode steps: 73, reward: 945.94
+Episode: 60700, opp: random, total numsteps: 9822390, episode steps: 98, reward: 1142.66
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -306.71
+----------------------------------------
+Episode: 60750, opp: random, total numsteps: 9831239, episode steps: 250, reward: -217.86
+Episode: 60800, opp: random, total numsteps: 9839167, episode steps: 250, reward: -283.05
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 376.17
+----------------------------------------
+Episode: 60850, opp: random, total numsteps: 9846388, episode steps: 82, reward: 982.64
+Episode: 60900, opp: random, total numsteps: 9853665, episode steps: 58, reward: 1121.79
+----------------------------------------
+Test Episodes: 10, Avg. Reward: -51.26
+----------------------------------------
+Episode: 60950, opp: random, total numsteps: 9861320, episode steps: 91, reward: 1036.92
+Episode: 61000, opp: random, total numsteps: 9869786, episode steps: 250, reward: -145.93
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 107.3
+----------------------------------------
+Episode: 61050, opp: random, total numsteps: 9877942, episode steps: 25, reward: 1069.86
+Episode: 61100, opp: random, total numsteps: 9885655, episode steps: 250, reward: 232.17
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 15.75
+----------------------------------------
+Episode: 61150, opp: random, total numsteps: 9892710, episode steps: 48, reward: -1156.66
+Episode: 61200, opp: random, total numsteps: 9899988, episode steps: 34, reward: 1051.29
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 447.33
+----------------------------------------
+Episode: 61250, opp: random, total numsteps: 9907947, episode steps: 76, reward: -1029.58
+Episode: 61300, opp: random, total numsteps: 9915348, episode steps: 83, reward: 883.54
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 344.56
+----------------------------------------
+Episode: 61350, opp: random, total numsteps: 9922263, episode steps: 25, reward: 1061.93
+Episode: 61400, opp: random, total numsteps: 9929105, episode steps: 120, reward: -1428.42
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 276.27
+----------------------------------------
+Episode: 61450, opp: random, total numsteps: 9936920, episode steps: 160, reward: 604.68
+Episode: 61500, opp: random, total numsteps: 9943938, episode steps: 250, reward: 183.72
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 244.86
+----------------------------------------
+Episode: 61550, opp: random, total numsteps: 9951021, episode steps: 250, reward: -349.25
+Episode: 61600, opp: random, total numsteps: 9958020, episode steps: 23, reward: 1053.04
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 50.15
+----------------------------------------
+Episode: 61650, opp: random, total numsteps: 9965169, episode steps: 250, reward: -114.59
+Episode: 61700, opp: random, total numsteps: 9973240, episode steps: 249, reward: 906.79
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 284.87
+----------------------------------------
+Episode: 61750, opp: random, total numsteps: 9980621, episode steps: 36, reward: 1151.46
+Episode: 61800, opp: random, total numsteps: 9987133, episode steps: 84, reward: 849.77
+----------------------------------------
+Test Episodes: 10, Avg. Reward: 60.37
+----------------------------------------
+Episode: 61850, opp: random, total numsteps: 9995136, episode steps: 69, reward: -1317.37

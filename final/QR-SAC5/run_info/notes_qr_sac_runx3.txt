@@ -1,0 +1,23 @@
+- starte mit qr-sac-runx
+- QR-SAC vs siehe unten
+- qr_sac_run6 wird alle 30k durch sich selbst ersetzt
+- alle rewards sind angestellt: closenes to puck, touch puck, puck direction
+- lasse es für ca 3 Tage laufen / ~ 100.000 Epochen / ~ 10.000.000 steps 
+- für args siehe qr_sac_runx_args.pkl
+- + layer normalization
+- reward * 100
+- Agent hat 4 outputs und im Buffer wird nur Aktion vom agent gespeichert 
+- testing jeweils 5 eps gegen de letzten 4 der oben genannte gegner
+
+
+def which_opp(episode):
+    if ((episode // 1000) % 5) == 0:
+        return weak_opp, "weak_opp"
+    if ((episode // 1000) % 5) == 1:
+        return strong_opp, "strong_opp"
+    if ((episode // 1000) % 5) == 2:
+        return qr_sac_run6, "qr_sac_run6"
+    if ((episode // 1000) % 5) == 3:
+        return sac_run3, "sac_run3"
+    if ((episode // 1000) % 5) == 4:
+        return sac_strong, "sac_strong"

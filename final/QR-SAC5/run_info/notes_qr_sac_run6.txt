@@ -1,0 +1,9 @@
+- starte mit qr-sac-run5
+- QR-SAC vs self und vs sac_strong: erste 3000 episoden gegen self, dann sac_strong
+- alle rewards sind angestellt: closenes to puck, touch puck, puck direction
+- lasse es für 23 h laufen / ~ 45.000 Epochen / ~ 4.000.000 steps 
+- für args siehe qr_sac_run5_args.pkl
+- + layer normalization
+- reward * 100
+- Agent hat 4 outputs und im Buffer wird nur Aktion vom agent gespeichert 
+- testing vs sac_strong
