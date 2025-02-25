@@ -14,3 +14,7 @@ Detailed descriptions will be provided in the respective folders.
 Our implementation of SAC (and therefore all of the other algorithms) is based on [this](https://github.com/pranz24/pytorch-soft-actor-critic/tree/master) implementation.
 
 [Gif mit unserem besten Agent vs strong opp?]
+
+TO DO: 
+- check all READMEs 
+- is everything clear?
