@@ -7,6 +7,7 @@ In the folder final you can find our code for:
 - QR-SAC5 (extension of SAC)
 - SAC-HER (...)
 - SIMBA (...)
+- testing (examples of how we tested our agents)
 
 In the archive folder, you can find older versions of our code. 
 Detailed descriptions will be provided in the respective folders.
