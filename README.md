@@ -9,6 +9,8 @@ In the folder final you can find our code for:
 - SIMBA (...)
 
 In the archive folder, you can find older versions of our code. 
-Detailed descriptions will bei provided in th respective folders. 
+Detailed descriptions will be provided in the respective folders.
+
+Our implementation of SAC (and therefore all of te other algorithms) is based on [this](https://github.com/pranz24/pytorch-soft-actor-critic/tree/master) implementation.
 
 [Gif mit unserem besten Agent vs strong opp?]
