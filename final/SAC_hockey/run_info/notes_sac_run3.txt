@@ -1,0 +1,9 @@
+- starte mit sac_strong
+- SAC vs self
+- alle rewards sind angestellt: closenes to puck, touch puck, puck direction
+- lasse es für 19 h laufen / ~ 45.000 Epochen / ~ 3.000.000 steps 
+- für args siehe sac_run3_args.pkl
+- + layer normalization
+- reward * 100
+- Agent hat 4 outputs und im Buffer wird nur Aktion vom agent gespeichert 
+- testing vs sac_strong

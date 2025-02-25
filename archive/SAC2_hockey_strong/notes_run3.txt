@@ -1,0 +1,8 @@
+- SAC immer für 2000 eps vs strong opp, dann für 1000 eps vs self
+- alle rewards sind angestellt: closenes to puck, touch puck, puck direction
+- lasse es für 21 h laufen / ~ 35000 Epochen / ~ 3.000.000 steps 
+- alle pars.args auf Default (--cude und -- num_steps = 3000001)
+- + layer normalization
+- reward * 100
+- Agent hat 4 outputs und im Buffer wird nur Aktion vom agent gespeichert 
+- getestet wird gegen strong opp

@@ -1,0 +1,7 @@
+- SAC vs weak agent
+- alle rewards sind angestellt: closenes to puck, touch puck, puck direction
+- lasse es für 20 h laufen / ~ 75000 Epochen / ~ 3.000.000 steps 
+- alle pars.args auf Default (--cude und -- num_steps = 3000001)
+- + layer normalization
+- reward * 100
+- Agent hat 4 outputs und im Buffer wird nur Aktion vom agent gespeichert 
