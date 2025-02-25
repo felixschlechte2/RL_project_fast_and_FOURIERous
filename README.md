@@ -9,3 +9,5 @@ In the folder final you can find our code for:
 
 In the archive folder, you can find older versions of our code. 
 Detailed descriptions will bei provided in th respective folders. 
+
+[Gif mit unserem besten Agent vs strong opp?]
