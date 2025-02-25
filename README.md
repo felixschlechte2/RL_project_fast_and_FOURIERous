@@ -4,7 +4,7 @@ In the folder final you can find our code for:
 - SAC_pendulum (first attempts on Pendulum environment)
 - SAC_hockey (first attmpts on Hockey environment)
 - SAC-RNN2 (SAC combined with an RNN architecture)
-- QR-SAC (extension of SAC)
+- QR-SAC5 (extension of SAC)
 - SAC-HER (...)
 - SIMBA (...)
 
@@ -18,3 +18,4 @@ Our implementation of SAC (and therefore all of the other algorithms) is based o
 TO DO: 
 - check all READMEs 
 - is everything clear?
+- add how to test an agent? / how to see view statistics? 
