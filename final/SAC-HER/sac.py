@@ -5,7 +5,6 @@ from torch.optim import Adam # type: ignore
 from utils import soft_update, hard_update
 from model import GaussianPolicy, QNetwork, DeterministicPolicy
 import numpy as np # type: ignore
-import time #here
 
 class SAC(object):
     def __init__(self, num_inputs, action_space, args):
@@ -50,7 +49,6 @@ class SAC(object):
             _, _, action = self.policy.sample(state)
         return action.detach().cpu().numpy()[0]
     
-    #new here just updated inputs basically
     def update_parameters(self, memory, batch_size, updates):
         states, actions, rewards, next_states, goals = memory.sample(batch_size)
 
@@ -124,7 +122,7 @@ class SAC(object):
     def load_checkpoint(self, ckpt_path, evaluate=False):
         print('Loading models from {}'.format(ckpt_path))
         if ckpt_path is not None:
-            checkpoint = torch.load(ckpt_path, weights_only=True, map_location=torch.device('cpu')) # hier : added weights_only and map_location
+            checkpoint = torch.load(ckpt_path, weights_only=True, map_location=torch.device('cpu'))
             self.policy.load_state_dict(checkpoint['policy_state_dict'])
             self.critic.load_state_dict(checkpoint['critic_state_dict'])
             self.critic_target.load_state_dict(checkpoint['critic_target_state_dict'])
