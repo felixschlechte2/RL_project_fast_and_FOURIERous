@@ -1,6 +1,6 @@
 import argparse
 import datetime
-import gymnasium as gym # type: ignore # hier : vorher nur gym
+import gymnasium as gym # type: ignore 
 import numpy as np # type: ignore
 import itertools
 import torch # type: ignore
@@ -9,11 +9,11 @@ from tensorboardX import SummaryWriter # type: ignore
 from replay_memory import ReplayMemory
 import random
 from ELO import Elo, decay_elos
-import hockey.hockey_env as h_env # hier 
-from gymnasium import spaces # type: ignore # hier 
+import hockey.hockey_env as h_env 
+from gymnasium import spaces # type: ignore 
 import pickle as pkl
 
-env = h_env.HockeyEnv() # hier
+env = h_env.HockeyEnv() 
 
 # configuration of actor and critic architecture
 actor = "mlp"
@@ -107,16 +107,15 @@ agent = SAC(env.observation_space.shape[0]+2, action_space_p1,1,actor,critic, ar
 
 # Opponents
 self_play = SAC(env.observation_space.shape[0]+2, action_space_p1,1,actor,critic, args)
-player2_weak = h_env.BasicOpponent() #here
-player2_strong = h_env.BasicOpponent(weak = False) #here
-
+player2_weak = h_env.BasicOpponent() 
+player2_strong = h_env.BasicOpponent(weak = False) 
 
 # Tensorboard
 writer = SummaryWriter('runs/{}_SAC_{}_{}_{}'.format(datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S"), "hockey_vs_rand_all_rew",
                                                              args.policy, "autotune" if args.automatic_entropy_tuning else ""))
 
 # Memory
-memory = ReplayMemory(args.replay_size,4,env, args.seed) #here added env, k_future
+memory = ReplayMemory(args.replay_size,4,env, args.seed)
 
 # Training Loop
 total_numsteps = 0
@@ -140,11 +139,11 @@ for i_episode in itertools.count(1):
     episode_reward = 0
     episode_steps = 0
     done = False
-    state = env.reset()[0] # hier das [0]
+    state = env.reset()[0] 
     if opponent != None:
-        obs_opp = env.obs_agent_two() #here
+        obs_opp = env.obs_agent_two() 
 
-    # different replay buffer for HER #here
+    # different replay buffer for HER 
     episode_dict = { 
                     "state": [],
                     "achieved_goal": [],
@@ -157,7 +156,7 @@ for i_episode in itertools.count(1):
         # random action for the first args.start_steps for exploration after that select_action 
         if args.start_steps > total_numsteps:
             action = env.action_space.sample()  # Sample random action
-            action_agent = action[:4] # hier 
+            action_agent = action[:4] 
         else:
             action_agent = agent.select_action(np.concatenate([state, np.array(episode_dict["desired_goal"])], axis=0))
 
@@ -186,12 +185,12 @@ for i_episode in itertools.count(1):
                 log_pis.append(log_pi_mean) 
                 # qs.append(critic_1_loss)
 
-        next_state, reward, done, _, info = env.step(action) # Step # hier das zweite _ #here info
+        next_state, reward, done, _, info = env.step(action) 
 
         if opponent != None:
-            obs_opp = env.obs_agent_two() #here
+            obs_opp = env.obs_agent_two() 
         
-        reward *= 100   # hier wurde diese zeile hinzugefügt. numerische Stabilität?
+        reward *= 100  
         episode_steps += 1
         total_numsteps += 1
         episode_reward += reward
@@ -199,27 +198,27 @@ for i_episode in itertools.count(1):
         # Ignore the "done" signal if it comes from hitting the time horizon.
         # (https://github.com/openai/spinningup/blob/master/spinup/algos/sac/sac.py)
         mask = 1 if episode_steps == env.max_timesteps else float(not done)
-        done = 1 if episode_steps == env.max_timesteps else float(done) # hier diese Zeile wurde hinzugefügt
+        done = 1 if episode_steps == env.max_timesteps else float(done) 
         
-        episode_dict['state'].append(state) #here
-        episode_dict['achieved_goal'].append(next_state[12:14]) #here
-        episode_dict['next_state'].append(next_state)#here
-        episode_dict['action'].append(action_agent) #here
-        episode_dict['reward'].append(reward) #here
+        episode_dict['state'].append(state) 
+        episode_dict['achieved_goal'].append(next_state[12:14]) 
+        episode_dict['next_state'].append(next_state)
+        episode_dict['action'].append(action_agent) 
+        episode_dict['reward'].append(reward) 
 
         state = next_state
         if done:
             break
     
-    # update score #here
+    # update score 
     score[info["winner"]+1] +=1
 
-    # update Elo, when the Elo System is activate  #here
+    # update Elo, when the Elo System is activate  
     if ELO_activation:
-        Elos[4], Elos[current_opp] = Elo(Elos[4],Elos[current_opp], (info["winner"]+1)/2) #here
+        Elos[4], Elos[current_opp] = Elo(Elos[4],Elos[current_opp], (info["winner"]+1)/2) 
         Elos[3] = decay_elos([Elos[3]])[0]
     
-    # add to replay buffer #here
+    # add to replay buffer 
     memory.push(episode_dict)
 
     # comparison statistic
@@ -231,49 +230,50 @@ for i_episode in itertools.count(1):
         break
 
     writer.add_scalar('reward/train', episode_reward, i_episode)
-    # log/ print every 10 episodes # hier diese Zeile
+    # log/ print every 10 episodes 
     if i_episode % 10 == 0:
         print("Episode: {}, total numsteps: {}, win_percentage: {}".format(i_episode, total_numsteps, score[2]/sum(score)))
         log("Episode: {}, total numsteps: {}, win_percentage: {}".format(i_episode, total_numsteps, score[2]/sum(score)))
 
-    test_interval = 100 # hier : Intervall wann getestet werden soll
+
+    test_interval = 100 
     if i_episode % test_interval == 0 and args.eval is True:
-        score = [0,0,0] #here
+        score = [0,0,0] 
         if i_episode % 10000 == 0:
-            memory.save_buffer(f"{i_episode}_{suffix}") # hier #here 
+            memory.save_buffer(f"{i_episode}_{suffix}") 
         avg_reward = 0.
         episodes = 10
         for _  in range(episodes):
-            state = env.reset()[0] # hier: das [0]
+            state = env.reset()[0] 
             if opponent != None:
                 obs_opp = env.obs_agent_two()
             episode_reward = 0
             done = False
             while not done:
-                action_agent = agent.select_action(np.concatenate([state, np.array([3.7, 0])], axis=0), evaluate =True) #here# [:4] # hier # Sample action from policy
+                action_agent = agent.select_action(np.concatenate([state, np.array([3.7, 0])], axis=0), evaluate =True) 
                 if opponent == None:
                     action_opp = np.random.uniform(-1,1,4) 
                 elif opponent in [player2_weak,player2_strong]:
-                    action_opp = opponent.act(obs_opp) #here
+                    action_opp = opponent.act(obs_opp) 
                 else:
-                    action_opp = opponent.select_action(np.concatenate([obs_opp, np.array([3.7, 0])], axis=0)) # here
+                    action_opp = opponent.select_action(np.concatenate([obs_opp, np.array([3.7, 0])], axis=0)) 
 
                 action = np.hstack((action_agent, action_opp))
 
                 next_state, reward, done, _, info = env.step(action)
 
                 if opponent != None:
-                    obs_opp = env.obs_agent_two() #here
+                    obs_opp = env.obs_agent_two() 
                 
-                reward *= 100 # hier 
+                reward *= 100 
                 episode_reward += reward
-                done = 1 if episode_steps == env.max_timesteps else float(done) # hier diese Zeile wurde hinzugefügt
+                done = 1 if episode_steps == env.max_timesteps else float(done) 
                 if done:
                     break
 
                 state = next_state
             avg_reward += episode_reward
-            score[info["winner"]+1] +=1 #here
+            score[info["winner"]+1] +=1 
         avg_reward /= episodes
         test_stats.save_data(['episode', 'avg_reward/test'], [i_episode,avg_reward])
 
@@ -281,9 +281,9 @@ for i_episode in itertools.count(1):
         writer.add_scalar('avg_reward/test', avg_reward, i_episode)
 
         if i_episode % 200 == 0:
-            test_stats.save_statistics() #here
-            compare_stats.save_statistics() #here
-            agent.save_checkpoint(suffix=f"{i_episode}_{suffix}") # hier
+            test_stats.save_statistics() 
+            compare_stats.save_statistics() 
+            agent.save_checkpoint(suffix=f"{i_episode}_{suffix}") 
 
         # log to see the process
         if current_opp == 0:
@@ -309,7 +309,7 @@ for i_episode in itertools.count(1):
             log("****************************************")
             log(f"NOW THE ELO-SYSTEM IS STARTING. CURRENT ELO: {Elos[4]}")
             log("****************************************")
-    
+
     # choosing which agent to use before Elo system
     if i_episode % test_interval == 0 and args.eval is True and not ELO_activation:
         #choose other agent if winrate is too high or too low
@@ -327,7 +327,7 @@ for i_episode in itertools.count(1):
 
     # Elo system
     if i_episode % test_interval == 0 and args.eval is True and ELO_activation:
-        num_opponents = 7
+        num_opponents = 3
         # epsilon greedy strategy to choose next opponent
         if random.random() <= args.epsilon:
             current_opp =random.randint(1,num_opponents)
@@ -346,9 +346,10 @@ for i_episode in itertools.count(1):
                 
         #reset score
         score = [0,0,0]
+
     # update self_play opponent 
     if i_episode % 400 == 0:
-        self_play.load_checkpoint(rf"./checkpoints/SAC_{i_episode}_{suffix}", True) #here
+        self_play.load_checkpoint(rf"./checkpoints/SAC_{i_episode}_{suffix}", True) 
         Elos[3] = Elos[4]
 
 env.close()
