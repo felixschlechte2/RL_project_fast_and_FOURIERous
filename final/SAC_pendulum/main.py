@@ -1,6 +1,6 @@
 import argparse
 import datetime
-import gymnasium as gym # hier : vorher nur gym
+import gymnasium as gym 
 import numpy as np
 import itertools
 import torch
@@ -46,7 +46,7 @@ parser.add_argument('--cuda', action="store_true",
                     help='run on CUDA (default: False)')
 args = parser.parse_args()
 
-# hier :
+
 # checkpoint_path = r"C:/Users/Home/Documents/M. Sc. ML/Reinforcement Learning/ExcercisesGitHub/exercises mit venv/project_code/models/SAC2/results/" # C:\Users\Home\Documents\M. Sc. ML\Reinforcement Learning\ExcercisesGitHub\exercises mit venv\project_code\models\SAC2\results
 
 # Environment
@@ -72,13 +72,13 @@ memory = ReplayMemory(args.replay_size, args.seed)
 total_numsteps = 0
 updates = 0
 
-agent.save_checkpoint(args.env_name, suffix=f"ep_{0}") # hier
+agent.save_checkpoint(args.env_name, suffix=f"ep_{0}") 
 
 for i_episode in itertools.count(1):
     episode_reward = 0
     episode_steps = 0
     done = False
-    state = env.reset()[0] # hier das [0]
+    state = env.reset()[0] 
 
     while not done:
         if args.start_steps > total_numsteps:
@@ -99,7 +99,7 @@ for i_episode in itertools.count(1):
                 writer.add_scalar('entropy_temprature/alpha', alpha, updates)
                 updates += 1
 
-        next_state, reward, done, _, _ = env.step(action) # Step # hier das zweite _
+        next_state, reward, done, _, _ = env.step(action) 
         episode_steps += 1
         total_numsteps += 1
         episode_reward += reward
@@ -107,7 +107,7 @@ for i_episode in itertools.count(1):
         # Ignore the "done" signal if it comes from hitting the time horizon.
         # (https://github.com/openai/spinningup/blob/master/spinup/algos/sac/sac.py)
         mask = 1 if episode_steps == env._max_episode_steps else float(not done)
-        done = 1 if episode_steps == env._max_episode_steps else float(done) # hier diese Zeile wurde hinzugefügt
+        done = 1 if episode_steps == env._max_episode_steps else float(done) 
 
         memory.push(state, action, reward, next_state, mask) # Append transition to memory
 
@@ -117,15 +117,15 @@ for i_episode in itertools.count(1):
         break
 
     writer.add_scalar('reward/train', episode_reward, i_episode)
-    if i_episode % 10 == 0: # hier diese Zeile
+    if i_episode % 10 == 0: 
         print("Episode: {}, total numsteps: {}, episode steps: {}, reward: {}".format(i_episode, total_numsteps, episode_steps, round(episode_reward, 2)))
 
-    test_interval = 100 # hier : Interval wann getestet werden soll
+    test_interval = 100 # Interval wann getestet werden soll
     if i_episode % test_interval == 0 and args.eval is True:
         avg_reward = 0.
         episodes = 10
         for _  in range(episodes):
-            state = env.reset()[0] # hier: das [0]
+            state = env.reset()[0] 
             episode_reward = 0
             done = False
             while not done:
@@ -133,7 +133,7 @@ for i_episode in itertools.count(1):
 
                 next_state, reward, done, _, _ = env.step(action)
                 episode_reward += reward
-                done = 1 if episode_steps == env._max_episode_steps else float(done) # hier diese Zeile wurde hinzugefügt
+                done = 1 if episode_steps == env._max_episode_steps else float(done) 
 
 
                 state = next_state
@@ -143,7 +143,7 @@ for i_episode in itertools.count(1):
 
         writer.add_scalar('avg_reward/test', avg_reward, i_episode)
 
-        agent.save_checkpoint(args.env_name, suffix=f"ep_{i_episode}") # hier
+        agent.save_checkpoint(args.env_name, suffix=f"ep_{i_episode}") 
 
         print("----------------------------------------")
         print("Test Episodes: {}, Avg. Reward: {}".format(episodes, round(avg_reward, 2)))
