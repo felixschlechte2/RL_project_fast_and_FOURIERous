@@ -7,4 +7,4 @@ First attempts of SAC on the Pendulum environment. SAC (sac_checkpoint_Pendulum-
 
 remarks: 
 - see [test.py](./test.py) for testing the agent
-- runs privides statistics about the training run and can be viewed with `tensorboard --logdir=runs`
+- [runs](./runs/) provides statistics about the training run and can be viewed with `tensorboard --logdir=runs`
