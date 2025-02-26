@@ -14,18 +14,18 @@ class MLPBlock(nn.Module):
         super().__init__()
         self.fc1 = nn.Linear(dim, hidden_dim)
         self.fc2 = nn.Linear(hidden_dim, hidden_dim)
-        self.layer_norm1 = nn.LayerNorm(hidden_dim) # here
-        self.layer_norm2 = nn.LayerNorm(hidden_dim) # here
+        self.layer_norm1 = nn.LayerNorm(hidden_dim) 
+        self.layer_norm2 = nn.LayerNorm(hidden_dim) 
         
         self.activation = nn.ReLU()
         self.apply(weights_init_)
 
     def forward(self, x):
         x = self.fc1(x)
-        x = self.layer_norm1(x) #here
+        x = self.layer_norm1(x)
         x = self.activation(x)
         x = self.fc2(x) 
-        x = self.layer_norm2(x) #here
+        x = self.layer_norm2(x)
         x = self.activation(x)
         return x
 
@@ -77,7 +77,7 @@ class SACEncoder(nn.Module):
             x = self.input_layer(x)
             for block in self.blocks:
                 x = block(x)
-            #x = self.norm(x) #here
+            #x = self.norm(x) 
         return x
     
 
@@ -99,7 +99,7 @@ class NormalTanhPolicy(nn.Module):
         #std = log_std.exp() * temperature
         #dist = Normal(mean, std)
 
-        return  mean, log_std #dist #here
+        return  mean, log_std #dist 
 
 
 class SACActor(nn.Module):
