@@ -91,7 +91,7 @@ class NormalTanhPolicy(nn.Module):
         #std = log_std.exp() * temperature 
         #dist = Normal(mean, std)
 
-        return  mean, log_std #dist #here
+        return  mean, log_std #dist 
 
 
 class SACActor(nn.Module):
