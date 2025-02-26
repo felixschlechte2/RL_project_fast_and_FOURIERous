@@ -1,6 +1,6 @@
 ## SAC-SimBa on Hockey Environment
 
-![SAC-SimBa vs strong opponent](../../assets/SimBa_vs_strong_opp.gif)
+![SAC-SimBa vs strong opponent](../../assets/SimBa_vs_strong_opp.gif)  
 *SAC-SimBa (red) vs strong opponent (blue)*
 
 Here you can see the agent from checkpoint SAC_23600_auto from [checkpoints](./checkpoints/). 

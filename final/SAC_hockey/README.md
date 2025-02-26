@@ -1,6 +1,6 @@
 ## plain SAC on Hockey environment
 
-![SAC vs strong opponent](../../assets/sac_strong_vs_strong_opp.gif)
+![SAC vs strong opponent](../../assets/sac_strong_vs_strong_opp.gif)  
 *SAC (red) vs strong opponent (blue)*
 
 Here you can see the agent from checkpoint sac_strong from [old_models](./old_models/). In [run_info](./run_info/) you can find notes, the log file and the arguments/hyperparamter for each training run.
