@@ -1,7 +1,7 @@
 import random
 import numpy as np
-import os  # hier 
-import pickle  # hier 
+import os  
+import pickle 
 from utils import log, run_name
 
 
@@ -12,13 +12,13 @@ class ReplayMemory:
         self.buffer = []
         self.position = 0
 
-    def push(self, input): # hier : state, action, reward, next_state, done
+    def push(self, input): 
         if len(self.buffer) < self.capacity:
             self.buffer.append(None)
-        self.buffer[self.position] = input # hier : (state, action, reward, next_state, done)
+        self.buffer[self.position] = input 
         self.position = (self.position + 1) % self.capacity
 
-    def sample(self, batch_size, gamma, N_STEP): # hier : ganze Funktion
+    def sample(self, batch_size, gamma, N_STEP): 
         batch = random.sample(self.buffer, batch_size)
         # state, action, reward, next_state, done = map(np.stack, zip(*batch))
         discounting = np.power(gamma, np.arange(N_STEP))

@@ -52,11 +52,11 @@ parser.add_argument('--replay_size', type=int, default=1000000, metavar='N',
 parser.add_argument('--cuda', action="store_true",
                     help='run on CUDA (default: False)')
 parser.add_argument('--trajectory_length', type=int, default=7, metavar='N',
-                    help='length of trajectory that is captured (default: 7)') # hier 
+                    help='length of trajectory that is captured (default: 7)') 
 parser.add_argument('--num_quantile', type=int, default=16, metavar='N',
-                    help='number of quantiles (default: 16)') # hier 
+                    help='number of quantiles (default: 16)') 
 parser.add_argument('--log_test_save', type=int, nargs=3, default=[50,100,1000], metavar='N',
-                    help='intervals for logs, testing, saving (default: [10,100,1000])') # hier
+                    help='intervals for logs, testing, saving (default: [10,100,1000])')
 args = parser.parse_args()
 
 env = h_env.HockeyEnv()

@@ -4,7 +4,6 @@ import pickle as pkl
 
 run_name = "qr_sac_run_cheat"
 
-# hier: log und statistics
 def log(log):
     log_file = f"./run_info/log_file_{run_name}.txt"
     with open(log_file, "a") as file:

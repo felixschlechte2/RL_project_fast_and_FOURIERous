@@ -1,6 +1,6 @@
 import argparse
 import datetime
-import gymnasium as gym # hier : vorher nur gym
+import gymnasium as gym 
 import numpy as np
 import itertools
 import torch
@@ -9,13 +9,13 @@ from sac import SAC
 # from torch.utils.tensorboardx import SummaryWriter
 from tensorboardX import SummaryWriter
 from qr_replay_memory import ReplayMemory
-import pickle as pkl # hier 
+import pickle as pkl 
 from utils import log, run_name, statistics
 
-import hockey.hockey_env as h_env # hier 
-from gymnasium import spaces # hier 
+import hockey.hockey_env as h_env 
+from gymnasium import spaces 
 
-env = h_env.HockeyEnv() # hier
+env = h_env.HockeyEnv() 
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print(device)
@@ -42,7 +42,7 @@ parser.add_argument('--automatic_entropy_tuning', type=bool, default=False, meta
 parser.add_argument('--seed', type=int, default=123456, metavar='N',
                     help='random seed (default: 123456)')
 parser.add_argument('--batch_size', type=int, default=256, metavar='N',
-                    help='batch size (default: 256)')  # hier : vorher 256
+                    help='batch size (default: 256)')  
 parser.add_argument('--num_steps', type=int, default=1000001, metavar='N',
                     help='maximum number of steps (default: 1000000)')
 parser.add_argument('--hidden_size', type=int, default=256, metavar='N',
@@ -58,11 +58,11 @@ parser.add_argument('--replay_size', type=int, default=1000000, metavar='N',
 parser.add_argument('--cuda', action="store_true",
                     help='run on CUDA (default: False)')
 parser.add_argument('--trajectory_length', type=int, default=7, metavar='N',
-                    help='length of trajectory that is captured (default: 7)') # hier 
+                    help='length of trajectory that is captured (default: 7)') 
 parser.add_argument('--num_quantile', type=int, default=16, metavar='N',
-                    help='number of quantiles (default: 16)') # hier 
+                    help='number of quantiles (default: 16)') 
 parser.add_argument('--log_test_save', type=int, nargs=3, default=[50,100,1000], metavar='N',
-                    help='intervals for logs, testing, saving (default: [10,100,1000])') # hier 
+                    help='intervals for logs, testing, saving (default: [10,100,1000])') 
 args = parser.parse_args()
 
 args.env_name = "hockey_vs_7_all_rew"
@@ -73,29 +73,28 @@ with open(f"./run_info/{run_name}_args.pkl", "wb") as f:
 episode_stats = statistics(["episode", "reward", "opponent"], fr"./runs/stats_{args.env_name}-{run_name}_episode.pkl")
 test_stats = statistics(['episode', 'avg_reward/test'], fr"./runs/stats_{args.env_name}-{run_name}_test.pkl")
 
-# hier diese funktion:
 def rollout_loop(env, agent1, agent2, memory, total_numsteps):
     episode_reward = 0
     episode_steps = 0
     done = False
-    state = env.reset()[0] # hier das [0]
-    obs_agent2 = env.obs_agent_two() # hier 
+    state = env.reset()[0] 
+    obs_agent2 = env.obs_agent_two() 
     
     trajectory = []
     while not done:
         if args.start_steps > total_numsteps:
             action = env.action_space.sample()  # Sample random action
-            action_agent = action[:4] # hier 
+            action_agent = action[:4] 
         else:
-            action_agent = agent1.act(state)# [:4] # hier # Sample action from policy
+            action_agent = agent1.act(state)# [:4] # Sample action from policy
             if agent2 == "random":
                 action_opp = np.random.uniform(-1,1,4)
             else:
                 action_opp = agent2.act(obs_agent2) 
             action = np.hstack((action_agent, action_opp))
 
-        next_state, reward, done, _, _ = env.step(action) # Step # hier das zweite _
-        reward *= 100   # hier wurde diese zeile hinzugefügt. numerische Stabilität?
+        next_state, reward, done, _, _ = env.step(action) # Step 
+        reward *= 100 
         episode_steps += 1
         total_numsteps += 1
         episode_reward += reward
@@ -103,20 +102,20 @@ def rollout_loop(env, agent1, agent2, memory, total_numsteps):
         # Ignore the "done" signal if it comes from hitting the time horizon.
         # (https://github.com/openai/spinningup/blob/master/spinup/algos/sac/sac.py)
         mask = 1 if episode_steps == env.max_timesteps else float(not done)
-        done = 1 if episode_steps == env.max_timesteps else float(done) # hier diese Zeile wurde hinzugefügt
+        done = 1 if episode_steps == env.max_timesteps else float(done) 
 
         trajectory.append((state, action_agent, reward, next_state, mask))
 
         state = next_state
-        obs_agent2 = env.obs_agent_two() # hier
+        obs_agent2 = env.obs_agent_two() 
     while len(trajectory) >= args.trajectory_length: # assume one rollout is longer than trajectory_length!! 
         N = args.trajectory_length
         subtraj = trajectory[-N:]
         trajectory = trajectory[:-N]
-        memory.push(subtraj) # Append N-step subtrajectory to memory # hier 
+        memory.push(subtraj) # Append N-step subtrajectory to memory 
     return episode_reward, episode_steps
 
-# hier : 
+
 def testing(env, i_episode, agent1, agent2, test_episodes, writer):
     """
     tests agent
@@ -124,12 +123,12 @@ def testing(env, i_episode, agent1, agent2, test_episodes, writer):
     avg_reward = 0.
     for _ in range(test_episodes):
         episode_steps = 0
-        state = env.reset()[0] # hier: das [0]
-        obs_agent2 = env.obs_agent_two() # hier
+        state = env.reset()[0] 
+        obs_agent2 = env.obs_agent_two() 
         episode_reward = 0
         done = False
         while not done:
-            action_agent = agent1.act(state, evaluate=True)# [:4] # hier # Sample action from policy
+            action_agent = agent1.act(state, evaluate=True)# [:4]  # Sample action from policy
             if agent2 == "random":
                 action_opp = np.random.uniform(-1,1,4)
             else:
@@ -137,11 +136,11 @@ def testing(env, i_episode, agent1, agent2, test_episodes, writer):
             action = np.hstack((action_agent, action_opp))
             next_state, reward, done, _, _ = env.step(action)
             episode_steps += 1  
-            reward *= 100 # hier 
+            reward *= 100 
             episode_reward += reward
-            done = 1 if episode_steps == env.max_timesteps else float(done) # hier diese Zeile wurde hinzugefügt
+            done = 1 if episode_steps == env.max_timesteps else float(done) 
             state = next_state
-            obs_agent2 = env.obs_agent_two() # hier
+            obs_agent2 = env.obs_agent_two() 
         avg_reward += episode_reward
     avg_reward /= test_episodes
 
@@ -157,7 +156,6 @@ def testing(env, i_episode, agent1, agent2, test_episodes, writer):
 
     return avg_reward
 
-# hier :
 # checkpoint_path = r"C:/Users/Home/Documents/M. Sc. ML/Reinforcement Learning/ExcercisesGitHub/exercises mit venv/project_code/models/SAC2/results/" # C:\Users\Home\Documents\M. Sc. ML\Reinforcement Learning\ExcercisesGitHub\exercises mit venv\project_code\models\SAC2\results
 
 # Environment
@@ -173,7 +171,7 @@ def testing(env, i_episode, agent1, agent2, test_episodes, writer):
 action_space_p1 = spaces.Box(-1, +1, (4,), dtype=np.float32)
 agent = QRSAC(env.observation_space.shape[0], action_space_p1, args)# env.action_space
 
-# hier bis writer :
+# load and define models
 p = "./old_models/"
 model_path = p + "qr_sac_runx"
 agent.load_checkpoint(model_path)
@@ -200,7 +198,7 @@ memory = ReplayMemory(args.replay_size, args.seed)
 total_numsteps = 0
 updates = 0
 
-# agent.save_checkpoint(args.env_name, args, suffix=f"ep_{0}") # hier
+# agent.save_checkpoint(args.env_name, args, suffix=f"ep_{0}")
 def which_opp(episode):
     if ((episode // 1000) % 4) == 0:
         return strong_opp, "strong_opp"
@@ -234,11 +232,11 @@ for i_episode in itertools.count(1):
         break
 
     writer.add_scalar('reward/train', episode_reward, i_episode)
-    if i_episode % args.log_test_save[0] == 0: # hier diese Zeile
+    if i_episode % args.log_test_save[0] == 0: 
         print("Episode: {}, opp: {}, total numsteps: {}, episode steps: {}, reward: {}".format(i_episode, opp_name, total_numsteps, episode_steps, round(episode_reward, 2)))
         log("Episode: {}, opp: {}, total numsteps: {}, episode steps: {}, reward: {}".format(i_episode, opp_name, total_numsteps, episode_steps, round(episode_reward, 2)))
 
-    # hier : Intervall wann getestet werden soll
+    # Intervall wann getestet werden soll
     if i_episode % args.log_test_save[1] == 0 and args.eval is True: 
         a = testing(env, i_episode, agent, strong_opp, 5, writer) # modify: anzahl test episodes and saving interval (see def of function)
         b = testing(env, i_episode, agent, qr_sac_run6, 5, writer) # modify: anzahl test episodes and saving interval (see def of function)
@@ -250,11 +248,11 @@ for i_episode in itertools.count(1):
         log(f"average reward: {avg} ---------------------------------------")
         print(f"eps: {i_episode}")
 
-    if i_episode % args.log_test_save[2] == 0: # hier 
-        agent.save_checkpoint(args.env_name, args, suffix=f"ep_{i_episode}") # hier
+    if i_episode % args.log_test_save[2] == 0: 
+        agent.save_checkpoint(args.env_name, args, suffix=f"ep_{i_episode}") 
         test_stats.save_statistics()
         episode_stats.save_statistics()
-        memory.save_buffer(args.env_name, args, str(i_episode)) # hier
+        memory.save_buffer(args.env_name, args, str(i_episode)) 
     
     if i_episode % 20000 == 0: 
         try:
