@@ -14,6 +14,6 @@ In the [archive](./archive/) folder, you can find older versions of our code.
 
 Our implementation of SAC (and therefore all of the other algorithms) is based on [this](https://github.com/pranz24/pytorch-soft-actor-critic/tree/master) implementation.
 
-![SAC-HER vs strong opp](./assets/HER_vs_strong_opp.gif)
+![SAC-HER vs strong opp](./assets/HER_vs_strong_opp.gif)  
 *SAC-HER (red) vs strong opp (blue)*
 
