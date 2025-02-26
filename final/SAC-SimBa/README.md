@@ -14,7 +14,7 @@ The following files are exclusive to the various agents:
 &nbsp;&nbsp;&nbsp;&nbsp;**sac_NN.py** and **NNs.py** are used for:  
 &nbsp;&nbsp;&nbsp;&nbsp;_SimBa_mlp_mlp.py, SimBa_mlp_residual.py, SimBa_residual_mlp.py, SimBa_residual_residual.py._  
 
-&nbsp;&nbsp;&nbsp;&nbsp;**sac.py** and **model.py** are used for the opponents whose checkpoints are in `enemies`.  
+&nbsp;&nbsp;&nbsp;&nbsp;**sac.py** and **model.py** are used for the opponents whose checkpoints are in [enemies](./enemies/).  
 
   
 **I recommend first using the _extra_init_ files, because they showed better results in practice.**
