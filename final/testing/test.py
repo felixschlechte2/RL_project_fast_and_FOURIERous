@@ -74,7 +74,7 @@ sac_her17400 = SACHER(env.observation_space.shape[0]+2, action_space_p1,args)
 sac_her30000 = SACHER(env.observation_space.shape[0]+2, action_space_p1,args)
 
 
-path1 = "./Reinforcement Learning/ExcercisesGitHub/exercises mit venv/project_code/models/testing/old_models/"
+path1 = "./old_models/"
 qr_sac_runx_path = path1 + fr"qr_sac_runx"
 sac_strong_path = path1 + fr"sac_strong"
 sac_rnn_path = path1 + fr"sac_rnn"
