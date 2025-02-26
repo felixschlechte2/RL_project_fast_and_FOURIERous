@@ -7,4 +7,4 @@ Here you can see the agent from checkpoint sac_strong from [old_models](./old_mo
 
 remarks: 
 - in folder [runs](./runs/), the tensorboard statistics about the runs cannot be provided due to uploading limits, but the most important information can bo found in the other files. 
-- to be able to compare to QR-SAC in [test.py](./test.py), the qrsac.py and qrmodel.py is added 
+- to be able to compare to QR-SAC in [test.py](./test.py), the [qrsac.py](./qrsac.py) and [qrmodel.py](./qrmodel.py) is added 
