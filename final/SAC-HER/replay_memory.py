@@ -1,9 +1,8 @@
 import random
 import numpy as np # type: ignore
-import os  # hier 
-import pickle  # hier 
-from copy import deepcopy as dc #here
-import time #here
+import os   
+import pickle   
+from copy import deepcopy as dc
 
 class ReplayMemory:
     def __init__(self, capacity,k_future,env, seed):
@@ -37,8 +36,8 @@ class ReplayMemory:
         for episode, timestep in zip(ep_indices, time_indices):
             states.append(dc(self.buffer[episode]["state"][timestep]))
             actions.append(dc(self.buffer[episode]["action"][timestep]))
-            desired_goals.append(dc(self.buffer[episode]["desired_goal"])) # here 
-            next_achieved_goals.append(dc(self.buffer[episode]["achieved_goal"][timestep])) # here 
+            desired_goals.append(dc(self.buffer[episode]["desired_goal"])) 
+            next_achieved_goals.append(dc(self.buffer[episode]["achieved_goal"][timestep]))
             next_states.append(dc(self.buffer[episode]["next_state"][timestep]))
             reward.append(dc(self.buffer[episode]["reward"][timestep]))
     
