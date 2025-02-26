@@ -1,3 +1,4 @@
-We also provide our early attempts on DQN and DDPG and SAC. 
+# archive 
 
-Write on what the attempts are based on? (since we got the first SAC -that didnt work - also from GitHub)
+Here you can find older versions of our coce.
+We also provide our early attempts on DQN and DDPG and SAC. 
