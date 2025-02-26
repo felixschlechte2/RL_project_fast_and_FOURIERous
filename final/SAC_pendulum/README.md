@@ -2,7 +2,7 @@
 
 First attempts on the Pendulum environment. SAC can solve the task only after a few training iterations: 
 
-![Beschreibung des GIFs](assets/pendulum.gif)
+![Beschreibung des GIFs](../../assets/pendulum.gif)
 
 remarks:
 - checkpoints provides some chekpoints 
