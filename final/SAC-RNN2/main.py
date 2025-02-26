@@ -1,6 +1,6 @@
 import argparse
 import datetime
-import gymnasium as gym # hier : vorher nur gym
+import gymnasium as gym 
 import numpy as np
 import itertools
 import torch
@@ -9,13 +9,13 @@ from qrsac import QRSAC
 # from torch.utils.tensorboardx import SummaryWriter
 from tensorboardX import SummaryWriter
 from replay_memory import ReplayMemory
-import pickle as pkl # hier 
+import pickle as pkl  
 from utils import log, run_name, statistics
 
-import hockey.hockey_env as h_env # hier 
-from gymnasium import spaces # hier 
+import hockey.hockey_env as h_env  
+from gymnasium import spaces  
 
-env = h_env.HockeyEnv() # hier
+env = h_env.HockeyEnv() 
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print(device)
@@ -50,7 +50,7 @@ parser.add_argument('--hidden_size', type=int, default=256, metavar='N',
 parser.add_argument('--updates_per_step', type=int, default=1, metavar='N',
                     help='model updates per simulator step (default: 1)')
 parser.add_argument('--start_steps', type=int, default= -1, metavar='N',
-                    help='Steps sampling random actions (default: 10000)') # hier auf -1 gesetzt 
+                    help='Steps sampling random actions (default: 10000)')
 parser.add_argument('--target_update_interval', type=int, default=1, metavar='N',
                     help='Value target update per no. of updates per step (default: 1)')
 parser.add_argument('--replay_size', type=int, default=1000000, metavar='N',
@@ -58,11 +58,11 @@ parser.add_argument('--replay_size', type=int, default=1000000, metavar='N',
 parser.add_argument('--cuda', action="store_true",
                     help='run on CUDA (default: False)')
 parser.add_argument('--log_test_save', type=int, nargs=3, default=[50,100,1000], metavar='N',
-                    help='intervals for logs, testing, saving (default: [10,100,1000])') # hier
+                    help='intervals for logs, testing, saving (default: [10,100,1000])') 
 parser.add_argument('--trajectory_length', type=int, default=7, metavar='N',
-                    help='length of trajectory that is captured (default: 7)') # hier 
+                    help='length of trajectory that is captured (default: 7)')  
 parser.add_argument('--num_quantile', type=int, default=16, metavar='N',
-                    help='number of quantiles (default: 16)') # hier 
+                    help='number of quantiles (default: 16)')  
 args = parser.parse_args()
 
 args.env_name = "hockey_vs_4_all_rew"
@@ -73,7 +73,7 @@ with open(f"./run_info/{run_name}_args.pkl", "wb") as f:
 episode_stats = statistics(["episode", "reward", "opponent"], fr"./runs/stats_{args.env_name}-{run_name}_episode.pkl")
 test_stats = statistics(['episode', 'avg_reward/test'], fr"./runs/stats_{args.env_name}-{run_name}_test.pkl")
 
-# hier :
+ 
 # checkpoint_path = r"C:/Users/Home/Documents/M. Sc. ML/Reinforcement Learning/ExcercisesGitHub/exercises mit venv/project_code/models/SAC2/results/" # C:\Users\Home\Documents\M. Sc. ML\Reinforcement Learning\ExcercisesGitHub\exercises mit venv\project_code\models\SAC2\results
 
 # Environment
@@ -92,7 +92,6 @@ old = SAC(env.observation_space.shape[0], action_space_p1, args)# env.action_spa
 # opp = SAC(env.observation_space.shape[0], action_space_p1, args)
 qr_sac = QRSAC(env.observation_space.shape[0], action_space_p1, args)
 
-# hier bis writer :
 model_path = r"./old_models/sac_rnn2_run1"
 agent.load_checkpoint(model_path)
 old.load_checkpoint(model_path)
@@ -113,7 +112,7 @@ memory = ReplayMemory(args.replay_size, args.seed)
 total_numsteps = 0
 updates = 0
 
-# agent.save_checkpoint(args.env_name, suffix=f"ep_{0}") # hier
+# agent.save_checkpoint(args.env_name, suffix=f"ep_{0}") 
 
 def which_opp(episode):
     if (episode // 500) % 4 == 0: 
@@ -130,18 +129,18 @@ for i_episode in itertools.count(1):
     episode_reward = 0
     episode_steps = 0
     done = False
-    state = env.reset()[0] # hier das [0]
+    state = env.reset()[0] 
     agent.reset()
-    obs_agent2 = env.obs_agent_two() # hier 
+    obs_agent2 = env.obs_agent_two()  
 
     while not done:
         if args.start_steps > total_numsteps:
             action = env.action_space.sample()  # Sample random action
-            action_agent = action[:4] # hier 
+            action_agent = action[:4]  
         else:
             hidden_obs = agent.policy.hidden_memory
             state_hidden_obs = np.concatenate((state, hidden_obs.cpu().detach().numpy()[0]), axis=0)
-            action_agent = agent.act(state)# [:4] # hier # Sample action from policy
+            action_agent = agent.act(state)# [:4]  # Sample action from policy
             action_opp = opp.act(obs_agent2) 
             action = np.hstack((action_agent, action_opp))
 
@@ -158,9 +157,9 @@ for i_episode in itertools.count(1):
                 writer.add_scalar('entropy_temprature/alpha', alpha, updates)
                 updates += 1
         hidden_obs = agent.policy.hidden_memory
-        next_state, reward, done, _, _ = env.step(action) # Step # hier das zweite _
+        next_state, reward, done, _, _ = env.step(action) # Step 
         next_state_hidden_obs = np.concatenate((next_state, hidden_obs.cpu().detach().numpy()[0]), axis=0)
-        reward *= 100   # hier wurde diese zeile inzugefügt. numerische Stabilität?
+        reward *= 100   
         episode_steps += 1
         total_numsteps += 1
         episode_reward += reward
@@ -168,12 +167,12 @@ for i_episode in itertools.count(1):
         # Ignore the "done" signal if it comes from hitting the time horizon.
         # (https://github.com/openai/spinningup/blob/master/spinup/algos/sac/sac.py)
         mask = 1 if episode_steps == env.max_timesteps else float(not done)
-        done = 1 if episode_steps == env.max_timesteps else float(done) # hier diese Zeile wurde hinzugefügt
+        done = 1 if episode_steps == env.max_timesteps else float(done) 
 
-        memory.push(state_hidden_obs, action_agent, reward, next_state_hidden_obs, mask) # Append transition to memory # hier : ursprünglich action anstelle von action_agent
+        memory.push(state_hidden_obs, action_agent, reward, next_state_hidden_obs, mask) # Append transition to memory 
 
         state = next_state
-        obs_agent2 = env.obs_agent_two() # hier
+        obs_agent2 = env.obs_agent_two() 
     
     episode_stats.save_data(["episode", "reward", "opponent"], [i_episode, episode_reward, opp_name])
 
@@ -181,33 +180,33 @@ for i_episode in itertools.count(1):
         break
 
     writer.add_scalar('reward/train', episode_reward, i_episode)
-    if i_episode % args.log_test_save[0] == 0: # hier diese Zeile
+    if i_episode % args.log_test_save[0] == 0: 
         print("Episode: {}, opp: {}, total numsteps: {}, episode steps: {}, reward: {}".format(i_episode, opp_name, total_numsteps, episode_steps, round(episode_reward, 2)))
         log("Episode: {}, opp: {}, total numsteps: {}, episode steps: {}, reward: {}".format(i_episode, opp_name, total_numsteps, episode_steps, round(episode_reward, 2)))
 
-    test_interval = args.log_test_save[1] # hier : Intervall wann getestet werden soll
+    test_interval = args.log_test_save[1] # Intervall wann getestet werden soll
     if i_episode % test_interval == 0 and args.eval is True: 
         avg_reward = 0.
         episodes = 10
         for _  in range(episodes):
-            state = env.reset()[0] # hier: das [0]
+            state = env.reset()[0] 
             agent.reset()
-            obs_agent2 = env.obs_agent_two() # hier
+            obs_agent2 = env.obs_agent_two() 
             episode_reward = 0
             done = False
             while not done:
-                action_agent = agent.act(state, evaluate=True)# [:4] # hier # Sample action from policy
+                action_agent = agent.act(state, evaluate=True)# [:4]  # Sample action from policy
                 action_opp = strong_opp.act(obs_agent2)   # np.random.uniform(-1,1,4)
                 action = np.hstack((action_agent, action_opp))
 
                 next_state, reward, done, _, _ = env.step(action)
-                reward *= 100 # hier 
+                reward *= 100  
                 episode_reward += reward
-                done = 1 if episode_steps == env.max_timesteps else float(done) # hier diese Zeile wurde hinzugefügt
+                done = 1 if episode_steps == env.max_timesteps else float(done) 
 
 
                 state = next_state
-                obs_agent2 = env.obs_agent_two() # hier
+                obs_agent2 = env.obs_agent_two() 
             avg_reward += episode_reward
         avg_reward /= episodes
         test_stats.save_data(['episode', 'avg_reward/test'], [i_episode, avg_reward])
@@ -221,8 +220,8 @@ for i_episode in itertools.count(1):
         log("Test Episodes: {}, Avg. Reward: {}".format(episodes, round(avg_reward, 2)))
         log("----------------------------------------")
     
-    if i_episode % args.log_test_save[2] == 0: # hier 
-        agent.save_checkpoint(args.env_name, args, suffix=f"ep_{i_episode}") # hier
+    if i_episode % args.log_test_save[2] == 0:  
+        agent.save_checkpoint(args.env_name, args, suffix=f"ep_{i_episode}") 
         test_stats.save_statistics()
         episode_stats.save_statistics()
 
