@@ -9,7 +9,7 @@ In the folder [final](./final/) you can find our final code for:
 - [SAC-SimBa](./final/SAC-SimBa/) (SAC combined with SimBa architecture (on hockey environment))
 - [testing](./final/testing/) (examples of how we tested and compared our agents)
 
-Detailed descriptions of the code will be provided via a README.md in the respective folders.
+More details will be provided via a README.md in the respective folders.
 In the [archive](./archive/) folder, you can find older versions of our code. 
 
 Our implementation of SAC (and therefore all of the other algorithms) is based on [this](https://github.com/pranz24/pytorch-soft-actor-critic/tree/master) implementation.
