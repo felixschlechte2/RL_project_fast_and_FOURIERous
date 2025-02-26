@@ -88,10 +88,9 @@ qr_sac_runx2_path = models_path + fr"QR-SAC5/checkpoints/checkpoint_hockey_vs_4_
 qr_sac_run5_path = models_path + fr"QR-SAC5/checkpoints/checkpoint_hockey_vs_sac_and_strong_all_rew_ep_145000_qr_sac_run5"
 qr_sac_run6_path = models_path + fr"QR-SAC5/checkpoints/checkpoint_hockey_vs_self_and_sac_strong_all_rew_ep_40000_qr_sac_run6"
 
-path_cheat = "./checkpoints/checkpoint_hockey_vs_7_all_rew_ep_4000_qr_sac_run_cheat"
 ######################## turnier: 
 qr_sac_runx.load_checkpoint(qr_sac_runx_path, True)
-qr_sac_runx2.load_checkpoint(path_cheat, True)
+qr_sac_runx2.load_checkpoint(qr_sac_runx2_path, True)
 qr_sac_run5.load_checkpoint(qr_sac_run5_path, True)
 qr_sac_run6.load_checkpoint(qr_sac_run6_path, True)
 sac.load_checkpoint(sac_8400_path, True)
