@@ -4,7 +4,7 @@
 *SAC-SimBa (red) vs strong opponent (blue)*
 
 Here you can see the agent from checkpoint SAC_23600_auto from [checkpoints](./checkpoints/). 
-In [run_info](./run_info/) you can find the log files.  
+In [run_info](./run_info/) you can find the corresponding log files.  
 
 The following files are exclusive to the various agents:
 
