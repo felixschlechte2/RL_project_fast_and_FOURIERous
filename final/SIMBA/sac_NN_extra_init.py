@@ -20,10 +20,10 @@ class SAC(object):
 
         self.device = torch.device("cuda" if args.cuda else "cpu")
 
-        self.critic = models.SACClippedDoubleCritic(dim = num_inputs + action_space.shape[0],block_type = critic, num_blocks = num_blocks, hidden_dim = args.hidden_size).to(device=self.device) #here
+        self.critic = models.SACClippedDoubleCritic(dim = num_inputs + action_space.shape[0],block_type = critic, num_blocks = num_blocks, hidden_dim = args.hidden_size).to(device=self.device)
         self.critic_optim = Adam(self.critic.parameters(), lr=args.lr)
 
-        self.critic_target = models.SACClippedDoubleCritic(dim = num_inputs + action_space.shape[0],block_type = critic, num_blocks = num_blocks, hidden_dim = args.hidden_size).to(device=self.device) #here
+        self.critic_target = models.SACClippedDoubleCritic(dim = num_inputs + action_space.shape[0],block_type = critic, num_blocks = num_blocks, hidden_dim = args.hidden_size).to(device=self.device)
         hard_update(self.critic_target, self.critic)
 
 
@@ -117,7 +117,7 @@ class SAC(object):
     def load_checkpoint(self, ckpt_path, evaluate=False):
         print('Loading models from {}'.format(ckpt_path))
         if ckpt_path is not None:
-            checkpoint = torch.load(ckpt_path, weights_only=True, map_location=torch.device('cpu')) # hier : added weights_only and map_location
+            checkpoint = torch.load(ckpt_path, weights_only=True, map_location=torch.device('cpu')) 
             self.policy.load_state_dict(checkpoint['policy_state_dict'])
             self.critic.load_state_dict(checkpoint['critic_state_dict'])
             self.critic_target.load_state_dict(checkpoint['critic_target_state_dict'])
