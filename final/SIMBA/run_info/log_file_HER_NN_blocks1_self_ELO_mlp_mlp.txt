@@ -1,0 +1,745 @@
+cuda:0
+Episode: 10, total numsteps: 2184, win_percentage: 0.2
+Episode: 20, total numsteps: 4497, win_percentage: 0.15
+Episode: 30, total numsteps: 6587, win_percentage: 0.1
+Episode: 40, total numsteps: 8711, win_percentage: 0.125
+Episode: 50, total numsteps: 11114, win_percentage: 0.12
+Episode: 60, total numsteps: 13243, win_percentage: 0.1
+Episode: 70, total numsteps: 15432, win_percentage: 0.11428571428571428
+Episode: 80, total numsteps: 17600, win_percentage: 0.1
+Episode: 90, total numsteps: 19931, win_percentage: 0.1
+Episode: 100, total numsteps: 22296, win_percentage: 0.09
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -2362.17, win_percentage: 0.0, score: [1, 9, 0], Elo: 1000
+----------------------------------------
+Episode: 110, total numsteps: 24481, win_percentage: 0.0
+Episode: 120, total numsteps: 26910, win_percentage: 0.0
+Episode: 130, total numsteps: 28731, win_percentage: 0.025
+Episode: 140, total numsteps: 31043, win_percentage: 0.04
+Episode: 150, total numsteps: 33480, win_percentage: 0.03333333333333333
+Episode: 160, total numsteps: 35841, win_percentage: 0.04285714285714286
+Episode: 170, total numsteps: 38160, win_percentage: 0.05
+Episode: 180, total numsteps: 40451, win_percentage: 0.044444444444444446
+Episode: 190, total numsteps: 42674, win_percentage: 0.05
+Episode: 200, total numsteps: 45010, win_percentage: 0.05454545454545454
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -2115.31, win_percentage: 0.1, score: [1, 8, 1], Elo: 1000
+----------------------------------------
+Episode: 210, total numsteps: 47500, win_percentage: 0.05
+Episode: 220, total numsteps: 49682, win_percentage: 0.1
+Episode: 230, total numsteps: 51833, win_percentage: 0.075
+Episode: 240, total numsteps: 54003, win_percentage: 0.08
+Episode: 250, total numsteps: 56195, win_percentage: 0.08333333333333333
+Episode: 260, total numsteps: 58186, win_percentage: 0.1
+Episode: 270, total numsteps: 60070, win_percentage: 0.1
+Episode: 280, total numsteps: 61969, win_percentage: 0.1
+Episode: 290, total numsteps: 63984, win_percentage: 0.1
+Episode: 300, total numsteps: 65382, win_percentage: 0.10909090909090909
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -474.86, win_percentage: 0.3, score: [2, 5, 3], Elo: 1000
+----------------------------------------
+Episode: 310, total numsteps: 66510, win_percentage: 0.35
+Episode: 320, total numsteps: 67638, win_percentage: 0.23333333333333334
+Episode: 330, total numsteps: 68580, win_percentage: 0.2
+Episode: 340, total numsteps: 70004, win_percentage: 0.2
+Episode: 350, total numsteps: 70923, win_percentage: 0.21666666666666667
+Episode: 360, total numsteps: 72053, win_percentage: 0.22857142857142856
+Episode: 370, total numsteps: 72790, win_percentage: 0.2375
+Episode: 380, total numsteps: 73901, win_percentage: 0.2222222222222222
+Episode: 390, total numsteps: 74460, win_percentage: 0.24
+Episode: 400, total numsteps: 75434, win_percentage: 0.22727272727272727
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Weak Opponent(1500), Avg. Reward: -208.75, win_percentage: 0.1, score: [7, 2, 1], Elo: 1000
+----------------------------------------
+Episode: 410, total numsteps: 77114, win_percentage: 0.2
+Episode: 420, total numsteps: 78711, win_percentage: 0.26666666666666666
+Episode: 430, total numsteps: 80520, win_percentage: 0.25
+Episode: 440, total numsteps: 82140, win_percentage: 0.3
+Episode: 450, total numsteps: 83415, win_percentage: 0.2833333333333333
+Episode: 460, total numsteps: 84742, win_percentage: 0.2571428571428571
+Episode: 470, total numsteps: 86040, win_percentage: 0.2625
+Episode: 480, total numsteps: 88165, win_percentage: 0.26666666666666666
+Episode: 490, total numsteps: 89468, win_percentage: 0.28
+Episode: 500, total numsteps: 91408, win_percentage: 0.2727272727272727
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -296.74, win_percentage: 0.6, score: [2, 2, 6], Elo: 1000
+----------------------------------------
+Episode: 510, total numsteps: 92887, win_percentage: 0.4
+Episode: 520, total numsteps: 94214, win_percentage: 0.43333333333333335
+Episode: 530, total numsteps: 95810, win_percentage: 0.425
+Episode: 540, total numsteps: 97461, win_percentage: 0.44
+Episode: 550, total numsteps: 99005, win_percentage: 0.4
+Episode: 560, total numsteps: 100219, win_percentage: 0.4142857142857143
+Episode: 570, total numsteps: 102020, win_percentage: 0.3875
+Episode: 580, total numsteps: 103676, win_percentage: 0.37777777777777777
+Episode: 590, total numsteps: 105332, win_percentage: 0.36
+Episode: 600, total numsteps: 106553, win_percentage: 0.36363636363636365
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -136.01, win_percentage: 0.2, score: [3, 5, 2], Elo: 1000
+----------------------------------------
+Episode: 610, total numsteps: 107848, win_percentage: 0.35
+Episode: 620, total numsteps: 109129, win_percentage: 0.43333333333333335
+Episode: 630, total numsteps: 110727, win_percentage: 0.4
+Episode: 640, total numsteps: 112327, win_percentage: 0.38
+Episode: 650, total numsteps: 113806, win_percentage: 0.36666666666666664
+Episode: 660, total numsteps: 115472, win_percentage: 0.35714285714285715
+Episode: 670, total numsteps: 116950, win_percentage: 0.3625
+Episode: 680, total numsteps: 118549, win_percentage: 0.35555555555555557
+Episode: 690, total numsteps: 120078, win_percentage: 0.36
+Episode: 700, total numsteps: 121582, win_percentage: 0.34545454545454546
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -162.61, win_percentage: 0.2, score: [2, 6, 2], Elo: 1000
+----------------------------------------
+Episode: 710, total numsteps: 123345, win_percentage: 0.25
+Episode: 720, total numsteps: 125011, win_percentage: 0.3
+Episode: 730, total numsteps: 126557, win_percentage: 0.275
+Episode: 740, total numsteps: 128559, win_percentage: 0.26
+Episode: 750, total numsteps: 129950, win_percentage: 0.26666666666666666
+Episode: 760, total numsteps: 131829, win_percentage: 0.2714285714285714
+Episode: 770, total numsteps: 133752, win_percentage: 0.2625
+Episode: 780, total numsteps: 135455, win_percentage: 0.25555555555555554
+Episode: 790, total numsteps: 136865, win_percentage: 0.26
+Episode: 800, total numsteps: 138555, win_percentage: 0.2909090909090909
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -277.83, win_percentage: 0.2, score: [3, 5, 2], Elo: 1000
+----------------------------------------
+Episode: 810, total numsteps: 140479, win_percentage: 0.15
+Episode: 820, total numsteps: 141636, win_percentage: 0.16666666666666666
+Episode: 830, total numsteps: 142911, win_percentage: 0.15
+Episode: 840, total numsteps: 144141, win_percentage: 0.18
+Episode: 850, total numsteps: 145334, win_percentage: 0.16666666666666666
+Episode: 860, total numsteps: 146444, win_percentage: 0.17142857142857143
+Episode: 870, total numsteps: 147571, win_percentage: 0.15
+Episode: 880, total numsteps: 148821, win_percentage: 0.16666666666666666
+Episode: 890, total numsteps: 149904, win_percentage: 0.15
+Episode: 900, total numsteps: 151409, win_percentage: 0.13636363636363635
+----------------------------------------
+Test Episodes: 10, Opponent: Weak Opponent(1500), Avg. Reward: -725.92, win_percentage: 0.1, score: [5, 4, 1], Elo: 1000
+----------------------------------------
+Episode: 910, total numsteps: 153191, win_percentage: 0.25
+Episode: 920, total numsteps: 154571, win_percentage: 0.3333333333333333
+Episode: 930, total numsteps: 156345, win_percentage: 0.35
+Episode: 940, total numsteps: 157901, win_percentage: 0.34
+Episode: 950, total numsteps: 159751, win_percentage: 0.3333333333333333
+Episode: 960, total numsteps: 161536, win_percentage: 0.3142857142857143
+Episode: 970, total numsteps: 162882, win_percentage: 0.3125
+Episode: 980, total numsteps: 164180, win_percentage: 0.32222222222222224
+Episode: 990, total numsteps: 165439, win_percentage: 0.33
+Episode: 1000, total numsteps: 166957, win_percentage: 0.33636363636363636
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -273.68, win_percentage: 0.3, score: [4, 3, 3], Elo: 1000
+----------------------------------------
+Episode: 1010, total numsteps: 168437, win_percentage: 0.35
+Episode: 1020, total numsteps: 170014, win_percentage: 0.36666666666666664
+Episode: 1030, total numsteps: 171407, win_percentage: 0.4
+Episode: 1040, total numsteps: 173030, win_percentage: 0.42
+Episode: 1050, total numsteps: 174395, win_percentage: 0.4166666666666667
+Episode: 1060, total numsteps: 175979, win_percentage: 0.4
+Episode: 1070, total numsteps: 177589, win_percentage: 0.4
+Episode: 1080, total numsteps: 179126, win_percentage: 0.4111111111111111
+Episode: 1090, total numsteps: 180664, win_percentage: 0.39
+Episode: 1100, total numsteps: 181970, win_percentage: 0.39090909090909093
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -236.98, win_percentage: 0.5, score: [4, 1, 5], Elo: 1000
+----------------------------------------
+Episode: 1110, total numsteps: 183283, win_percentage: 0.45
+Episode: 1120, total numsteps: 184852, win_percentage: 0.36666666666666664
+Episode: 1130, total numsteps: 186255, win_percentage: 0.375
+Episode: 1140, total numsteps: 187811, win_percentage: 0.42
+Episode: 1150, total numsteps: 189179, win_percentage: 0.45
+Episode: 1160, total numsteps: 190767, win_percentage: 0.42857142857142855
+Episode: 1170, total numsteps: 192362, win_percentage: 0.425
+Episode: 1180, total numsteps: 193854, win_percentage: 0.43333333333333335
+Episode: 1190, total numsteps: 195030, win_percentage: 0.45
+Episode: 1200, total numsteps: 196744, win_percentage: 0.43636363636363634
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -121.12, win_percentage: 0.4, score: [2, 4, 4], Elo: 1000
+----------------------------------------
+Episode: 1210, total numsteps: 198248, win_percentage: 0.45
+Episode: 1220, total numsteps: 199761, win_percentage: 0.4666666666666667
+Episode: 1230, total numsteps: 200884, win_percentage: 0.475
+Episode: 1240, total numsteps: 202471, win_percentage: 0.48
+Episode: 1250, total numsteps: 204086, win_percentage: 0.4666666666666667
+Episode: 1260, total numsteps: 205570, win_percentage: 0.44285714285714284
+Episode: 1270, total numsteps: 207075, win_percentage: 0.425
+Episode: 1280, total numsteps: 208331, win_percentage: 0.4111111111111111
+Episode: 1290, total numsteps: 209734, win_percentage: 0.42
+Episode: 1300, total numsteps: 211149, win_percentage: 0.41818181818181815
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -522.48, win_percentage: 0.4, score: [2, 4, 4], Elo: 1000
+----------------------------------------
+Episode: 1310, total numsteps: 212618, win_percentage: 0.45
+Episode: 1320, total numsteps: 213976, win_percentage: 0.43333333333333335
+Episode: 1330, total numsteps: 215246, win_percentage: 0.425
+Episode: 1340, total numsteps: 216794, win_percentage: 0.38
+Episode: 1350, total numsteps: 218138, win_percentage: 0.38333333333333336
+Episode: 1360, total numsteps: 219768, win_percentage: 0.38571428571428573
+Episode: 1370, total numsteps: 221180, win_percentage: 0.425
+Episode: 1380, total numsteps: 222304, win_percentage: 0.43333333333333335
+Episode: 1390, total numsteps: 223524, win_percentage: 0.44
+Episode: 1400, total numsteps: 224813, win_percentage: 0.44545454545454544
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -176.43, win_percentage: 0.4, score: [3, 3, 4], Elo: 1000
+----------------------------------------
+Episode: 1410, total numsteps: 226294, win_percentage: 0.35
+Episode: 1420, total numsteps: 227488, win_percentage: 0.3
+Episode: 1430, total numsteps: 229139, win_percentage: 0.275
+Episode: 1440, total numsteps: 229943, win_percentage: 0.24
+Episode: 1450, total numsteps: 231838, win_percentage: 0.26666666666666666
+Episode: 1460, total numsteps: 233534, win_percentage: 0.22857142857142856
+Episode: 1470, total numsteps: 234549, win_percentage: 0.225
+Episode: 1480, total numsteps: 236002, win_percentage: 0.26666666666666666
+Episode: 1490, total numsteps: 237620, win_percentage: 0.3
+Episode: 1500, total numsteps: 239366, win_percentage: 0.2909090909090909
+----------------------------------------
+Test Episodes: 10, Opponent: Weak Opponent(1500), Avg. Reward: -380.93, win_percentage: 0.2, score: [4, 4, 2], Elo: 1000
+----------------------------------------
+Episode: 1510, total numsteps: 240652, win_percentage: 0.4
+Episode: 1520, total numsteps: 242539, win_percentage: 0.36666666666666664
+Episode: 1530, total numsteps: 243893, win_percentage: 0.375
+Episode: 1540, total numsteps: 244987, win_percentage: 0.38
+Episode: 1550, total numsteps: 246559, win_percentage: 0.36666666666666664
+Episode: 1560, total numsteps: 248716, win_percentage: 0.35714285714285715
+Episode: 1570, total numsteps: 250463, win_percentage: 0.3625
+Episode: 1580, total numsteps: 252279, win_percentage: 0.34444444444444444
+Episode: 1590, total numsteps: 253871, win_percentage: 0.33
+Episode: 1600, total numsteps: 254936, win_percentage: 0.33636363636363636
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Weak Opponent(1500), Avg. Reward: -1134.9, win_percentage: 0.1, score: [2, 7, 1], Elo: 1000
+----------------------------------------
+Episode: 1610, total numsteps: 256610, win_percentage: 0.3
+Episode: 1620, total numsteps: 258071, win_percentage: 0.3333333333333333
+Episode: 1630, total numsteps: 259387, win_percentage: 0.375
+Episode: 1640, total numsteps: 260804, win_percentage: 0.42
+Episode: 1650, total numsteps: 262219, win_percentage: 0.43333333333333335
+Episode: 1660, total numsteps: 263627, win_percentage: 0.44285714285714284
+Episode: 1670, total numsteps: 264778, win_percentage: 0.4625
+Episode: 1680, total numsteps: 266301, win_percentage: 0.45555555555555555
+Episode: 1690, total numsteps: 267859, win_percentage: 0.46
+Episode: 1700, total numsteps: 269378, win_percentage: 0.4636363636363636
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: 10.02, win_percentage: 0.5, score: [1, 4, 5], Elo: 1000
+----------------------------------------
+Episode: 1710, total numsteps: 270826, win_percentage: 0.55
+Episode: 1720, total numsteps: 272073, win_percentage: 0.5333333333333333
+Episode: 1730, total numsteps: 273620, win_percentage: 0.525
+Episode: 1740, total numsteps: 274962, win_percentage: 0.56
+Episode: 1750, total numsteps: 276612, win_percentage: 0.55
+Episode: 1760, total numsteps: 278086, win_percentage: 0.5142857142857142
+Episode: 1770, total numsteps: 279470, win_percentage: 0.5125
+Episode: 1780, total numsteps: 280791, win_percentage: 0.5
+Episode: 1790, total numsteps: 281699, win_percentage: 0.51
+Episode: 1800, total numsteps: 283239, win_percentage: 0.509090909090909
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -110.34, win_percentage: 0.3, score: [4, 3, 3], Elo: 1000
+----------------------------------------
+Episode: 1810, total numsteps: 284839, win_percentage: 0.35
+Episode: 1820, total numsteps: 286042, win_percentage: 0.4
+Episode: 1830, total numsteps: 287398, win_percentage: 0.4
+Episode: 1840, total numsteps: 288572, win_percentage: 0.42
+Episode: 1850, total numsteps: 290117, win_percentage: 0.45
+Episode: 1860, total numsteps: 291726, win_percentage: 0.42857142857142855
+Episode: 1870, total numsteps: 292987, win_percentage: 0.4375
+Episode: 1880, total numsteps: 294236, win_percentage: 0.43333333333333335
+Episode: 1890, total numsteps: 295641, win_percentage: 0.43
+Episode: 1900, total numsteps: 297020, win_percentage: 0.45454545454545453
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -189.12, win_percentage: 0.3, score: [2, 5, 3], Elo: 1000
+----------------------------------------
+Episode: 1910, total numsteps: 298396, win_percentage: 0.4
+Episode: 1920, total numsteps: 299717, win_percentage: 0.43333333333333335
+Episode: 1930, total numsteps: 300843, win_percentage: 0.45
+Episode: 1940, total numsteps: 302263, win_percentage: 0.46
+Episode: 1950, total numsteps: 303302, win_percentage: 0.4666666666666667
+Episode: 1960, total numsteps: 304531, win_percentage: 0.5
+Episode: 1970, total numsteps: 306004, win_percentage: 0.5125
+Episode: 1980, total numsteps: 307369, win_percentage: 0.5222222222222223
+Episode: 1990, total numsteps: 308759, win_percentage: 0.52
+Episode: 2000, total numsteps: 310287, win_percentage: 0.5272727272727272
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -29.74, win_percentage: 0.5, score: [1, 4, 5], Elo: 1000
+----------------------------------------
+Episode: 2010, total numsteps: 311733, win_percentage: 0.5
+Episode: 2020, total numsteps: 312926, win_percentage: 0.5333333333333333
+Episode: 2030, total numsteps: 314250, win_percentage: 0.525
+Episode: 2040, total numsteps: 315584, win_percentage: 0.54
+Episode: 2050, total numsteps: 317127, win_percentage: 0.5333333333333333
+Episode: 2060, total numsteps: 318410, win_percentage: 0.5285714285714286
+Episode: 2070, total numsteps: 319396, win_percentage: 0.5375
+Episode: 2080, total numsteps: 320770, win_percentage: 0.5444444444444444
+Episode: 2090, total numsteps: 321913, win_percentage: 0.56
+Episode: 2100, total numsteps: 323153, win_percentage: 0.5545454545454546
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: 55.0, win_percentage: 0.6, score: [1, 3, 6], Elo: 1000
+----------------------------------------
+Episode: 2110, total numsteps: 324512, win_percentage: 0.6
+Episode: 2120, total numsteps: 326158, win_percentage: 0.5666666666666667
+Episode: 2130, total numsteps: 327128, win_percentage: 0.575
+Episode: 2140, total numsteps: 328595, win_percentage: 0.52
+Episode: 2150, total numsteps: 329793, win_percentage: 0.55
+Episode: 2160, total numsteps: 330971, win_percentage: 0.5714285714285714
+Episode: 2170, total numsteps: 332183, win_percentage: 0.575
+Episode: 2180, total numsteps: 333515, win_percentage: 0.5333333333333333
+Episode: 2190, total numsteps: 335026, win_percentage: 0.53
+Episode: 2200, total numsteps: 336349, win_percentage: 0.5363636363636364
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: 0.3, win_percentage: 0.6, score: [3, 1, 6], Elo: 1000
+----------------------------------------
+Episode: 2210, total numsteps: 337421, win_percentage: 0.65
+Episode: 2220, total numsteps: 338795, win_percentage: 0.6333333333333333
+Episode: 2230, total numsteps: 340001, win_percentage: 0.675
+Episode: 2240, total numsteps: 341380, win_percentage: 0.68
+Episode: 2250, total numsteps: 342895, win_percentage: 0.6666666666666666
+Episode: 2260, total numsteps: 344018, win_percentage: 0.6571428571428571
+Episode: 2270, total numsteps: 345189, win_percentage: 0.675
+Episode: 2280, total numsteps: 346348, win_percentage: 0.6666666666666666
+Episode: 2290, total numsteps: 347739, win_percentage: 0.67
+Episode: 2300, total numsteps: 349150, win_percentage: 0.6545454545454545
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -21.6, win_percentage: 0.4, score: [2, 4, 4], Elo: 1000
+----------------------------------------
+Episode: 2310, total numsteps: 350253, win_percentage: 0.5
+Episode: 2320, total numsteps: 351604, win_percentage: 0.5
+Episode: 2330, total numsteps: 352970, win_percentage: 0.525
+Episode: 2340, total numsteps: 354178, win_percentage: 0.56
+Episode: 2350, total numsteps: 355651, win_percentage: 0.5833333333333334
+Episode: 2360, total numsteps: 356875, win_percentage: 0.5714285714285714
+Episode: 2370, total numsteps: 358013, win_percentage: 0.575
+Episode: 2380, total numsteps: 359133, win_percentage: 0.5666666666666667
+Episode: 2390, total numsteps: 360354, win_percentage: 0.58
+Episode: 2400, total numsteps: 361730, win_percentage: 0.5818181818181818
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -2.53, win_percentage: 0.6, score: [3, 1, 6], Elo: 1000
+----------------------------------------
+Episode: 2410, total numsteps: 363062, win_percentage: 0.6
+Episode: 2420, total numsteps: 364237, win_percentage: 0.6333333333333333
+Episode: 2430, total numsteps: 365615, win_percentage: 0.6
+Episode: 2440, total numsteps: 366814, win_percentage: 0.62
+Episode: 2450, total numsteps: 368212, win_percentage: 0.6166666666666667
+Episode: 2460, total numsteps: 369292, win_percentage: 0.6571428571428571
+Episode: 2470, total numsteps: 370436, win_percentage: 0.675
+Episode: 2480, total numsteps: 371699, win_percentage: 0.6666666666666666
+Episode: 2490, total numsteps: 372771, win_percentage: 0.68
+Episode: 2500, total numsteps: 373771, win_percentage: 0.6636363636363637
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: -66.35, win_percentage: 0.5, score: [2, 3, 5], Elo: 1000
+----------------------------------------
+Episode: 2510, total numsteps: 374991, win_percentage: 0.6
+Episode: 2520, total numsteps: 376383, win_percentage: 0.5666666666666667
+Episode: 2530, total numsteps: 377532, win_percentage: 0.6
+Episode: 2540, total numsteps: 378921, win_percentage: 0.6
+Episode: 2550, total numsteps: 380114, win_percentage: 0.6
+Episode: 2560, total numsteps: 381264, win_percentage: 0.6285714285714286
+Episode: 2570, total numsteps: 382723, win_percentage: 0.625
+Episode: 2580, total numsteps: 384129, win_percentage: 0.6222222222222222
+Episode: 2590, total numsteps: 385345, win_percentage: 0.62
+Episode: 2600, total numsteps: 386881, win_percentage: 0.6090909090909091
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Random Opponent(1000), Avg. Reward: 22.48, win_percentage: 0.6, score: [0, 4, 6], Elo: 1000
+----------------------------------------
+Episode: 2610, total numsteps: 388193, win_percentage: 0.75
+Episode: 2620, total numsteps: 389480, win_percentage: 0.7333333333333333
+Episode: 2630, total numsteps: 390907, win_percentage: 0.725
+Episode: 2640, total numsteps: 392489, win_percentage: 0.7
+Episode: 2650, total numsteps: 394012, win_percentage: 0.65
+Episode: 2660, total numsteps: 395655, win_percentage: 0.6428571428571429
+Episode: 2670, total numsteps: 396915, win_percentage: 0.6375
+Episode: 2680, total numsteps: 397919, win_percentage: 0.6333333333333333
+Episode: 2690, total numsteps: 399071, win_percentage: 0.64
+Episode: 2700, total numsteps: 400460, win_percentage: 0.6272727272727273
+----------------------------------------
+Test Episodes: 10, Opponent: Weak Opponent(1500), Avg. Reward: 342.2, win_percentage: 0.9, score: [0, 1, 9], Elo: 1000
+----------------------------------------
+Episode: 2710, total numsteps: 402323, win_percentage: 0.6
+Episode: 2720, total numsteps: 403733, win_percentage: 0.4666666666666667
+Episode: 2730, total numsteps: 404871, win_percentage: 0.5
+Episode: 2740, total numsteps: 406457, win_percentage: 0.42
+Episode: 2750, total numsteps: 408279, win_percentage: 0.4
+Episode: 2760, total numsteps: 410598, win_percentage: 0.37142857142857144
+Episode: 2770, total numsteps: 412352, win_percentage: 0.4125
+Episode: 2780, total numsteps: 414020, win_percentage: 0.4
+Episode: 2790, total numsteps: 415337, win_percentage: 0.41
+Episode: 2800, total numsteps: 417356, win_percentage: 0.39090909090909093
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Strong Opponent(2000), Avg. Reward: -145.12, win_percentage: 0.2, score: [2, 6, 2], Elo: 1000
+----------------------------------------
+Episode: 2810, total numsteps: 418669, win_percentage: 0.4
+Episode: 2820, total numsteps: 420375, win_percentage: 0.43333333333333335
+Episode: 2830, total numsteps: 422111, win_percentage: 0.375
+Episode: 2840, total numsteps: 423980, win_percentage: 0.32
+Episode: 2850, total numsteps: 425882, win_percentage: 0.3
+Episode: 2860, total numsteps: 427983, win_percentage: 0.2857142857142857
+Episode: 2870, total numsteps: 429836, win_percentage: 0.2875
+Episode: 2880, total numsteps: 431363, win_percentage: 0.2777777777777778
+Episode: 2890, total numsteps: 433301, win_percentage: 0.28
+Episode: 2900, total numsteps: 435359, win_percentage: 0.2818181818181818
+----------------------------------------
+Test Episodes: 10, Opponent: Strong Opponent(2000), Avg. Reward: -160.49, win_percentage: 0.2, score: [3, 5, 2], Elo: 1000
+----------------------------------------
+Episode: 2910, total numsteps: 437201, win_percentage: 0.35
+Episode: 2920, total numsteps: 438353, win_percentage: 0.4666666666666667
+Episode: 2930, total numsteps: 439772, win_percentage: 0.575
+Episode: 2940, total numsteps: 440817, win_percentage: 0.64
+Episode: 2950, total numsteps: 442216, win_percentage: 0.6166666666666667
+Episode: 2960, total numsteps: 443227, win_percentage: 0.6428571428571429
+Episode: 2970, total numsteps: 444547, win_percentage: 0.65
+Episode: 2980, total numsteps: 445978, win_percentage: 0.6666666666666666
+Episode: 2990, total numsteps: 447470, win_percentage: 0.67
+Episode: 3000, total numsteps: 448434, win_percentage: 0.6909090909090909
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Weak Opponent(1500), Avg. Reward: 114.32, win_percentage: 0.8, score: [1, 1, 8], Elo: 1000
+----------------------------------------
+Episode: 3010, total numsteps: 449876, win_percentage: 0.7
+Episode: 3020, total numsteps: 452024, win_percentage: 0.5
+Episode: 3030, total numsteps: 453577, win_percentage: 0.5
+Episode: 3040, total numsteps: 455647, win_percentage: 0.46
+Episode: 3050, total numsteps: 457305, win_percentage: 0.4666666666666667
+Episode: 3060, total numsteps: 458997, win_percentage: 0.4714285714285714
+Episode: 3070, total numsteps: 460832, win_percentage: 0.45
+Episode: 3080, total numsteps: 462672, win_percentage: 0.4444444444444444
+Episode: 3090, total numsteps: 464261, win_percentage: 0.45
+Episode: 3100, total numsteps: 466129, win_percentage: 0.43636363636363634
+----------------------------------------
+Test Episodes: 10, Opponent: Strong Opponent(2000), Avg. Reward: -103.17, win_percentage: 0.4, score: [2, 4, 4], Elo: 1000
+----------------------------------------
+Episode: 3110, total numsteps: 468194, win_percentage: 0.25
+Episode: 3120, total numsteps: 470545, win_percentage: 0.16666666666666666
+Episode: 3130, total numsteps: 472517, win_percentage: 0.2
+Episode: 3140, total numsteps: 474754, win_percentage: 0.18
+Episode: 3150, total numsteps: 476346, win_percentage: 0.18333333333333332
+Episode: 3160, total numsteps: 478673, win_percentage: 0.17142857142857143
+Episode: 3170, total numsteps: 480332, win_percentage: 0.1875
+Episode: 3180, total numsteps: 482143, win_percentage: 0.2
+Episode: 3190, total numsteps: 484205, win_percentage: 0.2
+Episode: 3200, total numsteps: 486182, win_percentage: 0.19090909090909092
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(1000), Avg. Reward: 334.89, win_percentage: 0.0, score: [0, 10, 0], Elo: 1000
+----------------------------------------
+****************************************
+NOW THE ELO-SYSTEM IS STARTING. CURRENT ELO: 1000
+****************************************
+Episode: 3210, total numsteps: 487100, win_percentage: 0.8
+Episode: 3220, total numsteps: 488537, win_percentage: 0.75
+Episode: 3230, total numsteps: 489816, win_percentage: 0.7
+Episode: 3240, total numsteps: 491001, win_percentage: 0.675
+Episode: 3250, total numsteps: 492417, win_percentage: 0.66
+Episode: 3260, total numsteps: 493459, win_percentage: 0.6833333333333333
+Episode: 3270, total numsteps: 494751, win_percentage: 0.6857142857142857
+Episode: 3280, total numsteps: 495954, win_percentage: 0.675
+Episode: 3290, total numsteps: 497174, win_percentage: 0.6777777777777778
+Episode: 3300, total numsteps: 498211, win_percentage: 0.69
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(436.94), Avg. Reward: 9.92, win_percentage: 0.6, score: [0, 4, 6], Elo: 916.55
+----------------------------------------
+Episode: 3310, total numsteps: 499561, win_percentage: 0.7
+Episode: 3320, total numsteps: 500875, win_percentage: 0.7
+Episode: 3330, total numsteps: 502013, win_percentage: 0.6333333333333333
+Episode: 3340, total numsteps: 503146, win_percentage: 0.675
+Episode: 3350, total numsteps: 504441, win_percentage: 0.66
+Episode: 3360, total numsteps: 505767, win_percentage: 0.65
+Episode: 3370, total numsteps: 506935, win_percentage: 0.6428571428571429
+Episode: 3380, total numsteps: 508462, win_percentage: 0.625
+Episode: 3390, total numsteps: 509875, win_percentage: 0.6222222222222222
+Episode: 3400, total numsteps: 511187, win_percentage: 0.62
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(309.95), Avg. Reward: 4.9, win_percentage: 0.6, score: [0, 4, 6], Elo: 672.22
+----------------------------------------
+Episode: 3410, total numsteps: 513228, win_percentage: 0.0
+Episode: 3420, total numsteps: 515355, win_percentage: 0.15
+Episode: 3430, total numsteps: 516966, win_percentage: 0.16666666666666666
+Episode: 3440, total numsteps: 519347, win_percentage: 0.15
+Episode: 3450, total numsteps: 521847, win_percentage: 0.12
+Episode: 3460, total numsteps: 523709, win_percentage: 0.13333333333333333
+Episode: 3470, total numsteps: 525597, win_percentage: 0.15714285714285714
+Episode: 3480, total numsteps: 526918, win_percentage: 0.15
+Episode: 3490, total numsteps: 528491, win_percentage: 0.14444444444444443
+Episode: 3500, total numsteps: 530784, win_percentage: 0.14
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(307.85), Avg. Reward: 301.18, win_percentage: 0.2, score: [1, 7, 2], Elo: 314.14
+----------------------------------------
+Episode: 3510, total numsteps: 532902, win_percentage: 0.1
+Episode: 3520, total numsteps: 534184, win_percentage: 0.1
+Episode: 3530, total numsteps: 535782, win_percentage: 0.16666666666666666
+Episode: 3540, total numsteps: 537433, win_percentage: 0.225
+Episode: 3550, total numsteps: 539007, win_percentage: 0.22
+Episode: 3560, total numsteps: 540845, win_percentage: 0.23333333333333334
+Episode: 3570, total numsteps: 542727, win_percentage: 0.21428571428571427
+Episode: 3580, total numsteps: 544480, win_percentage: 0.2
+Episode: 3590, total numsteps: 546276, win_percentage: 0.2
+Episode: 3600, total numsteps: 547797, win_percentage: 0.22
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(185.61), Avg. Reward: 315.63, win_percentage: 0.6, score: [1, 3, 6], Elo: 183.1
+----------------------------------------
+Episode: 3610, total numsteps: 549587, win_percentage: 0.0
+Episode: 3620, total numsteps: 551768, win_percentage: 0.15
+Episode: 3630, total numsteps: 552865, win_percentage: 0.3333333333333333
+Episode: 3640, total numsteps: 554656, win_percentage: 0.35
+Episode: 3650, total numsteps: 556035, win_percentage: 0.32
+Episode: 3660, total numsteps: 557196, win_percentage: 0.38333333333333336
+Episode: 3670, total numsteps: 558539, win_percentage: 0.37142857142857144
+Episode: 3680, total numsteps: 560726, win_percentage: 0.35
+Episode: 3690, total numsteps: 562517, win_percentage: 0.34444444444444444
+Episode: 3700, total numsteps: 564247, win_percentage: 0.36
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(65.1), Avg. Reward: 105.21, win_percentage: 0.3, score: [2, 5, 3], Elo: 166.65
+----------------------------------------
+Episode: 3710, total numsteps: 565966, win_percentage: 0.4
+Episode: 3720, total numsteps: 568049, win_percentage: 0.3
+Episode: 3730, total numsteps: 569763, win_percentage: 0.26666666666666666
+Episode: 3740, total numsteps: 571095, win_percentage: 0.35
+Episode: 3750, total numsteps: 572568, win_percentage: 0.38
+Episode: 3760, total numsteps: 574367, win_percentage: 0.38333333333333336
+Episode: 3770, total numsteps: 576230, win_percentage: 0.37142857142857144
+Episode: 3780, total numsteps: 578219, win_percentage: 0.3375
+Episode: 3790, total numsteps: 579661, win_percentage: 0.3333333333333333
+Episode: 3800, total numsteps: 581251, win_percentage: 0.34
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(71.58), Avg. Reward: -53.58, win_percentage: 0.2, score: [3, 5, 2], Elo: 82.67
+----------------------------------------
+Episode: 3810, total numsteps: 582575, win_percentage: 0.3
+Episode: 3820, total numsteps: 584258, win_percentage: 0.4
+Episode: 3830, total numsteps: 586300, win_percentage: 0.4
+Episode: 3840, total numsteps: 588473, win_percentage: 0.325
+Episode: 3850, total numsteps: 590154, win_percentage: 0.38
+Episode: 3860, total numsteps: 591892, win_percentage: 0.35
+Episode: 3870, total numsteps: 593791, win_percentage: 0.35714285714285715
+Episode: 3880, total numsteps: 595600, win_percentage: 0.3375
+Episode: 3890, total numsteps: 596958, win_percentage: 0.36666666666666664
+Episode: 3900, total numsteps: 598812, win_percentage: 0.34
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(64.23), Avg. Reward: 311.65, win_percentage: 0.7, score: [2, 1, 7], Elo: 52.77
+----------------------------------------
+Episode: 3910, total numsteps: 600082, win_percentage: 0.6
+Episode: 3920, total numsteps: 602045, win_percentage: 0.45
+Episode: 3930, total numsteps: 603704, win_percentage: 0.4666666666666667
+Episode: 3940, total numsteps: 605353, win_percentage: 0.475
+Episode: 3950, total numsteps: 607010, win_percentage: 0.5
+Episode: 3960, total numsteps: 608378, win_percentage: 0.5
+Episode: 3970, total numsteps: 610237, win_percentage: 0.5
+Episode: 3980, total numsteps: 611897, win_percentage: 0.5125
+Episode: 3990, total numsteps: 613133, win_percentage: 0.5222222222222223
+Episode: 4000, total numsteps: 614799, win_percentage: 0.5
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(17.68), Avg. Reward: 89.37, win_percentage: 0.4, score: [2, 4, 4], Elo: 96.17
+----------------------------------------
+Episode: 4010, total numsteps: 616325, win_percentage: 0.7
+Episode: 4020, total numsteps: 617744, win_percentage: 0.55
+Episode: 4030, total numsteps: 619144, win_percentage: 0.43333333333333335
+Episode: 4040, total numsteps: 620745, win_percentage: 0.475
+Episode: 4050, total numsteps: 622028, win_percentage: 0.48
+Episode: 4060, total numsteps: 623078, win_percentage: 0.4
+Episode: 4070, total numsteps: 624349, win_percentage: 0.42857142857142855
+Episode: 4080, total numsteps: 626187, win_percentage: 0.425
+Episode: 4090, total numsteps: 627630, win_percentage: 0.43333333333333335
+Episode: 4100, total numsteps: 628912, win_percentage: 0.47
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(-10.83), Avg. Reward: 73.81, win_percentage: 0.4, score: [6, 0, 4], Elo: 141.35
+----------------------------------------
+Episode: 4110, total numsteps: 630395, win_percentage: 0.6
+Episode: 4120, total numsteps: 631898, win_percentage: 0.6
+Episode: 4130, total numsteps: 633066, win_percentage: 0.6
+Episode: 4140, total numsteps: 634334, win_percentage: 0.575
+Episode: 4150, total numsteps: 636056, win_percentage: 0.54
+Episode: 4160, total numsteps: 637235, win_percentage: 0.5166666666666667
+Episode: 4170, total numsteps: 638804, win_percentage: 0.4857142857142857
+Episode: 4180, total numsteps: 640449, win_percentage: 0.475
+Episode: 4190, total numsteps: 641683, win_percentage: 0.4666666666666667
+Episode: 4200, total numsteps: 643161, win_percentage: 0.46
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(43.54), Avg. Reward: 205.25, win_percentage: 0.3, score: [7, 0, 3], Elo: 63.16
+----------------------------------------
+Episode: 4210, total numsteps: 644533, win_percentage: 0.5
+Episode: 4220, total numsteps: 645899, win_percentage: 0.55
+Episode: 4230, total numsteps: 647884, win_percentage: 0.5
+Episode: 4240, total numsteps: 649536, win_percentage: 0.55
+Episode: 4250, total numsteps: 651623, win_percentage: 0.52
+Episode: 4260, total numsteps: 653024, win_percentage: 0.48333333333333334
+Episode: 4270, total numsteps: 654523, win_percentage: 0.5
+Episode: 4280, total numsteps: 656103, win_percentage: 0.525
+Episode: 4290, total numsteps: 657720, win_percentage: 0.5333333333333333
+Episode: 4300, total numsteps: 659456, win_percentage: 0.53
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(-4.46), Avg. Reward: 195.38, win_percentage: 0.4, score: [2, 4, 4], Elo: 105.47
+----------------------------------------
+Episode: 4310, total numsteps: 660808, win_percentage: 0.5
+Episode: 4320, total numsteps: 662300, win_percentage: 0.45
+Episode: 4330, total numsteps: 663981, win_percentage: 0.4
+Episode: 4340, total numsteps: 665399, win_percentage: 0.4
+Episode: 4350, total numsteps: 666984, win_percentage: 0.38
+Episode: 4360, total numsteps: 668664, win_percentage: 0.38333333333333336
+Episode: 4370, total numsteps: 670365, win_percentage: 0.4142857142857143
+Episode: 4380, total numsteps: 672000, win_percentage: 0.425
+Episode: 4390, total numsteps: 673165, win_percentage: 0.4111111111111111
+Episode: 4400, total numsteps: 674749, win_percentage: 0.42
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(13.74), Avg. Reward: -117.01, win_percentage: 0.3, score: [5, 2, 3], Elo: 63.38
+----------------------------------------
+Episode: 4410, total numsteps: 676618, win_percentage: 0.3
+Episode: 4420, total numsteps: 678052, win_percentage: 0.35
+Episode: 4430, total numsteps: 679964, win_percentage: 0.36666666666666664
+Episode: 4440, total numsteps: 681325, win_percentage: 0.45
+Episode: 4450, total numsteps: 682840, win_percentage: 0.42
+Episode: 4460, total numsteps: 684478, win_percentage: 0.4166666666666667
+Episode: 4470, total numsteps: 686116, win_percentage: 0.4
+Episode: 4480, total numsteps: 687825, win_percentage: 0.3875
+Episode: 4490, total numsteps: 689256, win_percentage: 0.37777777777777777
+Episode: 4500, total numsteps: 690779, win_percentage: 0.4
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(5.27), Avg. Reward: 192.37, win_percentage: 0.5, score: [4, 1, 5], Elo: 92.35
+----------------------------------------
+Episode: 4510, total numsteps: 691889, win_percentage: 0.5
+Episode: 4520, total numsteps: 693063, win_percentage: 0.65
+Episode: 4530, total numsteps: 694102, win_percentage: 0.5333333333333333
+Episode: 4540, total numsteps: 695661, win_percentage: 0.55
+Episode: 4550, total numsteps: 696953, win_percentage: 0.52
+Episode: 4560, total numsteps: 698523, win_percentage: 0.48333333333333334
+Episode: 4570, total numsteps: 700272, win_percentage: 0.45714285714285713
+Episode: 4580, total numsteps: 701806, win_percentage: 0.4125
+Episode: 4590, total numsteps: 703092, win_percentage: 0.43333333333333335
+Episode: 4600, total numsteps: 704744, win_percentage: 0.44
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(7.92), Avg. Reward: 412.78, win_percentage: 0.5, score: [1, 4, 5], Elo: 67.95
+----------------------------------------
+Episode: 4610, total numsteps: 705926, win_percentage: 0.6
+Episode: 4620, total numsteps: 707681, win_percentage: 0.5
+Episode: 4630, total numsteps: 709600, win_percentage: 0.43333333333333335
+Episode: 4640, total numsteps: 711463, win_percentage: 0.45
+Episode: 4650, total numsteps: 713154, win_percentage: 0.48
+Episode: 4660, total numsteps: 714731, win_percentage: 0.5166666666666667
+Episode: 4670, total numsteps: 716725, win_percentage: 0.4714285714285714
+Episode: 4680, total numsteps: 718300, win_percentage: 0.4875
+Episode: 4690, total numsteps: 719866, win_percentage: 0.4888888888888889
+Episode: 4700, total numsteps: 721898, win_percentage: 0.48
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(-16.52), Avg. Reward: 226.77, win_percentage: 0.6, score: [2, 2, 6], Elo: 103.9
+----------------------------------------
+Episode: 4710, total numsteps: 723775, win_percentage: 0.4
+Episode: 4720, total numsteps: 725444, win_percentage: 0.45
+Episode: 4730, total numsteps: 726946, win_percentage: 0.5333333333333333
+Episode: 4740, total numsteps: 728534, win_percentage: 0.55
+Episode: 4750, total numsteps: 730412, win_percentage: 0.52
+Episode: 4760, total numsteps: 732261, win_percentage: 0.5333333333333333
+Episode: 4770, total numsteps: 734111, win_percentage: 0.5142857142857142
+Episode: 4780, total numsteps: 735711, win_percentage: 0.5125
+Episode: 4790, total numsteps: 737289, win_percentage: 0.5222222222222223
+Episode: 4800, total numsteps: 738977, win_percentage: 0.52
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(-16.12), Avg. Reward: 399.25, win_percentage: 0.6, score: [0, 4, 6], Elo: 122.56
+----------------------------------------
+Episode: 4810, total numsteps: 741402, win_percentage: 0.0
+Episode: 4820, total numsteps: 743765, win_percentage: 0.05
+Episode: 4830, total numsteps: 746035, win_percentage: 0.06666666666666667
+Episode: 4840, total numsteps: 748317, win_percentage: 0.075
+Episode: 4850, total numsteps: 750817, win_percentage: 0.06
+Episode: 4860, total numsteps: 753130, win_percentage: 0.06666666666666667
+Episode: 4870, total numsteps: 755487, win_percentage: 0.07142857142857142
+Episode: 4880, total numsteps: 757987, win_percentage: 0.0625
+Episode: 4890, total numsteps: 760487, win_percentage: 0.05555555555555555
+Episode: 4900, total numsteps: 762958, win_percentage: 0.05
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(80.43), Avg. Reward: 444.6, win_percentage: 0.1, score: [2, 7, 1], Elo: 75.67
+----------------------------------------
+Episode: 4910, total numsteps: 764758, win_percentage: 0.4
+Episode: 4920, total numsteps: 767258, win_percentage: 0.2
+Episode: 4930, total numsteps: 769758, win_percentage: 0.13333333333333333
+Episode: 4940, total numsteps: 772258, win_percentage: 0.1
+Episode: 4950, total numsteps: 774485, win_percentage: 0.12
+Episode: 4960, total numsteps: 776430, win_percentage: 0.15
+Episode: 4970, total numsteps: 778879, win_percentage: 0.14285714285714285
+Episode: 4980, total numsteps: 780948, win_percentage: 0.1375
+Episode: 4990, total numsteps: 783448, win_percentage: 0.12222222222222222
+Episode: 5000, total numsteps: 785948, win_percentage: 0.11
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(46.28), Avg. Reward: 501.66, win_percentage: 0.0, score: [0, 10, 0], Elo: 60.07
+----------------------------------------
+Episode: 5010, total numsteps: 788448, win_percentage: 0.0
+Episode: 5020, total numsteps: 790797, win_percentage: 0.05
+Episode: 5030, total numsteps: 792915, win_percentage: 0.1
+Episode: 5040, total numsteps: 795195, win_percentage: 0.125
+Episode: 5050, total numsteps: 797552, win_percentage: 0.1
+Episode: 5060, total numsteps: 800052, win_percentage: 0.08333333333333333
+Episode: 5070, total numsteps: 802155, win_percentage: 0.11428571428571428
+Episode: 5080, total numsteps: 804515, win_percentage: 0.1125
+Episode: 5090, total numsteps: 807015, win_percentage: 0.1
+Episode: 5100, total numsteps: 809515, win_percentage: 0.09
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(29.49), Avg. Reward: 466.18, win_percentage: 0.0, score: [0, 10, 0], Elo: 47.7
+----------------------------------------
+Episode: 5110, total numsteps: 812015, win_percentage: 0.0
+Episode: 5120, total numsteps: 814247, win_percentage: 0.1
+Episode: 5130, total numsteps: 816747, win_percentage: 0.06666666666666667
+Episode: 5140, total numsteps: 819247, win_percentage: 0.05
+Episode: 5150, total numsteps: 821611, win_percentage: 0.06
+Episode: 5160, total numsteps: 824110, win_percentage: 0.06666666666666667
+Episode: 5170, total numsteps: 826447, win_percentage: 0.08571428571428572
+Episode: 5180, total numsteps: 828947, win_percentage: 0.075
+Episode: 5190, total numsteps: 831447, win_percentage: 0.06666666666666667
+Episode: 5200, total numsteps: 833933, win_percentage: 0.07
+save statistics
+save statistics
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(12.45), Avg. Reward: 484.31, win_percentage: 0.3, score: [0, 7, 3], Elo: 44.44
+----------------------------------------
+Episode: 5210, total numsteps: 836433, win_percentage: 0.0
+Episode: 5220, total numsteps: 838933, win_percentage: 0.0
+Episode: 5230, total numsteps: 841390, win_percentage: 0.03333333333333333
+Episode: 5240, total numsteps: 843819, win_percentage: 0.025
+Episode: 5250, total numsteps: 846319, win_percentage: 0.02
+Episode: 5260, total numsteps: 848649, win_percentage: 0.05
+Episode: 5270, total numsteps: 851121, win_percentage: 0.05714285714285714
+Episode: 5280, total numsteps: 853621, win_percentage: 0.05
+Episode: 5290, total numsteps: 855989, win_percentage: 0.05555555555555555
+Episode: 5300, total numsteps: 858431, win_percentage: 0.06
+----------------------------------------
+Test Episodes: 10, Opponent: Self Play(11.25), Avg. Reward: 509.27, win_percentage: 0.1, score: [0, 9, 1], Elo: 49.3
+----------------------------------------
