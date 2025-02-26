@@ -1,16 +1,16 @@
 # fast_and_FOURIERous: Algorithms for Laserhockey Competition (RL Project 24/25)
 
-In the folder final you can find our code for:
-- SAC_pendulum (first attempts on Pendulum environment)
-- SAC_hockey (first attmpts on Hockey environment)
-- SAC-RNN2 (SAC combined with an RNN architecture)
-- QR-SAC5 (extension of SAC)
+In the folder final you can find our final code for:
+- SAC_pendulum (first attempts of SAC on the Pendulum environment)
+- SAC_hockey (first attmpts of SAC on the Hockey environment)
+- SAC-RNN2 (SAC combined with an RNN architecture (hockey environment))
+- QR-SAC5 (extension of SAC (hockey environment))
 - SAC-HER (...)
 - SIMBA (...)
-- testing (examples of how we tested our agents)
+- testing (examples of how we tested and compared our agents)
 
 In the archive folder, you can find older versions of our code. 
-Detailed descriptions will be provided in the respective folders.
+Detailed descriptions of the code will be provided  via a README.md in the respective folders.
 
 Our implementation of SAC (and therefore all of the other algorithms) is based on [this](https://github.com/pranz24/pytorch-soft-actor-critic/tree/master) implementation.
 
