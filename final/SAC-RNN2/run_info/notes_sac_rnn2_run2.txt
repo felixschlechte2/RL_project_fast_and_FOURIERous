@@ -1,7 +1,7 @@
 - SAC mit RNN mit architektur 2
 - SAC vs s unten
 - alle rewards sind angestellt: closenes to puck, touch puck, puck direction
-- lasse es für ? 23 h laufen / ~ 21.000 Epochen / ~ 3.000.000 steps 
+- lasse es für 3 Tage laufen / ~ 62.000 Epochen / ~ 3.000.000 steps 
 - für args siehe sac_rnn2_run2_args.pkl
 - + layer normalization
 - reward * 100
