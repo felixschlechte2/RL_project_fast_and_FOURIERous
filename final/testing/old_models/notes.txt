@@ -7,3 +7,6 @@ qr_sac_run6 = checkpoint_hockey_vs_self_and_sac_strong_all_rew_ep_20000_qr_sac_r
 sac_moe_run2 = checkpoint_hockey_vs_random_all_rew_ep_22000_sac_moe_run2 from folder SAC_MoE
 qr_sac_runx = checkpoint_hockey_vs_4_all_rew_ep_90000_qr_sac_runx from folder QR-SAC5
 sac_rnn = checkpoint_hockey_vs_4_all_rew_ep_62000_sac_rnn2_run2 from folder SAC-RNN2
+sac_her = HER_30000 from SAC-HER
+sac_simba = SimBa_auto_23600 from SAC-SimBa
+sac_her_2 = HER_17400 from SAC-HER
