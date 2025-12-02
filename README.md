@@ -11,6 +11,7 @@ In the folder [final](./final/) you can find our final code for:
 
 More details will be provided via a README.md in the respective folders.
 In the [archive](./archive/) folder, you can find older versions of our code. 
+Last but not least, [fast_andFOURIERous_report.pdf](./fast_andFOURIERous_report.pdf) is our final report about our methods. 
 
 Our implementation of SAC (and therefore all of the other algorithms) is based on [this](https://github.com/pranz24/pytorch-soft-actor-critic/tree/master) implementation.
 
